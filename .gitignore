@@ -1,0 +1,6 @@
+.geo-libs/
+__pycache__/
+.DS_Store
+actual-data/tiles/
+actual-data/pmtiles/
+*.zip
