@@ -1,0 +1,12 @@
+{
+  "source": "Reimagine the Cross Bronx Final Vision, Figure 4.20",
+  "image_size": [2653, 860],
+  "method": "Approximate affine location index from three visually matched road/river crossings. Not an engineering georeference; accuracy has not been independently surveyed.",
+  "control_points": [
+    {"label":"Boston Road / Cross Bronx crossing","study_pixel":[370,88],"figure_pixel":[1447,429]},
+    {"label":"Cross Bronx / Bronx River crossing","study_pixel":[672,261],"figure_pixel":[1538,489]},
+    {"label":"E 174 Street Bridge / Bronx River crossing","study_pixel":[613,426],"figure_pixel":[1522,564]}
+  ],
+  "focus_polygon": [[1500.87,446.83],[1604.54,428.90],[1607.18,557.59],[1503.51,575.52]],
+  "aerial_polygon": [[1336.62,409.56],[1692.06,348.10],[1699.96,733.29],[1344.52,794.75]]
+}

@@ -52,6 +52,8 @@ for c in cases:
  c.update(svg=svg,counts=counts,aerial=asset(Path('actual-data')/(k+'_historic.png')),current=asset(Path('actual-data')/(k+'_linework.png'),2400),recent=asset(Path('actual-data')/(k+'_2024.png')) if k!='nihonbashi' else None,official_img=asset(Path('actual-data')/c['official'],2400) if c['official'] else None,ratio=w/h,width=areas[k]['size_m'][0],common=common)
 from focus_plans import augment
 augment(cases,areas,traces,asset)
+from official_locator import add_locator
+add_locator(cases)
 template=(ROOT/'site-template.html').read_text()
 data=json.dumps(cases,ensure_ascii=False).replace('</','<\\/')
 page=template.replace('__CASE_DATA__',data)
