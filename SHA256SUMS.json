@@ -1,5 +1,5 @@
 {
-  "PROJECT_INSTRUCTIONS.md": "4097404ae667cf166406561155e9b4828de8b98e20526114e0c52ff2114b8c1c",
+  "PROJECT_INSTRUCTIONS.md": "ad53f62f202dedf2cdadb25d91b27236ba11732ec326e402f479a8207b73626a",
   "COMMANDS.md": "d7f6a9e6d96ebfba5b2234ccc0cb6f27c6d2beb75fdc048138ba5d6323efc01f",
   "requirements.txt": "b4c099d695a1657b31c537a918106350d53c448e788a4900318c7bb1ee54a809",
   ".gitignore": "077bb02bc91dd8bed8abae35861f5ba47ada75ea16a6ed31208b33e84eacfe67",
@@ -46,7 +46,15 @@
   "official_locator.py": "1e07b235a22bdc94ef8419831f6c97dbe163b61aed0d87cf4f18a2a7dcecd50e",
   "historical/crossbronx-official-locator.json": "827a8cfc2ce2e7e5a939fd368f52c14c55ef62a4bd52e8f6aa064fdccab1437e",
   "historical/crossbronx_official_locator.svg": "c26f7a79783bb2acde8c08a0e6fa5cd9b193a4f512301e7389431ac69e019c28",
-  "URBAN_THEORY_READING.md": "7c9952b3a5b1c58763360d48f0e71283bc4936dafe9adda3f4f3f8795e78c548",
+  "URBAN_THEORY_READING.md": "558c7c99229b6714f03de79d7627eb3f1d221db36f8145002958b3e14f79290b",
   "reading-notes/GEHL_LIFE_BETWEEN_BUILDINGS.md": "4438030c21a9a8a091e1f5d93104e74140f7485cd12de69aab7272bee45b130e",
-  "reading-notes/DERRIDA_ARCHIVE_FEVER.md": "16b104174dd469c2c534e98d22af0a6d215fce2dc6f3db735d9b1de0169850c0"
+  "reading-notes/DERRIDA_ARCHIVE_FEVER.md": "16b104174dd469c2c534e98d22af0a6d215fce2dc6f3db735d9b1de0169850c0",
+  "taipei-site-analysis/PRELIMINARY_ANALYSIS.md": "51edb047fd47530dbf2fcd107241df3b413211a5c3dfdb8f1aceca33cb690793",
+  "taipei-site-analysis/source/README.md": "53c5ab88a7d9b1e10791df5d498ffdae49c90c20a0bde586fdd56bd7018b3622",
+  "taipei-site-analysis/source/data_sources.md": "e59c1a54583272896f558a5e9df3537a42d974167d4f9c5bc720dc7bf0de4134",
+  "taipei-site-analysis/source/src/build_heatmap.py": "8d85aff88ec29d80604d843c32e4b584fb65a05b82161aaa89b55b1d40aa866c",
+  "taipei-site-analysis/source/src/config.py": "cf2c749aa26b656148205bfd401ae702b70a95c01d2af2a875f3d9a79a0521e3",
+  "taipei-site-analysis/source/src/fetch_mrt_hourly.py": "4f54832be0fe0a195730d33a3cdaf86f39f0a84ff4dc55cbee2665fc15a0e0cc",
+  "taipei-site-analysis/source/src/poll_youbike.py": "5119e1b126e67fba4a988f35042a88143d69e3efefd3f3839a866eb64441f4b6",
+  "taipei-site-analysis/source/src/stations.py": "51d646cb43323a354b74ddf5bc1b1bb3a36e660314f38a4671295980a6be3574"
 }
