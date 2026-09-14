@@ -1,5 +1,5 @@
 {
-  "PROJECT_INSTRUCTIONS.md": "c0cf6363959527757fb8a066d01685782052935974b01ef7f6fc88b5e100dc3c",
+  "PROJECT_INSTRUCTIONS.md": "4fa7f6844f2c6f457dcf44647473aee1e3804ad180ead242c26731b561d50d17",
   "COMMANDS.md": "d7f6a9e6d96ebfba5b2234ccc0cb6f27c6d2beb75fdc048138ba5d6323efc01f",
   "requirements.txt": "b4c099d695a1657b31c537a918106350d53c448e788a4900318c7bb1ee54a809",
   ".gitignore": "077bb02bc91dd8bed8abae35861f5ba47ada75ea16a6ed31208b33e84eacfe67",
@@ -70,12 +70,14 @@
   "taipei-site-analysis/maps/osm-source.json.gz": "16bab20f78af84b2f9834329e030e98f976bc2dd4a5b9701495311698e973701",
   "taipei-site-analysis/maps/activity-map.svg": "adb3a8c84ead669895a1f92e9141c721085280b10b2df802cd8c74e06284d303",
   "taipei-site-analysis/maps/activity-map.html": "e5cddc5f97f9fd4c970daac64e7ddf171de290df9337977cffbf946445d049c9",
-  "taipei-site-analysis/maps/README.md": "6efc554929a0a9d284f391f4fae6f3d559df43edb9f352a394cc57a32de18186",
+  "taipei-site-analysis/maps/README.md": "9ef3a94b1a024db39dcd2390e6e3fea2c80f5e5e7a81b6f96f34df7a2a611124",
   "taipei-site-analysis/maps/build_activity_map.py": "44c4dbced8d4dc97cd93eeb8d36fddad211e37c6bd65dbb82c2a7d6d5eea14be",
   "output/pdf/taipei-activity-map-a3.pdf": "7a8eab404e55836e69fda3b3bfb4a85303bcb99240439eab94ef8e64acb86a80",
   "taipei-site-analysis/maps/road-width-source.json": "8c68dfb1ebca60ed3f11dece00add95873c14a494954a04246eafc263f6219ab",
   "taipei-site-analysis/maps/block-selection.json": "1b1852804f0accdf7516ef4b826dfe8667ace6dc6d9a21ce2edf631d9c65e3e8",
   "taipei-site-analysis/maps/road-width-matches.json": "e8816f52e71ca31e7f609fda6ea02799d19698c558e9938a5d2431ad2831bf1e",
   "taipei-site-analysis/maps/REFERENCE_TECHNIQUES.md": "518157f576ea1fccbe6e91cb54e8834c44a696012ae8b73b53f9c8e579b65c6d",
-  "taipei-site-analysis/maps/official-road-widths.json": "c654c4fe7b316c895d014a0d528f8651275cb898efa06f1aa85ce27c8273c978"
+  "taipei-site-analysis/maps/official-road-widths.json": "c654c4fe7b316c895d014a0d528f8651275cb898efa06f1aa85ce27c8273c978",
+  "taipei-site-analysis/maps/export_vector.py": "6fd5d0c0ae41ec22e465d048694d567a8e436c35e3d2c808f9bff491be35ef89",
+  "taipei-site-analysis/maps/activity-map-vector.svg": "939a97e4b96321cd4d95b7098c0da546e42006ec41d0526182d9933631dc400c"
 }

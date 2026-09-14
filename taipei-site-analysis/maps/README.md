@@ -34,3 +34,7 @@
 - 重製：Python需Pillow、numpy、reportlab。執行 build_activity_map.py；macOS字型用STHeiti Medium，可換可用繁中字型。所有必需來源已保存，不需再次查網路。
 
 參考圖的製圖技巧與套用方式見 [REFERENCE_TECHNIQUES.md](REFERENCE_TECHNIQUES.md)。調整配色後重新檢查A3尺寸、雙側線、高架層序及無點位標記。
+
+## 純向量版本
+
+activity-map-vector.svg 不含內嵌點陣影像；文字可編輯，建築與圖塊保留向量。道路側線以合併像素長條轉為複合向量路徑，承襲原推算圖的0.625m格網解析度，不等同新增實測精度；道路包含較多節點。重製執行 export_vector.py（從專案根目錄）。
