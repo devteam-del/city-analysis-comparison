@@ -1,0 +1,138 @@
+{
+  "crs": "EPSG:4326",
+  "nodes": [
+    {
+      "id": "N1",
+      "name": "中興院區",
+      "lon": 121.5091639,
+      "lat": 25.051213150000002,
+      "offset": [
+        -175,
+        -60
+      ],
+      "source": "way/201280863",
+      "side": "north"
+    },
+    {
+      "id": "N2",
+      "name": "後站批發",
+      "lon": 121.5120133,
+      "lat": 25.0499834,
+      "offset": [
+        -170,
+        -66
+      ],
+      "source": "node/662315084",
+      "side": "north"
+    },
+    {
+      "id": "N3",
+      "name": "華陰／太原",
+      "lon": 121.5151862,
+      "lat": 25.0502853,
+      "offset": [
+        -140,
+        -54
+      ],
+      "source": "node/3145249104",
+      "side": "north"
+    },
+    {
+      "id": "N4",
+      "name": "京站／轉運站",
+      "lon": 121.51752385,
+      "lat": 25.04924135,
+      "offset": [
+        50,
+        -80
+      ],
+      "source": "way/605982572",
+      "side": "north"
+    },
+    {
+      "id": "N5",
+      "name": "長安街口",
+      "lon": 121.5154408,
+      "lat": 25.0512603,
+      "offset": [
+        20,
+        -75
+      ],
+      "source": "node/32615831",
+      "side": "north"
+    },
+    {
+      "id": "S1a",
+      "name": "北門站",
+      "lon": 121.5103289,
+      "lat": 25.0493991,
+      "offset": [
+        -205,
+        25
+      ],
+      "source": "node/3263840809",
+      "side": "south"
+    },
+    {
+      "id": "S1b",
+      "name": "鐵道部",
+      "lon": 121.51102854999999,
+      "lat": 25.049138999999997,
+      "offset": [
+        -130,
+        75
+      ],
+      "source": "way/277518268",
+      "side": "south"
+    },
+    {
+      "id": "S2",
+      "name": "機捷 A1",
+      "lon": 121.5143449,
+      "lat": 25.0487037,
+      "offset": [
+        -20,
+        95
+      ],
+      "source": "node/4653351592",
+      "side": "south"
+    },
+    {
+      "id": "S3",
+      "name": "北車北側",
+      "lon": 121.51711424999999,
+      "lat": 25.0484111,
+      "offset": [
+        110,
+        45
+      ],
+      "source": "way/23641610 north envelope midpoint",
+      "side": "south"
+    },
+    {
+      "id": "S4",
+      "name": "北門郵局",
+      "lon": 121.5114535,
+      "lat": 25.0473049,
+      "offset": [
+        -210,
+        45
+      ],
+      "source": "node/2619922124",
+      "side": "south"
+    },
+    {
+      "id": "S5",
+      "name": "南陽／許昌",
+      "lon": 121.5161186,
+      "lat": 25.0455127,
+      "offset": [
+        40,
+        35
+      ],
+      "source": "node/1223757613",
+      "side": "south"
+    }
+  ],
+  "classification": "candidate sites; not measured flows or exact entrances"
+}
