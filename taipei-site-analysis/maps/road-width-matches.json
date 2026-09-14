@@ -1,0 +1,2109 @@
+[
+  {
+    "osm_way": 4860359,
+    "official_id": 27201,
+    "width_input": 10,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 4947947,
+    "official_id": 17692,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 5117999,
+    "official_id": 22815,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 6183255,
+    "official_id": 16131,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 6183295,
+    "official_id": 24611,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 22764010,
+    "official_id": 27360,
+    "width_input": 18,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 22764012,
+    "official_id": 27353,
+    "width_input": 18,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 23416666,
+    "official_id": 34560,
+    "width_input": 18,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 23416667,
+    "official_id": 34558,
+    "width_input": 18,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 25715402,
+    "official_id": 24941,
+    "width_input": 16,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 26697214,
+    "official_id": 18177,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 26697219,
+    "official_id": 18182,
+    "width_input": 12,
+    "MDATE": "201308",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 29044036,
+    "official_id": 35351,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 30620517,
+    "official_id": 35354,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 31051190,
+    "official_id": 22002,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 33090413,
+    "official_id": 38115,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 33679537,
+    "official_id": 40025,
+    "width_input": 12,
+    "MDATE": "201712",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 33679741,
+    "official_id": 39106,
+    "width_input": 8,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 33679832,
+    "official_id": 17679,
+    "width_input": 12,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 40606341,
+    "official_id": 17659,
+    "width_input": 12,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 48776353,
+    "official_id": 33677,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 49184199,
+    "official_id": 25448,
+    "width_input": 22,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 50893538,
+    "official_id": 27251,
+    "width_input": 26,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 51392778,
+    "official_id": 22823,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 51392802,
+    "official_id": 22022,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 51423114,
+    "official_id": 15861,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 51885098,
+    "official_id": 21183,
+    "width_input": 5,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 51911170,
+    "official_id": 25443,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 51919202,
+    "official_id": 40909,
+    "width_input": 8,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 51919203,
+    "official_id": 40533,
+    "width_input": 8,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 51919204,
+    "official_id": 40909,
+    "width_input": 8,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 51919208,
+    "official_id": 41701,
+    "width_input": 12,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 51919209,
+    "official_id": 40533,
+    "width_input": 8,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 51919245,
+    "official_id": 39907,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 51919251,
+    "official_id": 40526,
+    "width_input": 18,
+    "MDATE": "201602",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 52242861,
+    "official_id": 15862,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 52513624,
+    "official_id": 38155,
+    "width_input": 20,
+    "MDATE": "201308",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 52513625,
+    "official_id": 38135,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 52513626,
+    "official_id": 26641,
+    "width_input": 4,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 56723599,
+    "official_id": 38114,
+    "width_input": 14,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 60720749,
+    "official_id": 32919,
+    "width_input": 14,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 60730600,
+    "official_id": 24185,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 60730601,
+    "official_id": 20644,
+    "width_input": 14,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 60730602,
+    "official_id": 20619,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 60730604,
+    "official_id": 31241,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 60730648,
+    "official_id": 20614,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 60787457,
+    "official_id": 22989,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 60793231,
+    "official_id": 21051,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 60793404,
+    "official_id": 32896,
+    "width_input": 8,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 82387304,
+    "official_id": 18787,
+    "width_input": 12,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 82392154,
+    "official_id": 26072,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 98562079,
+    "official_id": 15861,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 98562080,
+    "official_id": 15860,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 106335676,
+    "official_id": 28242,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 106335678,
+    "official_id": 25044,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 160307902,
+    "official_id": 39209,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 179000190,
+    "official_id": 35090,
+    "width_input": 20,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 189615568,
+    "official_id": 40155,
+    "width_input": 22,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 189615569,
+    "official_id": 20613,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 189615571,
+    "official_id": 38822,
+    "width_input": 28,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 189615572,
+    "official_id": 34804,
+    "width_input": 8,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 192888505,
+    "official_id": 15979,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 192888508,
+    "official_id": 15979,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 197662926,
+    "official_id": 40027,
+    "width_input": 10,
+    "MDATE": "201712",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 198414876,
+    "official_id": 17639,
+    "width_input": 20,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 198874289,
+    "official_id": 35235,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 198874292,
+    "official_id": 15982,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 199239731,
+    "official_id": 25448,
+    "width_input": 22,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 199239734,
+    "official_id": 27211,
+    "width_input": 10,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 199239736,
+    "official_id": 22817,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 199239737,
+    "official_id": 27251,
+    "width_input": 26,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 199239738,
+    "official_id": 22863,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 199239741,
+    "official_id": 25446,
+    "width_input": 20,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 199980015,
+    "official_id": 25436,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 199980018,
+    "official_id": 25445,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 201280842,
+    "official_id": 31098,
+    "width_input": 10,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 204616540,
+    "official_id": 22809,
+    "width_input": 12,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 205578319,
+    "official_id": 18177,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 217690233,
+    "official_id": 38760,
+    "width_input": 18,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 226831239,
+    "official_id": 38822,
+    "width_input": 28,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 229842826,
+    "official_id": 40921,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 229844765,
+    "official_id": 16128,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 229885639,
+    "official_id": 40935,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 229885650,
+    "official_id": 16133,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 229885651,
+    "official_id": 21476,
+    "width_input": 5,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 229885657,
+    "official_id": 38106,
+    "width_input": 6,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 232326522,
+    "official_id": 39216,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 238208422,
+    "official_id": 17636,
+    "width_input": 20,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 238208424,
+    "official_id": 35093,
+    "width_input": 20,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 238208425,
+    "official_id": 31238,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 238208426,
+    "official_id": 34558,
+    "width_input": 18,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 238211714,
+    "official_id": 27358,
+    "width_input": 18,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 238699263,
+    "official_id": 28426,
+    "width_input": 14,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 238699268,
+    "official_id": 32914,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 238699269,
+    "official_id": 36337,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 238699273,
+    "official_id": 27354,
+    "width_input": 18,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 241518672,
+    "official_id": 36302,
+    "width_input": 10,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 241518682,
+    "official_id": 36308,
+    "width_input": 24,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 243317510,
+    "official_id": 39905,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 243317514,
+    "official_id": 15863,
+    "width_input": 30,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 243906113,
+    "official_id": 27210,
+    "width_input": 10,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 243906114,
+    "official_id": 25432,
+    "width_input": 5,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 244450327,
+    "official_id": 40019,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 244450426,
+    "official_id": 31314,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 244450450,
+    "official_id": 40315,
+    "width_input": 8,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 244450453,
+    "official_id": 41374,
+    "width_input": 8,
+    "MDATE": "201308",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 244450456,
+    "official_id": 33680,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 244450458,
+    "official_id": 39271,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 244450462,
+    "official_id": 40235,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 244450487,
+    "official_id": 40534,
+    "width_input": 16,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 244450490,
+    "official_id": 40254,
+    "width_input": 12,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 244450535,
+    "official_id": 40317,
+    "width_input": 10,
+    "MDATE": "201712",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 244450545,
+    "official_id": 31248,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 244456574,
+    "official_id": 16132,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 244456578,
+    "official_id": 15860,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 256263215,
+    "official_id": 19326,
+    "width_input": 16,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 259084322,
+    "official_id": 31210,
+    "width_input": 4,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 261209292,
+    "official_id": 25437,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 263225305,
+    "official_id": 40317,
+    "width_input": 10,
+    "MDATE": "201712",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 264399255,
+    "official_id": 40316,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 264399459,
+    "official_id": 40905,
+    "width_input": 18,
+    "MDATE": "201602",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 264550937,
+    "official_id": 15867,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 264550938,
+    "official_id": 15861,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 264551742,
+    "official_id": 40242,
+    "width_input": 6,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 264551743,
+    "official_id": 39885,
+    "width_input": 6,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 264994983,
+    "official_id": 38402,
+    "width_input": 12,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 264995112,
+    "official_id": 39966,
+    "width_input": 14,
+    "MDATE": "201602",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 269505242,
+    "official_id": 17671,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 269505244,
+    "official_id": 17671,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 269505245,
+    "official_id": 38403,
+    "width_input": 24,
+    "MDATE": "202012",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 269789536,
+    "official_id": 24942,
+    "width_input": 16,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 269789739,
+    "official_id": 34720,
+    "width_input": 20,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 270439718,
+    "official_id": 15861,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 270765870,
+    "official_id": 17671,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 274809896,
+    "official_id": 16129,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 274809897,
+    "official_id": 28419,
+    "width_input": 14,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 279397396,
+    "official_id": 24180,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 287316010,
+    "official_id": 31312,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 287316011,
+    "official_id": 41678,
+    "width_input": 12,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 287316013,
+    "official_id": 24618,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 287316014,
+    "official_id": 24616,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 287327325,
+    "official_id": 40024,
+    "width_input": 12,
+    "MDATE": "201308",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 287327326,
+    "official_id": 38154,
+    "width_input": 10,
+    "MDATE": "201308",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 287327327,
+    "official_id": 40918,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 287327328,
+    "official_id": 40918,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 288878925,
+    "official_id": 38891,
+    "width_input": 10,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 288878936,
+    "official_id": 40526,
+    "width_input": 18,
+    "MDATE": "201602",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 288878938,
+    "official_id": 41377,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 289004416,
+    "official_id": 15979,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 289004429,
+    "official_id": 15872,
+    "width_input": 10,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 289246481,
+    "official_id": 25446,
+    "width_input": 20,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 289246486,
+    "official_id": 22845,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 298630661,
+    "official_id": 27212,
+    "width_input": 24,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 303413198,
+    "official_id": 15855,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 303647011,
+    "official_id": 40160,
+    "width_input": 6,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 310620429,
+    "official_id": 38115,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 310677986,
+    "official_id": 40155,
+    "width_input": 22,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 318254709,
+    "official_id": 38106,
+    "width_input": 6,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 318254711,
+    "official_id": 15979,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 323090022,
+    "official_id": 38401,
+    "width_input": 6,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 324482434,
+    "official_id": 39209,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 325213923,
+    "official_id": 38114,
+    "width_input": 14,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 325213924,
+    "official_id": 16130,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 329022966,
+    "official_id": 27207,
+    "width_input": 10,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 329022967,
+    "official_id": 40561,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 330745380,
+    "official_id": 16131,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 330745422,
+    "official_id": 24942,
+    "width_input": 16,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 330804415,
+    "official_id": 17632,
+    "width_input": 18,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 333293958,
+    "official_id": 42263,
+    "width_input": 10,
+    "MDATE": "201308",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 333293969,
+    "official_id": 22995,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 333293970,
+    "official_id": 39209,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 333293971,
+    "official_id": 32920,
+    "width_input": 14,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 334849016,
+    "official_id": 34803,
+    "width_input": 8,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 334849017,
+    "official_id": 34807,
+    "width_input": 12,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 334849018,
+    "official_id": 20610,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 334849019,
+    "official_id": 24613,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 334852287,
+    "official_id": 40020,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 334852289,
+    "official_id": 38155,
+    "width_input": 20,
+    "MDATE": "201308",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 334852291,
+    "official_id": 40533,
+    "width_input": 8,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 334852293,
+    "official_id": 39210,
+    "width_input": 14,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 334852294,
+    "official_id": 34809,
+    "width_input": 18,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 334852296,
+    "official_id": 20640,
+    "width_input": 14,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 335584584,
+    "official_id": 38113,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 335584585,
+    "official_id": 15855,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 336182109,
+    "official_id": 22308,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 336182122,
+    "official_id": 18174,
+    "width_input": 6,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 336634148,
+    "official_id": 39893,
+    "width_input": 6,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 336634149,
+    "official_id": 40242,
+    "width_input": 6,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 336634150,
+    "official_id": 15860,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 336634151,
+    "official_id": 37919,
+    "width_input": 30,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 337923158,
+    "official_id": 27441,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 338922082,
+    "official_id": 40530,
+    "width_input": 26,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 338922085,
+    "official_id": 39272,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 355791336,
+    "official_id": 36306,
+    "width_input": 24,
+    "MDATE": "201712",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 360851263,
+    "official_id": 40240,
+    "width_input": 6,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 361762999,
+    "official_id": 35346,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 367214988,
+    "official_id": 15854,
+    "width_input": 6,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 367214998,
+    "official_id": 40254,
+    "width_input": 12,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 367245164,
+    "official_id": 15860,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 368445545,
+    "official_id": 19606,
+    "width_input": 8,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 368726980,
+    "official_id": 22117,
+    "width_input": 6,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 374960467,
+    "official_id": 36305,
+    "width_input": 10,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 374960470,
+    "official_id": 36302,
+    "width_input": 10,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 374960475,
+    "official_id": 39115,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 382808015,
+    "official_id": 25433,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 384694135,
+    "official_id": 39892,
+    "width_input": 6,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 384694138,
+    "official_id": 40314,
+    "width_input": 8,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 407202550,
+    "official_id": 25449,
+    "width_input": 22,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 407202553,
+    "official_id": 17690,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 407202572,
+    "official_id": 24621,
+    "width_input": 14,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 407513573,
+    "official_id": 24667,
+    "width_input": 18,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 414194146,
+    "official_id": 39316,
+    "width_input": 14,
+    "MDATE": "202401",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 422137861,
+    "official_id": 35233,
+    "width_input": 5,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 441378955,
+    "official_id": 17656,
+    "width_input": 12,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 449290529,
+    "official_id": 39269,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 449290530,
+    "official_id": 20622,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 449290531,
+    "official_id": 20622,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 449290532,
+    "official_id": 33679,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 455330014,
+    "official_id": 40313,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 455330015,
+    "official_id": 40318,
+    "width_input": 8,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 455330016,
+    "official_id": 38658,
+    "width_input": 10,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 462808824,
+    "official_id": 38658,
+    "width_input": 10,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 462808827,
+    "official_id": 38402,
+    "width_input": 12,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 462935591,
+    "official_id": 31208,
+    "width_input": 4,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 491638036,
+    "official_id": 38877,
+    "width_input": 10,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 495522333,
+    "official_id": 39966,
+    "width_input": 14,
+    "MDATE": "201602",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 501772320,
+    "official_id": 40319,
+    "width_input": 10,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 501772321,
+    "official_id": 39608,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 506322836,
+    "official_id": 15979,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 506322837,
+    "official_id": 15981,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 506351786,
+    "official_id": 38821,
+    "width_input": 22,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 509695170,
+    "official_id": 22133,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515156287,
+    "official_id": 39887,
+    "width_input": 6,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515156291,
+    "official_id": 38760,
+    "width_input": 18,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515156296,
+    "official_id": 39891,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515156298,
+    "official_id": 39886,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515156299,
+    "official_id": 40242,
+    "width_input": 6,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515156300,
+    "official_id": 38109,
+    "width_input": 6,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515156302,
+    "official_id": 39885,
+    "width_input": 6,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515156304,
+    "official_id": 40158,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515156305,
+    "official_id": 41380,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515156306,
+    "official_id": 39893,
+    "width_input": 6,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515156308,
+    "official_id": 38401,
+    "width_input": 6,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515156313,
+    "official_id": 15869,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515156314,
+    "official_id": 38400,
+    "width_input": 6,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515156319,
+    "official_id": 15980,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515166731,
+    "official_id": 24941,
+    "width_input": 16,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515166734,
+    "official_id": 16127,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515166736,
+    "official_id": 34720,
+    "width_input": 20,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515166738,
+    "official_id": 16130,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515166739,
+    "official_id": 34720,
+    "width_input": 20,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 515166747,
+    "official_id": 16128,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 557913218,
+    "official_id": 41381,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 563927216,
+    "official_id": 38719,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 665599322,
+    "official_id": 15979,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 668070773,
+    "official_id": 41375,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 668070789,
+    "official_id": 40313,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 783791336,
+    "official_id": 26074,
+    "width_input": 12,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 822920808,
+    "official_id": 40235,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 822920809,
+    "official_id": 40235,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 822920810,
+    "official_id": 40909,
+    "width_input": 8,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 822920811,
+    "official_id": 40930,
+    "width_input": 16,
+    "MDATE": "201308",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 888902273,
+    "official_id": 34807,
+    "width_input": 12,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 888902274,
+    "official_id": 39313,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 888902278,
+    "official_id": 39313,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 904425963,
+    "official_id": 38674,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 904425964,
+    "official_id": 24623,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 904425965,
+    "official_id": 22823,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 904425966,
+    "official_id": 25451,
+    "width_input": 26,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 906806094,
+    "official_id": 24624,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 906806095,
+    "official_id": 22811,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 906806098,
+    "official_id": 40534,
+    "width_input": 16,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 906806101,
+    "official_id": 41372,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 909274085,
+    "official_id": 38687,
+    "width_input": 12,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1005508437,
+    "official_id": 25451,
+    "width_input": 26,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1005508440,
+    "official_id": 25451,
+    "width_input": 26,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1012478862,
+    "official_id": 24626,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1065839812,
+    "official_id": 42458,
+    "width_input": 26,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1066050215,
+    "official_id": 25445,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1273622085,
+    "official_id": 34558,
+    "width_input": 18,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1274537683,
+    "official_id": 17654,
+    "width_input": 12,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1274537823,
+    "official_id": 27031,
+    "width_input": 8,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1288670281,
+    "official_id": 40246,
+    "width_input": 26,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1317071635,
+    "official_id": 40235,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1317072846,
+    "official_id": 25449,
+    "width_input": 22,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1317072847,
+    "official_id": 17685,
+    "width_input": 12,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1329105636,
+    "official_id": 36274,
+    "width_input": 16,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1358006742,
+    "official_id": 35092,
+    "width_input": 20,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1416292808,
+    "official_id": 39913,
+    "width_input": 10,
+    "MDATE": "201308",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1416292809,
+    "official_id": 38658,
+    "width_input": 10,
+    "MDATE": "202101",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1416292812,
+    "official_id": 38153,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1416292813,
+    "official_id": 40324,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1416292814,
+    "official_id": 38152,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1420922746,
+    "official_id": 15867,
+    "width_input": 8,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1430852641,
+    "official_id": 38155,
+    "width_input": 20,
+    "MDATE": "201308",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1433559700,
+    "official_id": 41375,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1433559701,
+    "official_id": 41375,
+    "width_input": 10,
+    "MDATE": "201111",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1458140787,
+    "official_id": 38151,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1458140788,
+    "official_id": 39209,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1509689684,
+    "official_id": 38152,
+    "width_input": 10,
+    "MDATE": "201003",
+    "method": "symmetric offset; not verified curb"
+  },
+  {
+    "osm_way": 1530962514,
+    "official_id": 28418,
+    "width_input": 14,
+    "MDATE": "201006",
+    "method": "symmetric offset; not verified curb"
+  }
+]

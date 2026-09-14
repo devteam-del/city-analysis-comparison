@@ -1,5 +1,5 @@
 {
-  "PROJECT_INSTRUCTIONS.md": "23aee53da46981999dbbe48fa08035d6776cb620b5ff622980e0e22e620cfe88",
+  "PROJECT_INSTRUCTIONS.md": "c0cf6363959527757fb8a066d01685782052935974b01ef7f6fc88b5e100dc3c",
   "COMMANDS.md": "d7f6a9e6d96ebfba5b2234ccc0cb6f27c6d2beb75fdc048138ba5d6323efc01f",
   "requirements.txt": "b4c099d695a1657b31c537a918106350d53c448e788a4900318c7bb1ee54a809",
   ".gitignore": "077bb02bc91dd8bed8abae35861f5ba47ada75ea16a6ed31208b33e84eacfe67",
@@ -66,11 +66,16 @@
   "taipei-site-analysis/data/P017-pedestrians-20250625.csv": "da7403a8a481bc3e69803a07097b1ba04174d6374e8fb140afeb8395d9786ff8",
   "taipei-site-analysis/ACTIVITY_NODES.md": "8c578d0972b7879cbf0b9a4f4519c09b179e720134e85c068e650adc8aa0f431",
   "taipei-site-analysis/maps/activity-nodes.json": "e2392be185170643f05572420e76dab7ce0d3726955447dcc8c88750c65d47a0",
-  "taipei-site-analysis/maps/activity-map.png": "c7d2d2f84fa76a9cde4a53eaee126b8040f92f907dc81888b70fd0d8099dfaba",
+  "taipei-site-analysis/maps/activity-map.png": "486ddf36040351555e5eac5f15989d3db96fb2fca0d9df07b90074339e52218d",
   "taipei-site-analysis/maps/osm-source.json.gz": "16bab20f78af84b2f9834329e030e98f976bc2dd4a5b9701495311698e973701",
-  "taipei-site-analysis/maps/activity-map.svg": "e58bd510e7690f43c42d4e543e731eedc28fafd09042d76f963dfb3013cb09dd",
-  "taipei-site-analysis/maps/activity-map.html": "d8dc58b8335deb067e9dc944120fa0adac435beca79296625abdd75259a6f8c8",
-  "taipei-site-analysis/maps/README.md": "4a2c3d2b2694c0c9ae63c855345c91eccdc0e2540a095fbb0b0bf7ff5fb6e930",
-  "taipei-site-analysis/maps/build_activity_map.py": "e0ae7c86c62552e3fdbb24149d0d6654c641b7a0c27c8ab9fd326f66f638dc24",
-  "output/pdf/taipei-activity-map-a3.pdf": "54d2c02dce5522b74fff8a532f63c825832abbf0b64d07d44bf5ba09e7262780"
+  "taipei-site-analysis/maps/activity-map.svg": "adb3a8c84ead669895a1f92e9141c721085280b10b2df802cd8c74e06284d303",
+  "taipei-site-analysis/maps/activity-map.html": "e5cddc5f97f9fd4c970daac64e7ddf171de290df9337977cffbf946445d049c9",
+  "taipei-site-analysis/maps/README.md": "6efc554929a0a9d284f391f4fae6f3d559df43edb9f352a394cc57a32de18186",
+  "taipei-site-analysis/maps/build_activity_map.py": "44c4dbced8d4dc97cd93eeb8d36fddad211e37c6bd65dbb82c2a7d6d5eea14be",
+  "output/pdf/taipei-activity-map-a3.pdf": "7a8eab404e55836e69fda3b3bfb4a85303bcb99240439eab94ef8e64acb86a80",
+  "taipei-site-analysis/maps/road-width-source.json": "8c68dfb1ebca60ed3f11dece00add95873c14a494954a04246eafc263f6219ab",
+  "taipei-site-analysis/maps/block-selection.json": "1b1852804f0accdf7516ef4b826dfe8667ace6dc6d9a21ce2edf631d9c65e3e8",
+  "taipei-site-analysis/maps/road-width-matches.json": "e8816f52e71ca31e7f609fda6ea02799d19698c558e9938a5d2431ad2831bf1e",
+  "taipei-site-analysis/maps/REFERENCE_TECHNIQUES.md": "518157f576ea1fccbe6e91cb54e8834c44a696012ae8b73b53f9c8e579b65c6d",
+  "taipei-site-analysis/maps/official-road-widths.json": "c654c4fe7b316c895d014a0d528f8651275cb898efa06f1aa85ce27c8273c978"
 }

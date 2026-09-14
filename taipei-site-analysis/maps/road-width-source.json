@@ -1,0 +1,15 @@
+{
+  "retrieved": "2026-09-14",
+  "url": "https://arcgis.tpgos.gov.taipei/arcgis/rest/services/CA/CIVILMAP_V3/MapServer/3/query",
+  "parameters": {
+    "f": "json",
+    "geometry": "121.503,25.043,121.524,25.055",
+    "geometryType": "esriGeometryEnvelope",
+    "inSR": 4326,
+    "outSR": 3826,
+    "outFields": "*",
+    "returnGeometry": true
+  },
+  "sha256": "c654c4fe7b316c895d014a0d528f8651275cb898efa06f1aa85ce27c8273c978",
+  "status": "width-offset reconstruction only; WIDTH interpreted as metres pending schema confirmation"
+}
