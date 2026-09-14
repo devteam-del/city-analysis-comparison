@@ -1,0 +1,110 @@
+[
+  {
+    "url": "https://online.bote.gov.taipei/botedata/%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F/114%E5%B9%B4%E5%BA%A6/PDF/P017.pdf",
+    "path": "taipei-site-analysis/evidence/P017.pdf",
+    "bytes": 78680,
+    "pdf": true,
+    "sha256": "d59c8fb327ec329d720795387b52b4d35e3cbb706d17388fca1e04eba015bc6b",
+    "retrieved": "2026-09-14",
+    "local_only_pdf": true
+  },
+  {
+    "url": "https://online.bote.gov.taipei/botedata/%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F/114%E5%B9%B4%E5%BA%A6/PDF/EI062.pdf",
+    "path": "taipei-site-analysis/evidence/EI062.pdf",
+    "bytes": 143156,
+    "pdf": true,
+    "sha256": "f067b5ad0cda251d099f80016ee9264f0a0bb28b338e744be245aaa24244f3de",
+    "retrieved": "2026-09-14",
+    "local_only_pdf": true
+  },
+  {
+    "url": "https://online.bote.gov.taipei/botedata/%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F/114%E5%B9%B4%E5%BA%A6/PDF/EI067.pdf",
+    "path": "taipei-site-analysis/evidence/EI067.pdf",
+    "bytes": 91879,
+    "pdf": true,
+    "sha256": "2018ec0395ded67677c830dfcbf77a33a5cbfbf2c743baf83272d7dc5a42800f",
+    "retrieved": "2026-09-14",
+    "local_only_pdf": true
+  },
+  {
+    "url": "https://online.bote.gov.taipei/botedata/%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F/114%E5%B9%B4%E5%BA%A6/PDF/EI070.pdf",
+    "path": "taipei-site-analysis/evidence/EI070.pdf",
+    "bytes": 134746,
+    "pdf": true,
+    "sha256": "8532e1f8f4b6041771c894ce578687378684100ced627e68b46f0781f9e8089a",
+    "retrieved": "2026-09-14",
+    "local_only_pdf": true
+  },
+  {
+    "url": "https://online.bote.gov.taipei/botedata/%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F/114%E5%B9%B4%E5%BA%A6/PDF/EI104.pdf",
+    "path": "taipei-site-analysis/evidence/EI104.pdf",
+    "bytes": 175828,
+    "pdf": true,
+    "sha256": "4743d1492683214c76fdeb0d246ac0d1541770fd9c74de7b0bb58e8f8944dadb",
+    "retrieved": "2026-09-14",
+    "local_only_pdf": true
+  },
+  {
+    "url": "https://online.bote.gov.taipei/botedata/%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F/114%E5%B9%B4%E5%BA%A6/PDF/EI124.pdf",
+    "path": "taipei-site-analysis/evidence/EI124.pdf",
+    "bytes": 95463,
+    "pdf": true,
+    "sha256": "f123246bd9a6a8cc73c082d8f389801f068d17651ad004a2d99085db62396cc4",
+    "retrieved": "2026-09-14",
+    "local_only_pdf": true
+  },
+  {
+    "url": "https://online.bote.gov.taipei/botedata/%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F/114%E5%B9%B4%E5%BA%A6/PDF/EI126.pdf",
+    "path": "taipei-site-analysis/evidence/EI126.pdf",
+    "bytes": 90251,
+    "pdf": true,
+    "sha256": "bdffdc9b2820be8c62c17fc0462beec084678e969a82b47cf0c84d416d6fd167",
+    "retrieved": "2026-09-14",
+    "local_only_pdf": true
+  },
+  {
+    "url": "https://online.bote.gov.taipei/botedata/%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F/114%E5%B9%B4%E5%BA%A6/PDF/NI021.pdf",
+    "path": "taipei-site-analysis/evidence/NI021.pdf",
+    "bytes": 92574,
+    "pdf": true,
+    "sha256": "7c8aa43f09b3a94b5c11d1621d644cd2920da6176fb283f0f04828e898245db1",
+    "retrieved": "2026-09-14",
+    "local_only_pdf": true
+  },
+  {
+    "url": "https://web.metro.taipei/img/ALL/INFOPDF/105.pdf",
+    "path": "taipei-site-analysis/evidence/beimen-station.pdf",
+    "pdf": true,
+    "bytes": 980096,
+    "sha256": "be1007ece1fffcf00ae2718ad248279ccc335a89495a8805087ff3b93cc482c3",
+    "retrieved": "2026-09-14",
+    "local_only_pdf": true
+  },
+  {
+    "url": "https://web.metro.taipei/img/ALL/INFOPDF/051.pdf",
+    "path": "taipei-site-analysis/evidence/taipei-station.pdf",
+    "pdf": true,
+    "bytes": 455874,
+    "sha256": "c3968d2d0410ac2751e6fdaea2e3939c9f482a7d32645c696cf08970c9b8ca36",
+    "retrieved": "2026-09-14",
+    "local_only_pdf": true
+  },
+  {
+    "url": "https://www-ws.gov.taipei/Download.ashx?icon=..pdf&n=QzA2LnBkZg%3D%3D&u=LzAwMS9VcGxvYWQvMzYzL3JlbGZpbGUvNDU1MDUvODMwMzgwNC81MGIzOWI1ZC0wZDdhLTQ3YTEtODM3Yi02ZGY2NWY5NTQzYzAucGRm",
+    "path": "taipei-site-analysis/evidence/station-area-c06.pdf",
+    "pdf": true,
+    "bytes": 10479514,
+    "sha256": "85fa2737713a828655c40ae4db244a8a71ab60ddbc3b6f34e4358a4f26f652db",
+    "retrieved": "2026-09-14",
+    "local_only_pdf": true
+  },
+  {
+    "url": "https://www-ws.gov.taipei/Download.ashx?icon=.pdf&n=MTE1MDgzMS1LTeihjOWwiC5wZGY%3D&u=LzAwMS9VcGxvYWQvNDU2L3JlbGZpbGUvMC8xMzg0OTAvMWRhOWM5NjYtZGU0Yy00OTUxLTk4M2QtZTY0ZGVjMGM4YmExLnBkZg%3D%3D",
+    "path": "taipei-site-analysis/evidence/pedestrian-signals-20260831.pdf",
+    "pdf": true,
+    "bytes": 301789,
+    "sha256": "17b1e409ef725c9fff281897de9043a34f5925e390b5dcf87212a269cbe7008b",
+    "retrieved": "2026-09-14",
+    "local_only_pdf": true
+  }
+]

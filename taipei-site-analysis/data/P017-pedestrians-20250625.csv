@@ -1,0 +1,9 @@
+station,date,arm,crossing_side,period_start,period_end,total_persons,at_grade_persons,grade_separated_persons,source_pdf_page
+P017,2025-06-25,A,east,08:00,09:00,429,0,429,1
+P017,2025-06-25,A,east,17:30,18:30,787,0,787,1
+P017,2025-06-25,B,south,08:00,09:00,230,230,0,1
+P017,2025-06-25,B,south,17:15,18:15,385,385,0,1
+P017,2025-06-25,C,west,08:00,09:00,194,194,0,1
+P017,2025-06-25,C,west,17:30,18:30,315,315,0,1
+P017,2025-06-25,D,north,08:00,09:00,135,0,135,1
+P017,2025-06-25,D,north,17:30,18:30,204,0,204,1

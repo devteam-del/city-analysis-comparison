@@ -1,5 +1,5 @@
 {
-  "PROJECT_INSTRUCTIONS.md": "db6055d9037c830648d86223f227382b1feb24d30f565d006ca8ea3b17e86703",
+  "PROJECT_INSTRUCTIONS.md": "73282452fa00e13fda2f223437b08f61abfbcaac55eabd937175e3dddc1e930a",
   "COMMANDS.md": "d7f6a9e6d96ebfba5b2234ccc0cb6f27c6d2beb75fdc048138ba5d6323efc01f",
   "requirements.txt": "b4c099d695a1657b31c537a918106350d53c448e788a4900318c7bb1ee54a809",
   ".gitignore": "077bb02bc91dd8bed8abae35861f5ba47ada75ea16a6ed31208b33e84eacfe67",
@@ -57,5 +57,11 @@
   "taipei-site-analysis/source/src/fetch_mrt_hourly.py": "4f54832be0fe0a195730d33a3cdaf86f39f0a84ff4dc55cbee2665fc15a0e0cc",
   "taipei-site-analysis/source/src/poll_youbike.py": "5119e1b126e67fba4a988f35042a88143d69e3efefd3f3839a866eb64441f4b6",
   "taipei-site-analysis/source/src/stations.py": "51d646cb43323a354b74ddf5bc1b1bb3a36e660314f38a4671295980a6be3574",
-  "taipei-site-analysis/INFRASTRUCTURE_DIAGNOSIS.md": "24d9541c64f5966e176063e5d4124669a5d3d0ec300e71820678279314c8b0d3"
+  "taipei-site-analysis/INFRASTRUCTURE_DIAGNOSIS.md": "acc563dad96bb159665cb92b997bf9ab000a61a89cf2a4eaf7bde3dbae880ae5",
+  "taipei-site-analysis/EVIDENCE_SUPPLEMENT.md": "9cd89109266c5222f31d577ab10fe1c7c701fb75f8db77a8d7e85996e19e8d72",
+  "taipei-site-analysis/evidence/SOURCE_MANIFEST.json": "44c45841af18df70cc9563f9b05c8b1846a2380960d9c33bd2741ea8955339eb",
+  "taipei-site-analysis/evidence/restore_sources.py": "f9ded3eb07eb582cffdc290e612b2a4f641d442cc92c827d99bd85fc6b6f041c",
+  "taipei-site-analysis/data/historical-noise-202003.csv": "51494a60ab127dc7063d4096d27de2187c9b753abc5b79931f06fff6b51846f8",
+  "taipei-site-analysis/data/traffic-station-index.geojson": "0be15a162026e97150644d0876c33f44beaec1f91f3a4f753451be0d6bc79b1f",
+  "taipei-site-analysis/data/P017-pedestrians-20250625.csv": "da7403a8a481bc3e69803a07097b1ba04174d6374e8fb140afeb8395d9786ff8"
 }
