@@ -343,7 +343,18 @@
     "lat": 25.0488896,
     "kind": "bus",
     "osm_id": 2619922112,
-    "coordinate_basis": "OSM source point"
+    "coordinate_basis": "OSM source point",
+    "boarding_post_aliases": [
+      {
+        "id": "BUS-8420400115",
+        "name": "臺北車站 (鄭州)／A1",
+        "lon": 121.5172072,
+        "lat": 25.0488801,
+        "kind": "bus",
+        "osm_id": 8420400115,
+        "coordinate_basis": "OSM source point"
+      }
+    ]
   },
   {
     "id": "BUS-2619922114",
@@ -352,7 +363,27 @@
     "lat": 25.048321,
     "kind": "bus",
     "osm_id": 2619922114,
-    "coordinate_basis": "OSM source point"
+    "coordinate_basis": "OSM source point",
+    "boarding_post_aliases": [
+      {
+        "id": "BUS-7151865729",
+        "name": "臺北車站 (鄭州)／A2",
+        "lon": 121.5178442,
+        "lat": 25.0483304,
+        "kind": "bus",
+        "osm_id": 7151865729,
+        "coordinate_basis": "OSM source point"
+      },
+      {
+        "id": "BUS-7151865728",
+        "name": "臺北車站 (鄭州)／A2",
+        "lon": 121.5177704,
+        "lat": 25.0483425,
+        "kind": "bus",
+        "osm_id": 7151865728,
+        "coordinate_basis": "OSM source point"
+      }
+    ]
   },
   {
     "id": "BUS-3262985667",
@@ -445,39 +476,12 @@
     "coordinate_basis": "OSM source point"
   },
   {
-    "id": "BUS-7151865728",
-    "name": "臺北車站 (鄭州)／A2",
-    "lon": 121.5177704,
-    "lat": 25.0483425,
-    "kind": "bus",
-    "osm_id": 7151865728,
-    "coordinate_basis": "OSM source point"
-  },
-  {
-    "id": "BUS-7151865729",
-    "name": "臺北車站 (鄭州)／A2",
-    "lon": 121.5178442,
-    "lat": 25.0483304,
-    "kind": "bus",
-    "osm_id": 7151865729,
-    "coordinate_basis": "OSM source point"
-  },
-  {
     "id": "BUS-7151865730",
     "name": "臺北車站(鄭州)",
     "lon": 121.5174285,
     "lat": 25.0484081,
     "kind": "bus",
     "osm_id": 7151865730,
-    "coordinate_basis": "OSM source point"
-  },
-  {
-    "id": "BUS-8420400115",
-    "name": "臺北車站 (鄭州)／A1",
-    "lon": 121.5172072,
-    "lat": 25.0488801,
-    "kind": "bus",
-    "osm_id": 8420400115,
     "coordinate_basis": "OSM source point"
   },
   {

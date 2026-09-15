@@ -36,5 +36,12 @@ for s in out:
   t=x['tags'];d=math.hypot((x['lon']-s['lon'])*100800,(x['lat']-s['lat'])*110800)
   if t.get('railway')=='subway_entrance' and t.get('ref')==ref and d<45:cand.append((d,n))
  if cand:s['osm_id']=int(min(cand)[1])
+# Adjacent posts with the same named boarding-bay code represent one facility.
+merge_pairs={'BUS-8420400115':'BUS-2619922112','BUS-7151865729':'BUS-2619922114','BUS-7151865728':'BUS-2619922114'}
+for duplicate,keep in merge_pairs.items():
+ alias=next(x for x in out if x['id']==duplicate);target=next(x for x in out if x['id']==keep)
+ assert alias['name']==target['name'] and '／A' in alias['name']
+ target.setdefault('boarding_post_aliases',[]).append(alias)
+out=[x for x in out if x['id'] not in merge_pairs]
 assert out and not any(re.fullmatch('[NS][1-8]',s['id']) for s in out)
 (b/'selected-od-inputs.json').write_text(json.dumps(out,ensure_ascii=False,indent=2)+'\n');print(len(out),{k:sum(x['kind']==k for x in out) for k in {x['kind'] for x in out}})

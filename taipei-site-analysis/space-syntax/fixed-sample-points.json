@@ -905,6 +905,17 @@
     "kind": "bus",
     "osm_id": 2619922112,
     "coordinate_basis": "OSM source point",
+    "boarding_post_aliases": [
+      {
+        "id": "BUS-8420400115",
+        "name": "臺北車站 (鄭州)／A1",
+        "lon": 121.5172072,
+        "lat": 25.0488801,
+        "kind": "bus",
+        "osm_id": 8420400115,
+        "coordinate_basis": "OSM source point"
+      }
+    ],
     "node": [
       -605,
       "od_ground_attachment"
@@ -929,6 +940,26 @@
     "kind": "bus",
     "osm_id": 2619922114,
     "coordinate_basis": "OSM source point",
+    "boarding_post_aliases": [
+      {
+        "id": "BUS-7151865729",
+        "name": "臺北車站 (鄭州)／A2",
+        "lon": 121.5178442,
+        "lat": 25.0483304,
+        "kind": "bus",
+        "osm_id": 7151865729,
+        "coordinate_basis": "OSM source point"
+      },
+      {
+        "id": "BUS-7151865728",
+        "name": "臺北車站 (鄭州)／A2",
+        "lon": 121.5177704,
+        "lat": 25.0483425,
+        "kind": "bus",
+        "osm_id": 7151865728,
+        "coordinate_basis": "OSM source point"
+      }
+    ],
     "node": [
       -606,
       "od_ground_attachment"
@@ -1186,54 +1217,6 @@
     ]
   },
   {
-    "id": "BUS-7151865728",
-    "name": "臺北車站 (鄭州)／A2",
-    "lon": 121.5177704,
-    "lat": 25.0483425,
-    "kind": "bus",
-    "osm_id": 7151865728,
-    "coordinate_basis": "OSM source point",
-    "node": [
-      -617,
-      "od_ground_attachment"
-    ],
-    "side": "S",
-    "attachment_status": "nearby_ground_attachment_conditional",
-    "attachment_distance_m": 3.592674389192713,
-    "source_coordinate": [
-      121.5177704,
-      25.0483425
-    ],
-    "network_coordinate": [
-      121.51777619447716,
-      25.0483745023278
-    ]
-  },
-  {
-    "id": "BUS-7151865729",
-    "name": "臺北車站 (鄭州)／A2",
-    "lon": 121.5178442,
-    "lat": 25.0483304,
-    "kind": "bus",
-    "osm_id": 7151865729,
-    "coordinate_basis": "OSM source point",
-    "node": [
-      -618,
-      "od_ground_attachment"
-    ],
-    "side": "S",
-    "attachment_status": "nearby_ground_attachment_conditional",
-    "attachment_distance_m": 3.703171996954407,
-    "source_coordinate": [
-      121.5178442,
-      25.0483304
-    ],
-    "network_coordinate": [
-      121.5178501727133,
-      25.048363386599874
-    ]
-  },
-  {
     "id": "BUS-7151865730",
     "name": "臺北車站(鄭州)",
     "lon": 121.5174285,
@@ -1242,7 +1225,7 @@
     "osm_id": 7151865730,
     "coordinate_basis": "OSM source point",
     "node": [
-      -619,
+      -617,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -1258,30 +1241,6 @@
     ]
   },
   {
-    "id": "BUS-8420400115",
-    "name": "臺北車站 (鄭州)／A1",
-    "lon": 121.5172072,
-    "lat": 25.0488801,
-    "kind": "bus",
-    "osm_id": 8420400115,
-    "coordinate_basis": "OSM source point",
-    "node": [
-      -620,
-      "od_ground_attachment"
-    ],
-    "side": "N",
-    "attachment_status": "nearby_ground_attachment_conditional",
-    "attachment_distance_m": 2.9797767706358385,
-    "source_coordinate": [
-      121.5172072,
-      25.0488801
-    ],
-    "network_coordinate": [
-      121.51720199758962,
-      25.048853619251986
-    ]
-  },
-  {
     "id": "BUS-8442738381",
     "name": "臺北車站 (忠孝)／C1",
     "lon": 121.5161429,
@@ -1290,7 +1249,7 @@
     "osm_id": 8442738381,
     "coordinate_basis": "OSM source point",
     "node": [
-      -621,
+      -618,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -1314,7 +1273,7 @@
     "osm_id": 8442738382,
     "coordinate_basis": "OSM source point",
     "node": [
-      -622,
+      -619,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -1338,7 +1297,7 @@
     "osm_id": 8442738383,
     "coordinate_basis": "OSM source point",
     "node": [
-      -623,
+      -620,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -1362,7 +1321,7 @@
     "osm_id": 8442738384,
     "coordinate_basis": "OSM source point",
     "node": [
-      -624,
+      -621,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -1386,7 +1345,7 @@
     "osm_id": 8442738386,
     "coordinate_basis": "OSM source point",
     "node": [
-      -625,
+      -622,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -1410,7 +1369,7 @@
     "osm_id": 8442738387,
     "coordinate_basis": "OSM source point",
     "node": [
-      -626,
+      -623,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -1434,7 +1393,7 @@
     "osm_id": 13227228184,
     "coordinate_basis": "OSM source point",
     "node": [
-      -627,
+      -624,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -1458,7 +1417,7 @@
     "osm_id": 13227228185,
     "coordinate_basis": "OSM source point",
     "node": [
-      -628,
+      -625,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -1482,7 +1441,7 @@
     "osm_id": 2085453855,
     "coordinate_basis": "OSM source point",
     "node": [
-      -629,
+      -626,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -1506,7 +1465,7 @@
     "osm_id": 2085453856,
     "coordinate_basis": "OSM source point",
     "node": [
-      -630,
+      -627,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -1530,7 +1489,7 @@
     "osm_id": 3355241657,
     "coordinate_basis": "OSM source point",
     "node": [
-      -631,
+      -628,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -1578,7 +1537,7 @@
     "osm_id": 4476417059,
     "coordinate_basis": "OSM source point",
     "node": [
-      -632,
+      -629,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -1602,7 +1561,7 @@
     "osm_id": 3505143998,
     "coordinate_basis": "OSM source point",
     "node": [
-      -633,
+      -630,
       "od_ground_attachment"
     ],
     "side": "N",
@@ -1626,7 +1585,7 @@
     "osm_id": 3505144196,
     "coordinate_basis": "OSM source point",
     "node": [
-      -634,
+      -631,
       "unresolved_od"
     ],
     "side": "N",
@@ -1650,7 +1609,7 @@
     "osm_id": 4406419433,
     "coordinate_basis": "OSM source point",
     "node": [
-      -635,
+      -632,
       "od_ground_attachment"
     ],
     "side": "N",
@@ -1674,7 +1633,7 @@
     "osm_id": 4406419435,
     "coordinate_basis": "OSM source point",
     "node": [
-      -636,
+      -633,
       "od_ground_attachment"
     ],
     "side": "N",
@@ -1698,7 +1657,7 @@
     "osm_id": 4406419437,
     "coordinate_basis": "OSM source point",
     "node": [
-      -637,
+      -634,
       "od_ground_attachment"
     ],
     "side": "N",
@@ -1722,7 +1681,7 @@
     "osm_id": 5318551122,
     "coordinate_basis": "OSM source point",
     "node": [
-      -638,
+      -635,
       "unresolved_od"
     ],
     "side": "S",
@@ -1818,7 +1777,7 @@
     "osm_id": 3505144000,
     "coordinate_basis": "OSM source point",
     "node": [
-      -639,
+      -636,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -1842,7 +1801,7 @@
     "osm_id": 3505144002,
     "coordinate_basis": "OSM source point",
     "node": [
-      -640,
+      -637,
       "od_ground_attachment"
     ],
     "side": "N",
@@ -1866,7 +1825,7 @@
     "osm_id": 3505144197,
     "coordinate_basis": "OSM source point",
     "node": [
-      -641,
+      -638,
       "unresolved_od"
     ],
     "side": "N",
@@ -1890,7 +1849,7 @@
     "osm_id": 3505145996,
     "coordinate_basis": "OSM source point",
     "node": [
-      -642,
+      -639,
       "unresolved_od"
     ],
     "side": "N",
@@ -1914,7 +1873,7 @@
     "osm_id": 3505146395,
     "coordinate_basis": "OSM source point",
     "node": [
-      -643,
+      -640,
       "unresolved_od"
     ],
     "side": "N",
@@ -1938,7 +1897,7 @@
     "osm_id": 3699813329,
     "coordinate_basis": "OSM source point",
     "node": [
-      -644,
+      -641,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -1986,7 +1945,7 @@
     "osm_id": 3355241658,
     "coordinate_basis": "OSM source point",
     "node": [
-      -645,
+      -642,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -2034,7 +1993,7 @@
     "osm_id": 3355241664,
     "coordinate_basis": "OSM source point",
     "node": [
-      -646,
+      -643,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -2058,7 +2017,7 @@
     "osm_id": 3505143496,
     "coordinate_basis": "OSM source point",
     "node": [
-      -647,
+      -644,
       "od_ground_attachment"
     ],
     "side": "N",
@@ -2082,7 +2041,7 @@
     "osm_id": 3505143694,
     "coordinate_basis": "OSM source point",
     "node": [
-      -648,
+      -645,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -2106,7 +2065,7 @@
     "osm_id": 3505143795,
     "coordinate_basis": "OSM source point",
     "node": [
-      -649,
+      -646,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -2130,7 +2089,7 @@
     "osm_id": 3505143997,
     "coordinate_basis": "OSM source point",
     "node": [
-      -650,
+      -647,
       "od_ground_attachment"
     ],
     "side": "N",
@@ -2154,7 +2113,7 @@
     "osm_id": 3505145593,
     "coordinate_basis": "OSM source point",
     "node": [
-      -651,
+      -648,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -2178,7 +2137,7 @@
     "osm_id": 3505145993,
     "coordinate_basis": "OSM source point",
     "node": [
-      -652,
+      -649,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -2346,7 +2305,7 @@
     "osm_id": 4406419436,
     "coordinate_basis": "OSM source point",
     "node": [
-      -653,
+      -650,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -2370,7 +2329,7 @@
     "osm_id": 4406419438,
     "coordinate_basis": "OSM source point",
     "node": [
-      -654,
+      -651,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -2418,7 +2377,7 @@
     "osm_id": 4476417053,
     "coordinate_basis": "OSM source point",
     "node": [
-      -655,
+      -652,
       "unresolved_od"
     ],
     "side": "S",
@@ -2442,7 +2401,7 @@
     "osm_id": 4476417054,
     "coordinate_basis": "OSM source point",
     "node": [
-      -656,
+      -653,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -2538,7 +2497,7 @@
     "osm_id": 9369867438,
     "coordinate_basis": "OSM source point",
     "node": [
-      -657,
+      -654,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -2562,7 +2521,7 @@
     "osm_id": 9369867439,
     "coordinate_basis": "OSM source point",
     "node": [
-      -658,
+      -655,
       "unresolved_od"
     ],
     "side": "S",
@@ -2586,7 +2545,7 @@
     "osm_id": 9369867440,
     "coordinate_basis": "OSM source point",
     "node": [
-      -659,
+      -656,
       "unresolved_od"
     ],
     "side": "S",
@@ -2658,7 +2617,7 @@
     "osm_id": 12087421732,
     "coordinate_basis": "OSM source point",
     "node": [
-      -660,
+      -657,
       "unresolved_od"
     ],
     "side": "S",
@@ -2682,7 +2641,7 @@
     "osm_id": 12087421749,
     "coordinate_basis": "OSM source point",
     "node": [
-      -661,
+      -658,
       "unresolved_od"
     ],
     "side": "S",
@@ -2706,7 +2665,7 @@
     "osm_id": 12087421750,
     "coordinate_basis": "OSM source point",
     "node": [
-      -662,
+      -659,
       "unresolved_od"
     ],
     "side": "S",
@@ -2754,7 +2713,7 @@
     "osm_id": 12087421752,
     "coordinate_basis": "OSM source point",
     "node": [
-      -663,
+      -660,
       "unresolved_od"
     ],
     "side": "S",
@@ -2778,7 +2737,7 @@
     "osm_id": 12087421753,
     "coordinate_basis": "OSM source point",
     "node": [
-      -664,
+      -661,
       "unresolved_od"
     ],
     "side": "S",
@@ -2802,7 +2761,7 @@
     "osm_id": 12087421754,
     "coordinate_basis": "OSM source point",
     "node": [
-      -665,
+      -662,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -3019,7 +2978,7 @@
     "coordinate_basis": "named street-frontage selection anchor; approximate, not surveyed door",
     "frontage_proxy": true,
     "node": [
-      -666,
+      -663,
       "od_ground_attachment"
     ],
     "side": "N",
@@ -3044,7 +3003,7 @@
     "coordinate_basis": "named street-frontage selection anchor; approximate, not surveyed door",
     "frontage_proxy": true,
     "node": [
-      -667,
+      -664,
       "od_ground_attachment"
     ],
     "side": "N",
@@ -3069,7 +3028,7 @@
     "coordinate_basis": "named street-frontage selection anchor; approximate, not surveyed door",
     "frontage_proxy": true,
     "node": [
-      -668,
+      -665,
       "od_ground_attachment"
     ],
     "side": "N",
@@ -3119,7 +3078,7 @@
     "coordinate_basis": "named street-frontage selection anchor; approximate, not surveyed door",
     "frontage_proxy": true,
     "node": [
-      -669,
+      -666,
       "od_ground_attachment"
     ],
     "side": "S",
@@ -3144,7 +3103,7 @@
     "coordinate_basis": "named street-frontage selection anchor; approximate, not surveyed door",
     "frontage_proxy": true,
     "node": [
-      -670,
+      -667,
       "od_ground_attachment"
     ],
     "side": "N",
@@ -3168,7 +3127,7 @@
     "osm_id": 5644385151,
     "coordinate_basis": "OSM source point",
     "node": [
-      -671,
+      -668,
       "od_ground_attachment"
     ],
     "side": "S",
