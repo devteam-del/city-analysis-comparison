@@ -1,0 +1,2264 @@
+{
+  "road_widths": [
+    {
+      "way": 22764010,
+      "width_m": 12,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 33679537,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 51919208,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 51919245,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 52513624,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 52513625,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 60730604,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 160307902,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 197662926,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 229885639,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 232678745,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 236724387,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 236724457,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 236724528,
+      "width_m": 5,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 238208425,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 238211714,
+      "width_m": 12,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 238699263,
+      "width_m": 14,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 238699268,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 238699269,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 238699273,
+      "width_m": 12,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 241518672,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 241518682,
+      "width_m": 12,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 243317510,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 243317514,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 244450327,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 244450535,
+      "width_m": 16,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 244450545,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 251668623,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 251668629,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 251668630,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 263225305,
+      "width_m": 16,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 264399459,
+      "width_m": 18,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 264994983,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 264995112,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 274809897,
+      "width_m": 14,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 287316011,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 287327325,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 287327326,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 287327327,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 287327328,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 288878936,
+      "width_m": 18,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 293071598,
+      "width_m": 5,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 298630661,
+      "width_m": 16,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 304802562,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 307701131,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 311693538,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 319827265,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 319876199,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 324482434,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 333282724,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 333283573,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 333293958,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 333293970,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 334852287,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 334852289,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 334852293,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 336634151,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 355791336,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 374960467,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 374960470,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 374960475,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 421210601,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 455330016,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 462808824,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 462808827,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 478050666,
+      "width_m": 24,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 491638036,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 495522333,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 509695170,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 512647087,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 553790794,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1161984384,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1227270699,
+      "width_m": 24,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1288670281,
+      "width_m": 12,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1342161677,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1416292807,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1416292808,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1416292809,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1416292812,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1416292813,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1416292814,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1430852641,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1458140787,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1458140788,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1495321754,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1495321757,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1509689684,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 4860359,
+      "width_m": 16,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 31051190,
+      "width_m": 12,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 51919251,
+      "width_m": 18,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 201280842,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 201280844,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 201280852,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 201280853,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 244450426,
+      "width_m": 16,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 244450450,
+      "width_m": 8,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 244450456,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 244450458,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 264399255,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 287316010,
+      "width_m": 16,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 287316013,
+      "width_m": 14,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 287316014,
+      "width_m": 14,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 288878925,
+      "width_m": 16,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 319827250,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 319827260,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 319827272,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 319827273,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 319875608,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 319875611,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 319875633,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 319875634,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 319875643,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 319875684,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 319875765,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 334849019,
+      "width_m": 14,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 338922082,
+      "width_m": 12,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 338922085,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 368729289,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 368729290,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 368729291,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 368729292,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 374929559,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 449290529,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 455330014,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 455330015,
+      "width_m": 16,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 462935600,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 462935604,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 501772320,
+      "width_m": 16,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 501772321,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 548583033,
+      "width_m": 14,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 548583034,
+      "width_m": 14,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 668070773,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 668070789,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 801414446,
+      "width_m": 14,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 801414447,
+      "width_m": 14,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 801414448,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 801414449,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 801414450,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 801414451,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 837734050,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1274537683,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1329105636,
+      "width_m": 16,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 6183255,
+      "width_m": 8,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 23416666,
+      "width_m": 18,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 23416667,
+      "width_m": 18,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 25715402,
+      "width_m": 16,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 26697214,
+      "width_m": 6,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 26697215,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 26697219,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 30620517,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 33679741,
+      "width_m": 6,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 51423114,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 52242861,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 56723599,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 82387315,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 82392154,
+      "width_m": 8,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 98562079,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 98562080,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 106335676,
+      "width_m": 8,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 106335678,
+      "width_m": 8,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 192888508,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 198414876,
+      "width_m": 20,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 204408788,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 204616534,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 204616535,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 204616536,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 204616540,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 204711181,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 205578315,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 205578316,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 205578317,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 205578319,
+      "width_m": 8,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 205578321,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 229885650,
+      "width_m": 8,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 229885657,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 238208422,
+      "width_m": 20,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 238208426,
+      "width_m": 17.05,
+      "basis": "osm_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 244450453,
+      "width_m": 8,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 244450462,
+      "width_m": 12,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 244450487,
+      "width_m": 16,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 244450490,
+      "width_m": 16,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 244456574,
+      "width_m": 8,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 244456578,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 251668628,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 251668632,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 259080300,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 259759586,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 259759587,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 259759589,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 259759591,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 264550937,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 264550938,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 270439718,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 288878938,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 289004416,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 298068822,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 303413197,
+      "width_m": 24,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 303413198,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 309011406,
+      "width_m": 6,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 318254709,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 318254711,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 323090022,
+      "width_m": 6,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 325213923,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 330745380,
+      "width_m": 8,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 335583788,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 335584584,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 335584585,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 336182109,
+      "width_m": 8,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 336182122,
+      "width_m": 6,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 336634148,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 336634150,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 343713249,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 343713267,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 345279273,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 347274971,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 347274972,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 347274975,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 347274977,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 348476067,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 361762999,
+      "width_m": 8,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 367214985,
+      "width_m": 24,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 367214988,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 367214998,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 367245164,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 384694138,
+      "width_m": 8,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 384799248,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 409975923,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 409975930,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 413827282,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 413827283,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 506322836,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 515156296,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 515156305,
+      "width_m": 12,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 515156308,
+      "width_m": 6,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 515156313,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 515156314,
+      "width_m": 6,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 515156319,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 548348534,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 553998952,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 557913218,
+      "width_m": 12,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 783791336,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 801414437,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 801414438,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 801414439,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 801414440,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 801414443,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 801414444,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 801414445,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 822920808,
+      "width_m": 12,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 822920809,
+      "width_m": 12,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 824790906,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 824790907,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 904425963,
+      "width_m": 16,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 906806098,
+      "width_m": 16,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 906806101,
+      "width_m": 12,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 911605213,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 916913285,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1154453185,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1154453186,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1154453194,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1154453200,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1154453208,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1154453213,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1154453234,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1164881495,
+      "width_m": 18,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1164881508,
+      "width_m": 6,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1164881510,
+      "width_m": 6,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1164881511,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1164881512,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1164885252,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1192472286,
+      "width_m": 6,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1215533502,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1227270698,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1227270700,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1273622085,
+      "width_m": 18,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1273622164,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1273622165,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1273622166,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1317071635,
+      "width_m": 12,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1322451883,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1322936713,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1346192378,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1346192379,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1346192380,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1346858488,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1346878218,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1420922746,
+      "width_m": 20,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1434031456,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1434031457,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1434031458,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1434031462,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1434032064,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1434131895,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1434131896,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1434131897,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1434131903,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1434131904,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 5117999,
+      "width_m": 16,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 33679832,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 50904887,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 51885100,
+      "width_m": 2.2,
+      "basis": "osm_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 199239736,
+      "width_m": 16,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 204211729,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 204211735,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 204211738,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 204408789,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 204408790,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 207614893,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 232435887,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 309192852,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 309192853,
+      "width_m": 5,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 309192855,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 309192856,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 309192857,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 309194440,
+      "width_m": 3.1,
+      "basis": "osm_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 319827249,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 329022966,
+      "width_m": 16,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 329022967,
+      "width_m": 14,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 332365639,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 332365640,
+      "width_m": 1.3,
+      "basis": "osm_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 344102374,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 360855813,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 361928479,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 361928480,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 361939117,
+      "width_m": 16,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 374929565,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 374929569,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 374929572,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 374929578,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 374929582,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 374929585,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 374929588,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 374929590,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 374929592,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 407202572,
+      "width_m": 14,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 431665415,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 431665417,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 431665418,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 435677310,
+      "width_m": 7,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 447724369,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 447867786,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 447867789,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 447867796,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 447867799,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 447867802,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 490391075,
+      "width_m": 1.0,
+      "basis": "osm_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 491420240,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 491420241,
+      "width_m": 3.7,
+      "basis": "osm_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 496496053,
+      "width_m": 16,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 496496055,
+      "width_m": 16,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 496496060,
+      "width_m": 16,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 496496061,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 496496062,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 496496063,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 496496064,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 496496065,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 496496066,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 496496067,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 509045705,
+      "width_m": 16,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 509057256,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 509057257,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 509057258,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 509057259,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 516107419,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 605982495,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 904425964,
+      "width_m": 14,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 906806094,
+      "width_m": 14,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 906806095,
+      "width_m": 16,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 906806097,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1006456981,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1012478862,
+      "width_m": 14,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1164885225,
+      "width_m": 4,
+      "basis": "cartographic_class_width",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1192472285,
+      "width_m": 6,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1317072847,
+      "width_m": 12,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1433559700,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    },
+    {
+      "way": 1433559701,
+      "width_m": 10,
+      "basis": "historical_official_WIDTH",
+      "purpose": "cartographic envelope only; source width may include sidewalks"
+    }
+  ],
+  "pedestrian_default_width_m": 2,
+  "alley_default_width_m": 3,
+  "width_warning": "Mapped width where numeric; otherwise display assumption. Road widths can already include sidewalks; not an area quantity survey.",
+  "union_warning": "Closed drawing envelopes do not connect graph nodes or imply all gray roads are walkable."
+}

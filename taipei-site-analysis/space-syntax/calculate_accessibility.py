@@ -129,16 +129,10 @@ assert all(math.isfinite(w) and w>=0 for g in [A,B] for adj in g.values() for w 
 minx,miny=project(121.5088,25.0447);maxx,maxy=project(121.5203,25.0520);W=1400;H=(maxy-miny)/(maxx-minx)*W;scale=W/(maxx-minx)
 def P(p):return ((p[0]-minx)*scale,(maxy-p[1])*scale)
 def line(points):return ' '.join(f'{a:.2f},{b:.2f}' for a,b in map(P,points))
+exec(compile((D/'render_network_surfaces.py').read_text(),str(D/'render_network_surfaces.py'),'exec'))
 for case,g in [('A',A),('B',B)]:
  svg=[f'<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="{H:.2f}" viewBox="0 0 1400 {H:.2f}"><rect width="1400" height="100%" fill="#f2f1eb"/>']
- for e in edge_records:
-  a,b=e['a'],e['b']
-  if a not in g or b not in g[a]:continue
-  p,q=positions[a],positions[b]
-  if not (minx<=p[0]<=maxx and miny<=p[1]<=maxy or minx<=q[0]<=maxx and miny<=q[1]<=maxy):continue
-  color='#538898' if case=='B' and (a not in A or b not in A[a]) else '#8e9996'
-  if e['group']=='inferred_sidewalk':color='#b28642'
-  svg.append('<polyline points="'+line([p,q])+'" fill="none" stroke="'+color+'" stroke-width="2"/>')
+ svg.append(render_surfaces(case,g))
  for r in routes:
   if r['case']==case and r['origin'][1:]==r['destination'][1:]:svg.append('<polyline points="'+line([positions[k] for k in r['keys']])+'" fill="none" stroke="#af613d" stroke-width="4" stroke-opacity=".75"/>')
  for s in samples:
@@ -146,5 +140,5 @@ for case,g in [('A',A),('B',B)]:
  svg.append(f'<path d="M40,{H-40:.2f} h{200*scale:.2f}" stroke="#233f49" stroke-width="4"/><text x="40" y="{H-49:.2f}" font-size="14">200 m</text>');svg.append('</svg>');(OUT/(case+'.svg')).write_text(''.join(svg))
 report='# A／B 可達性：來源路網試算\n\n已計算，但不是完整現況模型，也不是 Space Syntax NAIN/NACH。採同一固定南北起訖點，以 Dijkstra 求最短水平投影路徑。\n\n'+'天橋官方存在依據：https://bridge.nco.taipei/bms2/guest/Footbridge/inventory.aspx?vid=64 。源線形為OSM，落點未全部現勘。本輪地面修復含推定幾何，不能外推全段。\n\n'+json.dumps(summary,ensure_ascii=False,indent=2)+'\n\nCSV空白為來源網絡無路徑，不能解讀為現地不能走。未填補未知高程或直接用示意圖像素量距。A、B圖為同範圍同比例向量圖，橘色是同編號南北樣點路徑，藍色是B新增來源邊。\n'
 (OUT/'README.md').write_text(report)
-(OUT/'index.html').write_text('''<!doctype html><html lang="zh-Hant"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>A／B 可達性試算</title><style>body{font:17px/1.7 system-ui;background:#f2f1eb;color:#293a3c;margin:24px}a{color:#356576}.maps{display:grid;grid-template-columns:1fr 1fr;gap:20px}.maps img{width:100%}table{border-collapse:collapse}td,th{padding:10px 24px;border-bottom:1px solid #ccc;text-align:left}.note{padding:18px;background:#ece0c9}@media(max-width:800px){.maps{grid-template-columns:1fr}}</style><a href="../index.html">← 核對紀錄</a><h1>A／B 步行網絡試算</h1><p><a href="FOUR_POINT_VERIFICATION.md">四處斷點：街景查核、程式原因與假設</a></p><p class="note">來源路網的條件式計算。本輪B僅加入承德市民天橋；地下通道仍待完成，不能當作完整B結果。不是完整現況、真實三維距離或 Space Syntax 指標；資料不連通不等於現地不通。</p><p>固定 '''+str(len(samples))+''' 個地面樣點，'''+str(len(rows))+''' 組南北 OD。平日12:00；單位為沿路網的水平投影公尺。</p><table><tr><th>條件</th><th>A 地面</th><th>B 天橋來源子網</th></tr>'''+''.join(f'<tr><td>{rad} m 內可達 OD</td><td>{summary["radius_counts"][str(rad)]["A"]}/{len(rows)}</td><td>{summary["radius_counts"][str(rad)]["B"]}/{len(rows)}</td></tr>' for rad in [400,800,1600])+f'<tr><td>來源網絡可連通 OD</td><td>{summary["connected_A"]}/{len(rows)}</td><td>{summary["connected_B"]}/{len(rows)}</td></tr></table>'+'''<div class="maps"><section><h2>A 地面</h2><a href="A.svg"><img src="A.svg" alt="A 地面來源步行網絡與抽樣路徑"></a></section><section><h2>B 地面＋承德市民天橋</h2><a href="B.svg"><img src="B.svg" alt="B 增加立體來源步行網絡與抽樣路徑"></a></section></div><p class="note">本輪已連通64組OD，但包含一般出入口可沿街跨越的假設；採逐出入口切斷規則時僅40組連通。這是模型敏感度，不是現地通行率。未加入高差與爬樓梯成本，距離效益可能高估。</p><p>灰：共同來源路網　赭黃：推定人行道　藍：B新增來源邊　橘：同編號南北樣點最短路徑</p><p><a href="GROUND_REPAIR.md">修復與剩餘斷點</a> · <a href="ground-repair-audit.json">地面修復依據</a> · <a href="od-comparison.csv">全部OD數值</a> · <a href="routes.geojson">路徑向量</a> · <a href="summary.json">計算摘要與限制</a> · <a href="README.md">方法</a></p></html>''')
+exec(compile((D/'render_accessibility_page.py').read_text(),str(D/'render_accessibility_page.py'),'exec'))
 print(json.dumps(summary,ensure_ascii=False,indent=2))
