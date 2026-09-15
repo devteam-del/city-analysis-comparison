@@ -35,3 +35,7 @@
 - 三張 PNG 與 overview.png：預覽。
 - build_full.py：使用已備份幾何重建圖面，Python + Pillow；原有 official-road-widths.json 位於 maps 目錄。
 - 上層 infrastructure/index.html 同步指向本版三張圖；舊圖與前輪分析保留供追溯，其診斷範圍仍是原西段，未改寫成全段結論。
+
+## 水域修訂
+
+2026-09-15：三图加入同一組藍色水域面（#a7cadd），來自 OSM natural=water／waterway=riverbank 的 way 與 relation。保存封閉外環、內洞與島嶼，不將河濱公園當成河面；道路與高架繪於水面之上。幾何見 water-geometry.json.gz，閉合環數見 water-render-audit.json。取得範圍與主底圖相同；河界為 OSM 地圖資料，不表示當日水位。

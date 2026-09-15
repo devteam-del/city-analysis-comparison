@@ -93,7 +93,7 @@ classification=[{'id':e['id'],'name':e.get('tags',{}).get('name'),'position':tra
 (B/'transport-classification.json').write_text(json.dumps(classification,ensure_ascii=False,indent=2))
 # Reconstruct closed relation rings; open chains are omitted and logged, not closed across missing geometry.
 def rings(members,role):
- chains=[[xy(q) for q in m.get('geometry',[]) if q] for m in members if m.get('role','outer')==role and m.get('geometry')]
+ chains=[[xy(q) for q in m.get('geometry',[]) if q] for m in members if (m.get('role') or 'outer')==role and m.get('geometry')]
  out=[]
  while chains:
   chain=chains.pop()
@@ -108,6 +108,26 @@ def rings(members,role):
  return out
 parkrels=[e for e in es if e['type']=='relation' and e.get('tags',{}).get('leisure')=='park']
 parkmembers={m['ref'] for e in parkrels for m in e.get('members',[]) if m.get('type')=='way'}
+water=json.loads(gzip.decompress((B/'water-geometry.json.gz').read_bytes()))['elements']
+waterrels=[e for e in water if e['type']=='relation']
+watermembers={m['ref'] for e in waterrels for m in e.get('members',[]) if m.get('type')=='way'}
+waterfeatures=[]
+for e in water:
+ if e['type']=='way' and e['id'] not in watermembers and closed(e):waterfeatures.append((e['id'],[pts(e)],[]))
+for e in waterrels:
+ outer=rings(e.get('members',[]),'outer');inner=rings(e.get('members',[]),'inner')
+ if outer:waterfeatures.append((e['id'],outer,inner))
+(B/'water-render-audit.json').write_text(json.dumps([{'id':i,'outer_rings':len(o),'inner_rings':len(h)} for i,o,h in waterfeatures],indent=2))
+def draw_water():
+ sv.append('<g id="water-areas">')
+ for eid,outer,inner in waterfeatures:
+  mask=Image.new('L',(W,H));md=ImageDraw.Draw(mask)
+  for p in outer:md.polygon(p,fill=255)
+  for p in inner:md.polygon(p,fill=0)
+  im.paste('#a7cadd',(0,0,W,H),mask)
+  path=' '.join('M'+' L'.join(f'{x:.2f},{y:.2f}' for x,y in p)+' Z' for p in outer+inner)
+  sv.append(f'<path d="{path}" fill="#a7cadd" fill-rule="evenodd"/>')
+ sv.append('</g>')
 for theme in ['01-green','02-transport','03-commerce']:
  im=Image.new('RGB',(W,H),'#e3e5e1');d=ImageDraw.Draw(im)
  sv=[f'<svg xmlns="http://www.w3.org/2000/svg" width="1200mm" height="240mm" viewBox="0 0 {W} {H}"><metadata>EPSG:3826; 12000 x 2400 m; 1:10000 at native size. See SOURCE_NOTES.md. © OpenStreetMap contributors, ODbL.</metadata><defs><clipPath id="frame"><rect width="{W}" height="{H}"/></clipPath></defs><rect width="{W}" height="{H}" fill="#e3e5e1"/><g clip-path="url(#frame)">']
@@ -124,6 +144,7 @@ for theme in ['01-green','02-transport','03-commerce']:
  if theme=='03-commerce':
   for e in ways:
    if closed(e) and e.get('tags',{}).get('landuse') in ['commercial','retail']:drawpoly(pts(e),'#d6bda8')
+ draw_water()
  sv.append('<g id="building-blocks">')
  for e in buildings:
   col='#c8cec6'
