@@ -1,0 +1,689 @@
+[
+  {
+    "way": 160279690,
+    "name": "忠孝西路二段16巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      1140220472,
+      4210158314,
+      760158273
+    ]
+  },
+  {
+    "way": 311693538,
+    "name": "中華路一段9巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      5033903586,
+      4210158313,
+      4007274727
+    ]
+  },
+  {
+    "way": 319827265,
+    "name": "鄭州路38巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3262987379,
+      3262991863,
+      3262987075,
+      4582623286,
+      3262987073
+    ]
+  },
+  {
+    "way": 421210601,
+    "name": "中華路一段1巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      5036252092,
+      4210158313
+    ]
+  },
+  {
+    "way": 319827250,
+    "name": "重慶北路一段26巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3262987171,
+      3262986085,
+      3262987468,
+      3262986577,
+      3262987374
+    ]
+  },
+  {
+    "way": 319827260,
+    "name": "塔城街24巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3262987470,
+      3262987173
+    ]
+  },
+  {
+    "way": 319827272,
+    "name": "鄭州路26巷4弄",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3262987074,
+      3262987075
+    ]
+  },
+  {
+    "way": 319827273,
+    "name": "西寧北路1巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3262991863
+    ]
+  },
+  {
+    "way": 319875608,
+    "name": "鄭州路83巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3262986467,
+      3262986466,
+      3263404367
+    ]
+  },
+  {
+    "way": 319875611,
+    "name": "重慶北路一段26巷46巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3262986466,
+      3262987468
+    ]
+  },
+  {
+    "way": 319875633,
+    "name": "延平北路一段69巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3725763784,
+      3262987374,
+      3262985978
+    ]
+  },
+  {
+    "way": 319875634,
+    "name": "延平北路一段66巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3262985771,
+      3263498463
+    ]
+  },
+  {
+    "way": 319875643,
+    "name": "塔城街15巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3263498463,
+      3263498462
+    ]
+  },
+  {
+    "way": 319875684,
+    "name": "鄭州路143巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3262987378,
+      3262987470,
+      3262987471
+    ]
+  },
+  {
+    "way": 319875765,
+    "name": "鄭州路26巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3262985979,
+      4582623285,
+      3262987074
+    ]
+  },
+  {
+    "way": 368729290,
+    "name": "重慶北路一段26巷9弄",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3262986577,
+      3725763778,
+      3725763782
+    ]
+  },
+  {
+    "way": 368729292,
+    "name": "重慶北路一段26巷9弄",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      2112376963,
+      3725763784,
+      3725763782
+    ]
+  },
+  {
+    "way": 374929570,
+    "name": "塔城街50巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3783134792
+    ]
+  },
+  {
+    "way": 462935600,
+    "name": "南京西路434巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3783134786
+    ]
+  },
+  {
+    "way": 251668628,
+    "name": "忠孝西路一段84巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      2578520433
+    ]
+  },
+  {
+    "way": 259759586,
+    "name": "華陰街24巷1弄",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      2652168365
+    ]
+  },
+  {
+    "way": 259759587,
+    "name": "華陰街24巷6弄",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      2144167918
+    ]
+  },
+  {
+    "way": 259759589,
+    "name": "華陰街24巷4弄",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      2652168363
+    ]
+  },
+  {
+    "way": 259759591,
+    "name": "華陰街24巷3弄",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      2144167918,
+      3143261411
+    ]
+  },
+  {
+    "way": 309011407,
+    "name": "中山北路一段56巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3143261412,
+      3143261413
+    ]
+  },
+  {
+    "way": 491420242,
+    "name": "中山北路一段56巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3143261411,
+      3143261412,
+      2652168358
+    ]
+  },
+  {
+    "way": 1164885252,
+    "name": "華陰街24巷2弄",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      2652168365
+    ]
+  },
+  {
+    "way": 4947948,
+    "name": "太原路115巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      32615830,
+      2112377027
+    ]
+  },
+  {
+    "way": 203799175,
+    "name": "南京西路12巷13弄",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      2137955743
+    ]
+  },
+  {
+    "way": 204211735,
+    "name": "長安西路78巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      2142307073,
+      2142307082,
+      2142307086,
+      2269991783
+    ]
+  },
+  {
+    "way": 204408789,
+    "name": "長安西路40巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      4335733854,
+      4335733852,
+      2144167921
+    ]
+  },
+  {
+    "way": 245736472,
+    "name": "南京西路262巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      2528739034
+    ]
+  },
+  {
+    "way": 245736473,
+    "name": "南京西路250巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      2528739036
+    ]
+  },
+  {
+    "way": 245752236,
+    "name": "重慶北路一段83巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      2528872777,
+      2528739036,
+      2528739034,
+      3783134799,
+      3783134797,
+      3783134796,
+      2528872778
+    ]
+  },
+  {
+    "way": 319827249,
+    "name": "太原路11巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3262985977,
+      3262986083
+    ]
+  },
+  {
+    "way": 332365639,
+    "name": "南京西路18巷28弄",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": []
+  },
+  {
+    "way": 361928479,
+    "name": "太原路79巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3783134795,
+      4881981829,
+      3663322168
+    ]
+  },
+  {
+    "way": 361928480,
+    "name": "太原路97巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3145224057,
+      3663322171,
+      3663322170
+    ]
+  },
+  {
+    "way": 374929563,
+    "name": "重慶北路一段83巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3783134789,
+      3783134796
+    ]
+  },
+  {
+    "way": 374929565,
+    "name": "太原路76巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3783134799,
+      3783134795
+    ]
+  },
+  {
+    "way": 374929569,
+    "name": "太原路8巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3783134768,
+      3783134769
+    ]
+  },
+  {
+    "way": 374929572,
+    "name": "華陰街72巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3783134771,
+      3783134774
+    ]
+  },
+  {
+    "way": 374929578,
+    "name": "重慶北路一段49巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3783134780,
+      3783134778
+    ]
+  },
+  {
+    "way": 374929582,
+    "name": "長安西路177巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3783134783,
+      4210158335,
+      3783134802
+    ]
+  },
+  {
+    "way": 374929585,
+    "name": "長安西路145巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3783134781,
+      3783134797
+    ]
+  },
+  {
+    "way": 374929588,
+    "name": "重慶北路一段83巷4弄",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3783134790,
+      3783134789
+    ]
+  },
+  {
+    "way": 374929590,
+    "name": "鄭州路29巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3783134767,
+      3783134772
+    ]
+  },
+  {
+    "way": 374929592,
+    "name": "重慶南路一段15巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3783134773,
+      3783134772
+    ]
+  },
+  {
+    "way": 407202572,
+    "name": "長安西路",
+    "kind": "inferred_sidewalk",
+    "side": "left",
+    "source_nodes": [
+      3783134781,
+      32615831
+    ],
+    "width_m": 14,
+    "width_basis": "historical_official_WIDTH",
+    "anchors": [
+      7702095032,
+      7702095029
+    ],
+    "max_attachment_m": 2.5780904041671775,
+    "status": "conditional_geometry_not_surveyed"
+  },
+  {
+    "way": 407202572,
+    "name": "長安西路",
+    "kind": "inferred_sidewalk",
+    "side": "right",
+    "source_nodes": [
+      3783134781,
+      32615831
+    ],
+    "width_m": 14,
+    "width_basis": "historical_official_WIDTH",
+    "anchors": [
+      7702095031,
+      7702095030
+    ],
+    "max_attachment_m": 3.121865013113746,
+    "status": "conditional_geometry_not_surveyed"
+  },
+  {
+    "way": 431665415,
+    "name": "鄭州路21巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3783134769,
+      3783134766
+    ]
+  },
+  {
+    "way": 431665417,
+    "name": "太原路22巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3783134772,
+      3783134771
+    ]
+  },
+  {
+    "way": 431665418,
+    "name": "長安西路220巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3783134775,
+      3783134778,
+      4983483126,
+      3783134782
+    ]
+  },
+  {
+    "way": 435677313,
+    "name": "中山北路一段96巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      4335733852,
+      4335733851,
+      4335733845
+    ]
+  },
+  {
+    "way": 447724369,
+    "name": "華陰街71巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      2142307089,
+      4449312422,
+      2142307085,
+      5772600843
+    ]
+  },
+  {
+    "way": 447867786,
+    "name": "長安西路138巷3弄",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      4449312422,
+      4449312425
+    ]
+  },
+  {
+    "way": 447867789,
+    "name": "長安西路138巷5弄",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      5772600843,
+      4449312421
+    ]
+  },
+  {
+    "way": 447867796,
+    "name": "承德路一段19巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      4449312425,
+      3663419825
+    ]
+  },
+  {
+    "way": 447867799,
+    "name": "承德路一段24巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3663419723,
+      3663419724
+    ]
+  },
+  {
+    "way": 447867802,
+    "name": "長安西路138巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      4449312430,
+      4449312425,
+      4449312421,
+      4449312417
+    ]
+  },
+  {
+    "way": 490391075,
+    "name": "南京西路18巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      4825772387
+    ]
+  },
+  {
+    "way": 491420240,
+    "name": "長安西路78巷4弄",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      2142307082,
+      2142307085
+    ]
+  },
+  {
+    "way": 496496061,
+    "name": "長安西路172巷5弄",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      4881981830,
+      4983372779
+    ]
+  },
+  {
+    "way": 496496062,
+    "name": "長安西路172巷3弄",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      4983372779,
+      4881981831
+    ]
+  },
+  {
+    "way": 496496063,
+    "name": "長安西路172巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      4881981835,
+      4881981834,
+      4881981830,
+      3663419724,
+      4881981831,
+      4881981833
+    ]
+  },
+  {
+    "way": 496496064,
+    "name": "太原路23巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      4881981838,
+      4881981834,
+      4881981836
+    ]
+  },
+  {
+    "way": 509057258,
+    "name": "太原路48巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3783134778,
+      3783134776
+    ]
+  },
+  {
+    "way": 509057259,
+    "name": "長安西路220巷27弄",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      4983483126
+    ]
+  },
+  {
+    "way": 516107419,
+    "name": "華陰街84巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3783134772,
+      3783134775
+    ]
+  },
+  {
+    "way": 548931397,
+    "name": "太原路92巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      3663322170
+    ]
+  },
+  {
+    "way": 609441696,
+    "name": "長安西路40巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      2144167930,
+      2144167926,
+      4335733854
+    ]
+  },
+  {
+    "way": 1006456981,
+    "name": "華陰街71巷",
+    "kind": "restored_alley",
+    "unverified_junction_nodes_left_unjoined": [
+      2142307078
+    ]
+  }
+]

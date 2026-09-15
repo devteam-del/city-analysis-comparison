@@ -2,7 +2,7 @@
 
 已計算，但不是完整現況模型，也不是 Space Syntax NAIN/NACH。採同一固定南北起訖點，以 Dijkstra 求最短水平投影路徑。
 
-天橋官方存在依據：https://bridge.nco.taipei/bms2/guest/Footbridge/inventory.aspx?vid=64 。源線形為OSM，落點未全部現勘。8組縮短均來自N8，不能外推全段。
+天橋官方存在依據：https://bridge.nco.taipei/bms2/guest/Footbridge/inventory.aspx?vid=64 。源線形為OSM，落點未全部現勘。本輪地面修復含推定幾何，不能外推全段。
 
 {
   "status": "computed_exploratory_source_network",
@@ -11,30 +11,30 @@
   "scenario_time": "平日12:00，Y通道採使用者指定10:30–22:00",
   "radius_type": "network horizontal projected metres",
   "height_cost": "not included: no surveyed z; stair distance is projected proxy",
-  "nodes_A": 25015,
-  "nodes_B": 25025,
-  "edges_A": 26500,
-  "edges_B": 26511,
-  "components_A": 952,
-  "components_B": 952,
+  "nodes_A": 25253,
+  "nodes_B": 25263,
+  "edges_A": 26719,
+  "edges_B": 26730,
+  "components_A": 981,
+  "components_B": 981,
   "sample_count": 16,
   "cross_side_pairs": 64,
-  "connected_A": 16,
-  "connected_B": 16,
+  "connected_A": 32,
+  "connected_B": 32,
   "B_only_pairs": 0,
   "shorter_pairs": 8,
   "radius_counts": {
     "400": {
-      "A": 2,
-      "B": 4
+      "A": 3,
+      "B": 5
     },
     "800": {
-      "A": 13,
-      "B": 14
+      "A": 24,
+      "B": 25
     },
     "1600": {
-      "A": 16,
-      "B": 16
+      "A": 32,
+      "B": 32
     }
   },
   "excluded": {
@@ -48,7 +48,8 @@
   },
   "limitations": [
     "資料中不連通不等於現地不通",
-    "只使用已取得OSM線形，未補造工區臨時人行道或官方示意圖的連接線",
+    "地面修復包含標籤推定巷弄通行、人行道偏移與接點；道路製圖寬度不是實測，詳見ground-repair-audit.json",
+    "巷弄採OSM線形，人行道含偏移推定；工區臨時人行道與地下示意圖仍未補接",
     "無三維高程，未套用1:12推定；不宣稱真實步行時間／距離",
     "地下連接尚無逐段核實線形，全部暫不接入；A1封閉出口不接入",
     "B本輪只加入承德市民天橋可追溯線段；尚未完成使用者要求的地下通道模型",
@@ -56,7 +57,9 @@
     "半徑與背景邊界效果未充分排除",
     "階梯及電扶梯以雙向步行代理，單向運轉未另建時間模型",
     "抽樣為固定網絡節點，非居民或觀測人流"
-  ]
+  ],
+  "ground_repair_segments": 72,
+  "ground_repair_report": "ground-repair-audit.json"
 }
 
 CSV空白為來源網絡無路徑，不能解讀為現地不能走。未填補未知高程或直接用示意圖像素量距。A、B圖為同範圍同比例向量圖，橘色是同編號南北樣點路徑，藍色是B新增來源邊。
