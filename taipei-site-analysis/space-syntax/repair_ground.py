@@ -2,6 +2,7 @@
 No XY snapping, no automatic street-junction crossings, no changes to fixed OD nodes.
 """
 from shapely.geometry import LineString,Point
+from shapely.ops import nearest_points
 inverse=Transformer.from_crs(3826,4326,always_xy=True).transform
 node_tags=json.load(open(D/'ground-node-tags.json'))
 width_rows=json.load(gzip.open(ROOT/'taipei-site-analysis/maps/infrastructure/full-corridor/road-width-basis.json.gz','rt'))
@@ -9,6 +10,7 @@ widths={e['id']:e for e in width_rows}
 local=lambda e:any(121.508<p['lon']<121.5215 and 25.047<p['lat']<25.053 for p in e.get('geometry',[]))
 roadtypes={'primary','secondary','tertiary','residential','unclassified','service','living_street'}
 roads=[e for e in ways if e.get('tags',{}).get('highway') in roadtypes and local(e) and grade(e['tags'])=='surface']
+road_by_id={e["id"]:e for e in roads}
 inc=collections.defaultdict(set)
 for e in roads:
  for n in e['nodes']:inc[n].add(e['id'])
@@ -46,8 +48,13 @@ for e in roads:
  offset=width/2
  for side in sides:
   sg=1 if side=='left' else -1
-  # Break at every road intersection. No automatic corner/crosswalk construction.
-  cuts=sorted({0,len(ns)-1}|{i for i,n in enumerate(ns) if len(inc[n])>1})
+  # Major street intersections remain cut. For three reviewed roads only, service access mouths use an explicit continuity assumption.
+  reviewed_road=e['id'] in {244450426,33679741,33679832} and '--conservative-junctions' not in sys.argv
+  def must_cut(n):
+   others=[road_by_id[r]['tags'] for r in inc[n] if r!=e['id']]
+   if not reviewed_road:return bool(others)
+   return any(t.get('highway')!='service' for t in others)
+  cuts=sorted({0,len(ns)-1}|{i for i,n in enumerate(ns) if must_cut(n)})
   for lo,hi in zip(cuts,cuts[1:]):
    base=LineString([xy[n] for n in ns[lo:hi+1]])
    if base.length<2:continue
@@ -66,10 +73,22 @@ for e in roads:
      if cross*sg<=0:continue
      footway_exists=any(rec['group']=='surface' and {rec['a'],rec['b']}=={k,neighbor} for rec in edge_records)
      if not footway_exists:continue
-     pos=curve.project(Point(q));target=curve.interpolate(pos);gap=Point(q).distance(target)
-     # Do not create long snaps. Lateral connector remains explicitly inferred.
-     if gap>max(3,offset):continue
-     anchors.append((pos,neighbor,(target.x,target.y),gap))
+     footseg=LineString([xy[n],q]);hit=footseg.intersection(curve)
+     target_hit=hit
+     if hit.is_empty:
+      near_foot,near_curb=nearest_points(footseg,curve)
+      if near_foot.distance(near_curb)<=1.0:hit=near_foot;target_hit=near_curb
+     if hit.geom_type=='Point' and not hit.is_empty:
+      hp=(hit.x,hit.y);pos=curve.project(target_hit)
+      # Insert an attachment ON the existing footway, not at its distant end.
+      anchor=synthetic(hp,'source_footway_split')
+      repair_edge(k,anchor,math.dist(xy[n],hp),e['id'],'source_footway_split','cost-preserving subdivision of an existing mapped footway')
+      repair_edge(anchor,neighbor,math.dist(hp,q),e['id'],'source_footway_split','cost-preserving subdivision of an existing mapped footway')
+      anchors.append((pos,anchor,(target_hit.x,target_hit.y),hit.distance(target_hit)))
+     else:
+      pos=curve.project(Point(q));target=curve.interpolate(pos);gap=Point(q).distance(target)
+      if gap>max(3,offset):continue
+      anchors.append((pos,neighbor,(target.x,target.y),gap))
    anchors=sorted({(round(a,6),b,c,d) for a,b,c,d in anchors})
    if len({a[1] for a in anchors})<2:continue
    chain=[]
@@ -81,5 +100,5 @@ for e in roads:
     if prior:repair_edge(prior[1],u,station-prior[0],e['id'],'inferred_sidewalk','side-specific offset; '+wr['basis'])
     if k:repair_edge(k,u,gap,e['id'],'inferred_sidewalk','inferred same-side attachment to mapped footway; no field verification')
     prior=(station,u)
-   audit.append({'way':e['id'],'name':t.get('name'),'kind':'inferred_sidewalk','side':side,'source_nodes':[ns[lo],ns[hi]],'width_m':width,'width_basis':wr['basis'],'anchors':[a[1][0] for a in anchors],'max_attachment_m':max(a[3] for a in anchors),'status':'conditional_geometry_not_surveyed'})
+   audit.append({'way':e['id'],'name':t.get('name'),'kind':'inferred_sidewalk','side':side,'source_nodes':[ns[lo],ns[hi]],'width_m':width,'width_basis':wr['basis'],'anchors':[a[1][0] for a in anchors],'max_attachment_m':max(a[3] for a in anchors),'status':'conditional_geometry_not_surveyed','service_access_continuity_assumed':reviewed_road,'service_junction_nodes':[n for n in ns[lo:hi+1] if len(inc[n])>1 and not must_cut(n)]})
 json.dump(audit,open(OUT/'ground-repair-audit.json','w'),ensure_ascii=False,indent=2)

@@ -159,5 +159,14 @@
     "complete_B": false,
     "underground_included": false,
     "verified_current_stair_endpoints": false
+  },
+  "ground_connectivity_review": {
+    "status": "conditional_connected",
+    "fixed_OD_pairs": 64,
+    "connected_assuming_service_access_continuity": 64,
+    "connected_with_all_service_junctions_cut": 40,
+    "dated_street_view_checked": true,
+    "full_current_field_verified": false,
+    "report": "results/FOUR_POINT_VERIFICATION.md"
   }
 }

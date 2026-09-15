@@ -1,0 +1,13 @@
+{
+  "fixed_OD_unchanged": true,
+  "pairs": 64,
+  "conservative_connected": 40,
+  "service_continuity_connected": 64,
+  "B_never_longer_than_A": true,
+  "inferred_sidewalk_segments": 18,
+  "source_point_photos_dates": [
+    "2025-02",
+    "2025-05"
+  ],
+  "full_2026_field_verification": false
+}

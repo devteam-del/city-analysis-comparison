@@ -11,30 +11,30 @@
   "scenario_time": "平日12:00，Y通道採使用者指定10:30–22:00",
   "radius_type": "network horizontal projected metres",
   "height_cost": "not included: no surveyed z; stair distance is projected proxy",
-  "nodes_A": 25253,
-  "nodes_B": 25263,
-  "edges_A": 26719,
-  "edges_B": 26730,
-  "components_A": 981,
-  "components_B": 981,
+  "nodes_A": 25503,
+  "nodes_B": 25513,
+  "edges_A": 27067,
+  "edges_B": 27078,
+  "components_A": 970,
+  "components_B": 970,
   "sample_count": 16,
   "cross_side_pairs": 64,
-  "connected_A": 32,
-  "connected_B": 32,
+  "connected_A": 64,
+  "connected_B": 64,
   "B_only_pairs": 0,
-  "shorter_pairs": 8,
+  "shorter_pairs": 12,
   "radius_counts": {
     "400": {
-      "A": 3,
-      "B": 5
+      "A": 5,
+      "B": 8
     },
     "800": {
-      "A": 24,
-      "B": 25
+      "A": 43,
+      "B": 44
     },
     "1600": {
-      "A": 32,
-      "B": 32
+      "A": 64,
+      "B": 64
     }
   },
   "excluded": {
@@ -58,8 +58,9 @@
     "階梯及電扶梯以雙向步行代理，單向運轉未另建時間模型",
     "抽樣為固定網絡節點，非居民或觀測人流"
   ],
-  "ground_repair_segments": 72,
-  "ground_repair_report": "ground-repair-audit.json"
+  "ground_repair_segments": 88,
+  "ground_repair_report": "ground-repair-audit.json",
+  "service_access_continuity_assumed": true
 }
 
 CSV空白為來源網絡無路徑，不能解讀為現地不能走。未填補未知高程或直接用示意圖像素量距。A、B圖為同範圍同比例向量圖，橘色是同編號南北樣點路徑，藍色是B新增來源邊。

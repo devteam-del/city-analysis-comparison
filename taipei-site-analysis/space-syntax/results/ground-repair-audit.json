@@ -41,6 +41,69 @@
     ]
   },
   {
+    "way": 244450426,
+    "name": "塔城街",
+    "kind": "inferred_sidewalk",
+    "side": "left",
+    "source_nodes": [
+      4260908428,
+      12296970401
+    ],
+    "width_m": 16,
+    "width_basis": "historical_official_WIDTH",
+    "anchors": [
+      -16,
+      -17
+    ],
+    "max_attachment_m": 0.0,
+    "status": "conditional_geometry_not_surveyed",
+    "service_access_continuity_assumed": true,
+    "service_junction_nodes": [
+      3262987173,
+      7818778811
+    ]
+  },
+  {
+    "way": 287316010,
+    "name": "塔城街",
+    "kind": "inferred_sidewalk",
+    "side": "right",
+    "source_nodes": [
+      3783134792,
+      2002014274
+    ],
+    "width_m": 16,
+    "width_basis": "historical_official_WIDTH",
+    "anchors": [
+      -31,
+      -32
+    ],
+    "max_attachment_m": 0.0,
+    "status": "conditional_geometry_not_surveyed",
+    "service_access_continuity_assumed": false,
+    "service_junction_nodes": []
+  },
+  {
+    "way": 287316014,
+    "name": "長安西路",
+    "kind": "inferred_sidewalk",
+    "side": "right",
+    "source_nodes": [
+      2112377011,
+      662314596
+    ],
+    "width_m": 14,
+    "width_basis": "historical_official_WIDTH",
+    "anchors": [
+      -47,
+      -48
+    ],
+    "max_attachment_m": 0.0,
+    "status": "conditional_geometry_not_surveyed",
+    "service_access_continuity_assumed": false,
+    "service_junction_nodes": []
+  },
+  {
     "way": 319827250,
     "name": "重慶北路一段26巷",
     "kind": "restored_alley",
@@ -182,6 +245,173 @@
     ]
   },
   {
+    "way": 1329105636,
+    "name": "塔城街",
+    "kind": "inferred_sidewalk",
+    "side": "left",
+    "source_nodes": [
+      3263498462,
+      2112377011
+    ],
+    "width_m": 16,
+    "width_basis": "historical_official_WIDTH",
+    "anchors": [
+      -100,
+      -101
+    ],
+    "max_attachment_m": 0.5303833135817272,
+    "status": "conditional_geometry_not_surveyed",
+    "service_access_continuity_assumed": false,
+    "service_junction_nodes": []
+  },
+  {
+    "way": 33679741,
+    "name": "華陰街",
+    "kind": "inferred_sidewalk",
+    "side": "left",
+    "source_nodes": [
+      2142307070,
+      385077754
+    ],
+    "width_m": 6,
+    "width_basis": "historical_official_WIDTH",
+    "anchors": [
+      -109,
+      -110
+    ],
+    "max_attachment_m": 0.0,
+    "status": "conditional_geometry_not_surveyed",
+    "service_access_continuity_assumed": true,
+    "service_junction_nodes": [
+      5297470702,
+      2142307073,
+      2142307078,
+      4449312417
+    ]
+  },
+  {
+    "way": 33679741,
+    "name": "華陰街",
+    "kind": "inferred_sidewalk",
+    "side": "left",
+    "source_nodes": [
+      1223757532,
+      3145249104
+    ],
+    "width_m": 6,
+    "width_basis": "historical_official_WIDTH",
+    "anchors": [
+      -124,
+      -125
+    ],
+    "max_attachment_m": 0.0,
+    "status": "conditional_geometry_not_surveyed",
+    "service_access_continuity_assumed": true,
+    "service_junction_nodes": [
+      4881981838,
+      4881981835,
+      4881981839
+    ]
+  },
+  {
+    "way": 33679741,
+    "name": "華陰街",
+    "kind": "inferred_sidewalk",
+    "side": "left",
+    "source_nodes": [
+      3145249104,
+      493149370
+    ],
+    "width_m": 6,
+    "width_basis": "historical_official_WIDTH",
+    "anchors": [
+      -137,
+      -138
+    ],
+    "max_attachment_m": 0.0,
+    "status": "conditional_geometry_not_surveyed",
+    "service_access_continuity_assumed": true,
+    "service_junction_nodes": [
+      3783134774,
+      3783134775
+    ]
+  },
+  {
+    "way": 33679741,
+    "name": "華陰街",
+    "kind": "inferred_sidewalk",
+    "side": "right",
+    "source_nodes": [
+      2142307070,
+      385077754
+    ],
+    "width_m": 6,
+    "width_basis": "historical_official_WIDTH",
+    "anchors": [
+      -152,
+      -153,
+      -154,
+      -155
+    ],
+    "max_attachment_m": 0.6901405581950758,
+    "status": "conditional_geometry_not_surveyed",
+    "service_access_continuity_assumed": true,
+    "service_junction_nodes": [
+      5297470702,
+      2142307073,
+      2142307078,
+      4449312417
+    ]
+  },
+  {
+    "way": 33679741,
+    "name": "華陰街",
+    "kind": "inferred_sidewalk",
+    "side": "right",
+    "source_nodes": [
+      1223757532,
+      3145249104
+    ],
+    "width_m": 6,
+    "width_basis": "historical_official_WIDTH",
+    "anchors": [
+      -173,
+      -174
+    ],
+    "max_attachment_m": 0.0,
+    "status": "conditional_geometry_not_surveyed",
+    "service_access_continuity_assumed": true,
+    "service_junction_nodes": [
+      4881981838,
+      4881981835,
+      4881981839
+    ]
+  },
+  {
+    "way": 33679741,
+    "name": "華陰街",
+    "kind": "inferred_sidewalk",
+    "side": "right",
+    "source_nodes": [
+      3145249104,
+      493149370
+    ],
+    "width_m": 6,
+    "width_basis": "historical_official_WIDTH",
+    "anchors": [
+      -187,
+      -188,
+      -189
+    ],
+    "max_attachment_m": 0.0,
+    "status": "conditional_geometry_not_surveyed",
+    "service_access_continuity_assumed": true,
+    "service_junction_nodes": [
+      3783134774,
+      3783134775
+    ]
+  },
+  {
     "way": 251668628,
     "name": "忠孝西路一段84巷",
     "kind": "restored_alley",
@@ -259,6 +489,76 @@
     ]
   },
   {
+    "way": 33679832,
+    "name": "太原路",
+    "kind": "inferred_sidewalk",
+    "side": "left",
+    "source_nodes": [
+      385078561,
+      3145249104
+    ],
+    "width_m": 12,
+    "width_basis": "historical_official_WIDTH",
+    "anchors": [
+      -219,
+      -220
+    ],
+    "max_attachment_m": 0.0,
+    "status": "conditional_geometry_not_surveyed",
+    "service_access_continuity_assumed": true,
+    "service_junction_nodes": [
+      3783134768,
+      3262986083,
+      4881981842
+    ]
+  },
+  {
+    "way": 33679832,
+    "name": "太原路",
+    "kind": "inferred_sidewalk",
+    "side": "left",
+    "source_nodes": [
+      3145249104,
+      32615831
+    ],
+    "width_m": 12,
+    "width_basis": "historical_official_WIDTH",
+    "anchors": [
+      -232,
+      7702095023
+    ],
+    "max_attachment_m": 1.9119610535197853,
+    "status": "conditional_geometry_not_surveyed",
+    "service_access_continuity_assumed": true,
+    "service_junction_nodes": [
+      4881981836,
+      3783134776
+    ]
+  },
+  {
+    "way": 33679832,
+    "name": "太原路",
+    "kind": "inferred_sidewalk",
+    "side": "right",
+    "source_nodes": [
+      3145249104,
+      32615831
+    ],
+    "width_m": 12,
+    "width_basis": "historical_official_WIDTH",
+    "anchors": [
+      -244,
+      -245
+    ],
+    "max_attachment_m": 0.0,
+    "status": "conditional_geometry_not_surveyed",
+    "service_access_continuity_assumed": true,
+    "service_junction_nodes": [
+      4881981836,
+      3783134776
+    ]
+  },
+  {
     "way": 203799175,
     "name": "南京西路12巷13弄",
     "kind": "restored_alley",
@@ -276,6 +576,31 @@
       2142307086,
       2269991783
     ]
+  },
+  {
+    "way": 204211736,
+    "name": "南京西路23巷",
+    "kind": "inferred_sidewalk",
+    "side": "left",
+    "source_nodes": [
+      662161238,
+      9272040151
+    ],
+    "width_m": 4.0,
+    "width_basis": "osm_width",
+    "anchors": [
+      -264,
+      -265,
+      -266,
+      -268,
+      -267,
+      -269,
+      -270
+    ],
+    "max_attachment_m": 0.0,
+    "status": "conditional_geometry_not_surveyed",
+    "service_access_continuity_assumed": false,
+    "service_junction_nodes": []
   },
   {
     "way": 204408789,
@@ -455,11 +780,13 @@
     "width_m": 14,
     "width_basis": "historical_official_WIDTH",
     "anchors": [
-      7702095032,
-      7702095029
+      -338,
+      -339
     ],
-    "max_attachment_m": 2.5780904041671775,
-    "status": "conditional_geometry_not_surveyed"
+    "max_attachment_m": 0.0,
+    "status": "conditional_geometry_not_surveyed",
+    "service_access_continuity_assumed": false,
+    "service_junction_nodes": []
   },
   {
     "way": 407202572,
@@ -474,10 +801,12 @@
     "width_basis": "historical_official_WIDTH",
     "anchors": [
       7702095031,
-      7702095030
+      -347
     ],
     "max_attachment_m": 3.121865013113746,
-    "status": "conditional_geometry_not_surveyed"
+    "status": "conditional_geometry_not_surveyed",
+    "service_access_continuity_assumed": false,
+    "service_junction_nodes": []
   },
   {
     "way": 431665415,
@@ -677,6 +1006,46 @@
       2144167926,
       4335733854
     ]
+  },
+  {
+    "way": 904425964,
+    "name": "長安西路",
+    "kind": "inferred_sidewalk",
+    "side": "left",
+    "source_nodes": [
+      32615831,
+      4881981833
+    ],
+    "width_m": 14,
+    "width_basis": "historical_official_WIDTH",
+    "anchors": [
+      -406,
+      -407
+    ],
+    "max_attachment_m": 0.36826797095912395,
+    "status": "conditional_geometry_not_surveyed",
+    "service_access_continuity_assumed": false,
+    "service_junction_nodes": []
+  },
+  {
+    "way": 904425964,
+    "name": "長安西路",
+    "kind": "inferred_sidewalk",
+    "side": "right",
+    "source_nodes": [
+      4983372782,
+      662314515
+    ],
+    "width_m": 14,
+    "width_basis": "historical_official_WIDTH",
+    "anchors": [
+      -416,
+      -417
+    ],
+    "max_attachment_m": 0.358092422900829,
+    "status": "conditional_geometry_not_surveyed",
+    "service_access_continuity_assumed": false,
+    "service_junction_nodes": []
   },
   {
     "way": 1006456981,

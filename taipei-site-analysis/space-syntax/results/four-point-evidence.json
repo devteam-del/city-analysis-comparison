@@ -1,0 +1,86 @@
+[
+  {
+    "point": "N1",
+    "title": "26 塔城街",
+    "date": "2025-02",
+    "pano": "LRdBHqgLjtD7KRa0tudTTw",
+    "viewpoint": [
+      25.0509118,
+      121.5104826
+    ],
+    "observed": "兩側沿街鋪面與步行空間；停車場出入口有行人穿越標線。南向可見人行空間往高架方向延伸。",
+    "url": "https://www.google.com/maps/@?api=1&map_action=pano&pano=LRdBHqgLjtD7KRa0tudTTw",
+    "checked_on": "2026-09-15",
+    "scope": "影像拍攝當時、畫面可見範圍；非2026現勘"
+  },
+  {
+    "point": "N1",
+    "title": "7 塔城街",
+    "date": "2025-02",
+    "pano": "Is9aelTUnrPgATP0V9O7LQ",
+    "viewpoint": [
+      25.0503536,
+      121.5104749
+    ],
+    "observed": "高架下鄭州路口有斑馬線、號誌與行人。",
+    "url": "https://www.google.com/maps/@?api=1&map_action=pano&pano=Is9aelTUnrPgATP0V9O7LQ",
+    "checked_on": "2026-09-15",
+    "scope": "影像拍攝當時、畫面可見範圍；非2026現勘"
+  },
+  {
+    "point": "N4",
+    "title": "普濟寺（使用者全景，非官方道路街景）",
+    "date": "2017-02",
+    "pano": "CIHM0ogKEICAgID4hbCxXA",
+    "viewpoint": [
+      25.0504638,
+      121.5141136
+    ],
+    "observed": "寺內入口與階差；不能用作2026巷道開放或全程穿通證據。",
+    "url": "https://www.google.com/maps/@?api=1&map_action=pano&pano=CIHM0ogKEICAgID4hbCxXA",
+    "checked_on": "2026-09-15",
+    "scope": "影像拍攝當時、畫面可見範圍；非2026現勘"
+  },
+  {
+    "point": "N4",
+    "title": "217 華陰街",
+    "date": "2025-05",
+    "pano": "-A9q8V9x_0ydLBlTE02NNQ",
+    "viewpoint": [
+      25.0505169,
+      121.5142303
+    ],
+    "observed": "普濟寺臨華陰街入口、沿街店面與開放街面；局部階差與機車停放，不能稱全段無障礙人行道。未直接看到N4全部巷內路線。",
+    "url": "https://www.google.com/maps/@?api=1&map_action=pano&pano=-A9q8V9x_0ydLBlTE02NNQ",
+    "checked_on": "2026-09-15",
+    "scope": "影像拍攝當時、畫面可見範圍；非2026現勘"
+  },
+  {
+    "point": "N5",
+    "title": "17 太原路",
+    "date": "2025-05",
+    "pano": "r-NHhUVO7Curm2c6CsLtqg",
+    "viewpoint": [
+      25.0501952,
+      121.5151755
+    ],
+    "observed": "太原路／華陰街有斑馬線、號誌、街角接續與行人。",
+    "url": "https://www.google.com/maps/@?api=1&map_action=pano&pano=r-NHhUVO7Curm2c6CsLtqg",
+    "checked_on": "2026-09-15",
+    "scope": "影像拍攝當時、畫面可見範圍；非2026現勘"
+  },
+  {
+    "point": "N7",
+    "title": "101 華陰街",
+    "date": "2025-05",
+    "pano": "8WHomv5bCHasolaE09jGrQ",
+    "viewpoint": [
+      25.0497834,
+      121.5172659
+    ],
+    "observed": "北側店前連續鋪面、101巷方向入口；有柱體、植栽，並非無阻礙空白面。未見此畫面範圍內全面封閉。",
+    "url": "https://www.google.com/maps/@?api=1&map_action=pano&pano=8WHomv5bCHasolaE09jGrQ",
+    "checked_on": "2026-09-15",
+    "scope": "影像拍攝當時、畫面可見範圍；非2026現勘"
+  }
+]
