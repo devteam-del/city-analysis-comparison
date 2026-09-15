@@ -1,0 +1,3456 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "2702709391",
+      "properties": {
+        "osm_id": "2702709391",
+        "tags": {
+          "highway": "elevator"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5097311,
+          25.0460159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3076882276",
+      "properties": {
+        "osm_id": "3076882276",
+        "tags": {
+          "name": "西門地下街6號出入口",
+          "railway": "subway_entrance",
+          "ref": "6",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.509391,
+          25.0450346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3186011785",
+      "properties": {
+        "osm_id": "3186011785",
+        "tags": {
+          "railway": "subway_entrance",
+          "ref": "1"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5098218,
+          25.0488122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3262986269",
+      "properties": {
+        "osm_id": "3262986269",
+        "tags": {
+          "access": "no",
+          "emergency": "yes",
+          "name": "延平北路緊急出口",
+          "railway": "subway_entrance",
+          "ref": "5"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5119828,
+          25.0484523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3355241657",
+      "properties": {
+        "osm_id": "3355241657",
+        "tags": {
+          "entrance": "staircase",
+          "level": "0",
+          "name": "Z7出口",
+          "name:en": "Z7 Exit (Chongqing North Road)",
+          "name:zh": "Z7出口",
+          "ref": "Z7"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5134659,
+          25.0475295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4476417055",
+      "properties": {
+        "osm_id": "4476417055",
+        "tags": {
+          "entrance": "staircase",
+          "level": "0",
+          "name": "Z10出口",
+          "name:en": "Z10 Exit (Chongqing South Road)",
+          "name:zh": "Z10出口",
+          "ref": "Z10"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5130667,
+          25.0470144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4476417059",
+      "properties": {
+        "osm_id": "4476417059",
+        "tags": {
+          "entrance": "staircase",
+          "level": "0",
+          "name": "Z9出口",
+          "name:en": "Z9 Exit (Railroad Police Bureau)",
+          "name:zh": "Z9出口",
+          "ref": "Z9"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5132024,
+          25.0475797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4838087777",
+      "properties": {
+        "osm_id": "4838087777",
+        "tags": {
+          "access": "no",
+          "emergency": "yes",
+          "railway": "subway_entrance",
+          "ref": "48"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5098014,
+          25.0471402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4899551431",
+      "properties": {
+        "osm_id": "4899551431",
+        "tags": {
+          "access": "no",
+          "railway": "subway_entrance"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5114402,
+          25.0473624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5021873868",
+      "properties": {
+        "osm_id": "5021873868",
+        "tags": {
+          "name": "5號出入口",
+          "railway": "subway_entrance"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5126776,
+          25.0488034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5021905665",
+      "properties": {
+        "osm_id": "5021905665",
+        "tags": {
+          "entrance": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5135129,
+          25.0487972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12088561598",
+      "properties": {
+        "osm_id": "12088561598",
+        "tags": {
+          "highway": "elevator",
+          "level": "-2;-1"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5162449,
+          25.0465771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12201688016",
+      "properties": {
+        "osm_id": "12201688016",
+        "tags": {
+          "check_date": "2024-09-26",
+          "entrance": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5126253,
+          25.0471969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12416217860",
+      "properties": {
+        "osm_id": "12416217860",
+        "tags": {
+          "railway": "subway_entrance"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5113559,
+          25.046795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12416217878",
+      "properties": {
+        "osm_id": "12416217878",
+        "tags": {
+          "railway": "subway_entrance"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.511318,
+          25.0471497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12416217892",
+      "properties": {
+        "osm_id": "12416217892",
+        "tags": {
+          "railway": "subway_entrance"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5113394,
+          25.0470461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12416364114",
+      "properties": {
+        "osm_id": "12416364114",
+        "tags": {
+          "railway": "subway_entrance"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5097374,
+          25.0453413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12458715212",
+      "properties": {
+        "osm_id": "12458715212",
+        "tags": {
+          "highway": "elevator"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5090779,
+          25.0462549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3505143998",
+      "properties": {
+        "osm_id": "3505143998",
+        "tags": {
+          "railway": "subway_entrance",
+          "ref": "Y9",
+          "wheelchair": "limited"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5158039,
+          25.0490388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3505144196",
+      "properties": {
+        "osm_id": "3505144196",
+        "tags": {
+          "railway": "subway_entrance",
+          "ref": "Y17",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5137089,
+          25.0494896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4406419433",
+      "properties": {
+        "osm_id": "4406419433",
+        "tags": {
+          "entrance": "staircase",
+          "name": "Y11",
+          "railway": "subway_entrance",
+          "repeat_on": "-1-0",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5155813,
+          25.0490738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4406419435",
+      "properties": {
+        "osm_id": "4406419435",
+        "tags": {
+          "entrance": "staircase",
+          "name": "Y13",
+          "railway": "subway_entrance",
+          "repeat_on": "-1-0",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5148447,
+          25.0494559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4406419437",
+      "properties": {
+        "osm_id": "4406419437",
+        "tags": {
+          "entrance": "staircase",
+          "name": "Y15",
+          "railway": "subway_entrance",
+          "repeat_on": "-1-0",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5143713,
+          25.0493313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4406419440",
+      "properties": {
+        "osm_id": "4406419440",
+        "tags": {
+          "entrance": "staircase",
+          "name": "Y18",
+          "railway": "subway_entrance",
+          "repeat_on": "-1-0",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": true,
+        "restriction_source": "https://english.udd.gov.taipei/News_Content.aspx?n=6E18BA96F3CB0148&s=E01BE4B5DB1363E6&sms=87415A8B9CE81B16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5140345,
+          25.0490649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5021873867",
+      "properties": {
+        "osm_id": "5021873867",
+        "tags": {
+          "name": "3號出入口",
+          "railway": "subway_entrance"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5136831,
+          25.0489815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5023330234",
+      "properties": {
+        "osm_id": "5023330234",
+        "tags": {
+          "name": "4號出入口",
+          "railway": "subway_entrance"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5135956,
+          25.0485943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5299977566",
+      "properties": {
+        "osm_id": "5299977566",
+        "tags": {
+          "entrance": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5138246,
+          25.0491043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5318551122",
+      "properties": {
+        "osm_id": "5318551122",
+        "tags": {
+          "entrance": "staircase",
+          "name": "Y20",
+          "railway": "subway_entrance",
+          "repeat_on": "-1-0"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5137224,
+          25.0492155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9260092525",
+      "properties": {
+        "osm_id": "9260092525",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "ref": "R2"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5196961,
+          25.0495538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9260092526",
+      "properties": {
+        "osm_id": "9260092526",
+        "tags": {
+          "entrance": "emergency",
+          "level": "0",
+          "ref": "R3"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5199494,
+          25.0497877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9277546671",
+      "properties": {
+        "osm_id": "9277546671",
+        "tags": {
+          "access": "private",
+          "highway": "elevator",
+          "level": "-1;0"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5199866,
+          25.0498445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11262183520",
+      "properties": {
+        "osm_id": "11262183520",
+        "tags": {
+          "entrance": "yes",
+          "level": "-2"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5173883,
+          25.0489014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11262183528",
+      "properties": {
+        "osm_id": "11262183528",
+        "tags": {
+          "entrance": "yes",
+          "level": "-2"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.518075,
+          25.0488035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13555854740",
+      "properties": {
+        "osm_id": "13555854740",
+        "tags": {
+          "entrance": "yes",
+          "level": "0"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5173755,
+          25.0489231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13555854742",
+      "properties": {
+        "osm_id": "13555854742",
+        "tags": {
+          "entrance": "yes",
+          "level": "0"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5180178,
+          25.0488154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3186011786",
+      "properties": {
+        "osm_id": "3186011786",
+        "tags": {
+          "railway": "subway_entrance",
+          "ref": "2"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5105751,
+          25.0493688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3186011787",
+      "properties": {
+        "osm_id": "3186011787",
+        "tags": {
+          "railway": "subway_entrance",
+          "ref": "3"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.510139,
+          25.049929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3505143596",
+      "properties": {
+        "osm_id": "3505143596",
+        "tags": {
+          "railway": "subway_entrance",
+          "ref": "Y21",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5122444,
+          25.0499766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3505144000",
+      "properties": {
+        "osm_id": "3505144000",
+        "tags": {
+          "railway": "subway_entrance",
+          "ref": "Y26"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5115694,
+          25.0497574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3505144002",
+      "properties": {
+        "osm_id": "3505144002",
+        "tags": {
+          "railway": "subway_entrance",
+          "ref": "Y27",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.510663,
+          25.0503037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3505144197",
+      "properties": {
+        "osm_id": "3505144197",
+        "tags": {
+          "railway": "subway_entrance",
+          "ref": "Y19",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5129463,
+          25.0497129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3505145996",
+      "properties": {
+        "osm_id": "3505145996",
+        "tags": {
+          "railway": "subway_entrance",
+          "ref": "Y23",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5116838,
+          25.0501153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3505146395",
+      "properties": {
+        "osm_id": "3505146395",
+        "tags": {
+          "railway": "subway_entrance",
+          "ref": "Y25",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5113046,
+          25.0501875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3699813329",
+      "properties": {
+        "osm_id": "3699813329",
+        "tags": {
+          "railway": "subway_entrance",
+          "ref": "Y28"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5108058,
+          25.0499144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4524864156",
+      "properties": {
+        "osm_id": "4524864156",
+        "tags": {
+          "amenity": "parking_entrance",
+          "entrance": "yes",
+          "fee": "yes",
+          "maxheight": "1.8",
+          "name": "市民大道停車場塔城段",
+          "name:en": "Civic Boulevard Car Park (Tacheng)",
+          "name:zh": "市民大道停車場塔城段",
+          "ownership": "government",
+          "parking": "underground"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5096612,
+          25.0502973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5021873869",
+      "properties": {
+        "osm_id": "5021873869",
+        "tags": {
+          "name": "6號出入口",
+          "railway": "subway_entrance"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5121947,
+          25.0494338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5021873870",
+      "properties": {
+        "osm_id": "5021873870",
+        "tags": {
+          "name": "7號出入口",
+          "railway": "subway_entrance"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5120237,
+          25.0492877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7495435668",
+      "properties": {
+        "osm_id": "7495435668",
+        "tags": {
+          "amenity": "parking_entrance",
+          "entrance": "entrance",
+          "fee": "yes",
+          "maxheight": "2.1",
+          "name": "台北地下街",
+          "name:en": "Taipei City Mall",
+          "name:zh": "台北地下街",
+          "ownership": "government",
+          "parking": "underground"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5118595,
+          25.0499007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7495435673",
+      "properties": {
+        "osm_id": "7495435673",
+        "tags": {
+          "amenity": "parking_entrance",
+          "entrance": "exit",
+          "fee": "yes",
+          "maxheight": "2.1",
+          "name": "台北地下街",
+          "name:en": "Taipei City Mall",
+          "name:zh": "台北地下街",
+          "ownership": "government",
+          "parking": "underground"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5113955,
+          25.0500301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7495435674",
+      "properties": {
+        "osm_id": "7495435674",
+        "tags": {
+          "barrier": "lift_gate",
+          "entrance": "yes",
+          "fee": "yes",
+          "fee:motor_vehicle": "yes",
+          "parking:fee": "yes",
+          "payment": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5097605,
+          25.0502787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12433935207",
+      "properties": {
+        "osm_id": "12433935207",
+        "tags": {
+          "name": "Y22",
+          "railway": "subway_entrance"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": true,
+        "restriction_source": "https://english.udd.gov.taipei/News_Content.aspx?n=6E18BA96F3CB0148&s=E01BE4B5DB1363E6&sms=87415A8B9CE81B16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.512808,
+          25.0493872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2517123572",
+      "properties": {
+        "osm_id": "2517123572",
+        "tags": {
+          "description": "天成飯店大門",
+          "entrance": "main"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.518195,
+          25.0461992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2545517167",
+      "properties": {
+        "osm_id": "2545517167",
+        "tags": {
+          "entrance": "main"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.517366,
+          25.0451288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2737014116",
+      "properties": {
+        "osm_id": "2737014116",
+        "tags": {
+          "addr:city": "臺北市",
+          "addr:country": "TW",
+          "addr:district": "中正區",
+          "addr:full": "100臺北市中正區中山北路一段2號",
+          "addr:housenumber": "2",
+          "addr:postcode": "100",
+          "addr:street": "中山北路一段",
+          "entrance": "main"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5195613,
+          25.0460777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2793285506",
+      "properties": {
+        "osm_id": "2793285506",
+        "tags": {
+          "description": "M8出口 公園路",
+          "level": "0",
+          "railway": "subway_entrance",
+          "ref": "M8",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5175029,
+          25.0457834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2793285507",
+      "properties": {
+        "osm_id": "2793285507",
+        "tags": {
+          "level": "0",
+          "name": "M1",
+          "railway": "subway_entrance",
+          "ref": "M1",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5181697,
+          25.048253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2793285508",
+      "properties": {
+        "osm_id": "2793285508",
+        "tags": {
+          "level": "0",
+          "name": "M2",
+          "railway": "subway_entrance",
+          "ref": "M2",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5190094,
+          25.0480916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3192472090",
+      "properties": {
+        "osm_id": "3192472090",
+        "tags": {
+          "level": "0",
+          "railway": "subway_entrance",
+          "ref": "R1"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5190203,
+          25.0486703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3355241658",
+      "properties": {
+        "osm_id": "3355241658",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "name": "Z5出口",
+          "name:en": "Z5 Exit",
+          "name:zh": "Z5出口",
+          "ref": "Z5"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5135774,
+          25.0473437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3355241659",
+      "properties": {
+        "osm_id": "3355241659",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "name": "Z3出口",
+          "name:en": "Z3 Exit",
+          "name:zh": "Z3出口",
+          "ref": "Z3"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5146228,
+          25.0470856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3355241664",
+      "properties": {
+        "osm_id": "3355241664",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "name": "Z1出口(臺北車站)",
+          "name:en": "Z1 Exit (Taipei Station)",
+          "name:zh": "Z1出口(臺北車站)",
+          "ref": "Z1"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5155152,
+          25.0469572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3505143496",
+      "properties": {
+        "osm_id": "3505143496",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "ref": "Y7",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5161428,
+          25.0489803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3505143594",
+      "properties": {
+        "osm_id": "3505143594",
+        "tags": {
+          "level": "0",
+          "railway": "subway_entrance",
+          "ref": "M7"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5186555,
+          25.046061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3505143693",
+      "properties": {
+        "osm_id": "3505143693",
+        "tags": {
+          "level": "0",
+          "railway": "subway_entrance",
+          "ref": "M4"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5173846,
+          25.046473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3505143694",
+      "properties": {
+        "osm_id": "3505143694",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "ref": "Y4",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5177578,
+          25.0482104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3505143793",
+      "properties": {
+        "osm_id": "3505143793",
+        "tags": {
+          "level": "0",
+          "railway": "subway_entrance",
+          "ref": "M3"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5177943,
+          25.046293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3505143795",
+      "properties": {
+        "osm_id": "3505143795",
+        "tags": {
+          "entrance": "yes",
+          "ref": "Y6",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.517535,
+          25.0484104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3505143993",
+      "properties": {
+        "osm_id": "3505143993",
+        "tags": {
+          "level": "0",
+          "railway": "subway_entrance",
+          "ref": "M5"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5161582,
+          25.0467795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3505143997",
+      "properties": {
+        "osm_id": "3505143997",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "ref": "Y1",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5186581,
+          25.0485849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3505145593",
+      "properties": {
+        "osm_id": "3505145593",
+        "tags": {
+          "railway": "subway_entrance",
+          "ref": "Y10",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5161726,
+          25.0486302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3505145993",
+      "properties": {
+        "osm_id": "3505145993",
+        "tags": {
+          "railway": "subway_entrance",
+          "ref": "Y12",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5156098,
+          25.0487211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3519646293",
+      "properties": {
+        "osm_id": "3519646293",
+        "tags": {
+          "entrance": "main",
+          "name": "辦公區正門"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5153092,
+          25.0463693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3536200694",
+      "properties": {
+        "osm_id": "3536200694",
+        "tags": {
+          "addr:city": "臺北市",
+          "addr:country": "TW",
+          "addr:district": "中正區",
+          "addr:full": "100臺北市中正區忠孝西路一段7號",
+          "addr:housenumber": "7",
+          "addr:postcode": "100",
+          "addr:street": "忠孝西路一段",
+          "entrance": "main"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5191219,
+          25.0459718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3536202093",
+      "properties": {
+        "osm_id": "3536202093",
+        "tags": {
+          "description": "天成商業大樓入口",
+          "entrance": "main"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5183376,
+          25.0461654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3541337696",
+      "properties": {
+        "osm_id": "3541337696",
+        "tags": {
+          "entrance": "main",
+          "level": "0",
+          "name": "西1門",
+          "ref": "西1門",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5164048,
+          25.0481248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3541338293",
+      "properties": {
+        "osm_id": "3541338293",
+        "tags": {
+          "entrance": "main",
+          "level": "0",
+          "name": "北2門",
+          "ref": "北2門",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5172335,
+          25.0482797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3541338294",
+      "properties": {
+        "osm_id": "3541338294",
+        "tags": {
+          "entrance": "main",
+          "level": "0",
+          "name": "西3門",
+          "ref": "西3門",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5162903,
+          25.0475754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3541338393",
+      "properties": {
+        "osm_id": "3541338393",
+        "tags": {
+          "entrance": "service",
+          "level": "0",
+          "name": "西2門",
+          "ref": "西2門",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5163475,
+          25.0478502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3556410802",
+      "properties": {
+        "osm_id": "3556410802",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "ref": "Z2"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5157272,
+          25.0464818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3556411099",
+      "properties": {
+        "osm_id": "3556411099",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "ref": "Z4"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5152884,
+          25.0465883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3707479441",
+      "properties": {
+        "osm_id": "3707479441",
+        "tags": {
+          "description": "M6出口 台北凱薩飯店",
+          "level": "0",
+          "railway": "subway_entrance",
+          "ref": "M6",
+          "wheelchair": "no",
+          "wheelchair:description": "要從另一邊的入口進入"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5168062,
+          25.0461142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3707479455",
+      "properties": {
+        "osm_id": "3707479455",
+        "tags": {
+          "addr:city": "台北市",
+          "addr:country": "TW",
+          "addr:district": "中正區",
+          "addr:full": "10047台北市中正區忠孝西路一段36號",
+          "addr:housenumber": "36",
+          "addr:postcode": "10047",
+          "addr:street": "忠孝西路一段",
+          "entrance": "staircase"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5170834,
+          25.0460647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3707479456",
+      "properties": {
+        "osm_id": "3707479456",
+        "tags": {
+          "entrance": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.516814,
+          25.0460269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3881407478",
+      "properties": {
+        "osm_id": "3881407478",
+        "tags": {
+          "entrance": "staircase",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5161736,
+          25.046288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4406419436",
+      "properties": {
+        "osm_id": "4406419436",
+        "tags": {
+          "entrance": "staircase",
+          "name": "Y14",
+          "railway": "subway_entrance",
+          "repeat_on": "-1-0"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5149615,
+          25.0488643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4406419438",
+      "properties": {
+        "osm_id": "4406419438",
+        "tags": {
+          "entrance": "staircase",
+          "name": "Y16",
+          "railway": "subway_entrance",
+          "repeat_on": "-1-0"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5146406,
+          25.0489354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4406419456",
+      "properties": {
+        "osm_id": "4406419456",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "ref": "Y8",
+          "wheelchair": "no"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5167243,
+          25.0483852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4462652054",
+      "properties": {
+        "osm_id": "4462652054",
+        "tags": {
+          "entrance": "yes",
+          "name": "新光三越百貨"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5152223,
+          25.0456026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4462652055",
+      "properties": {
+        "osm_id": "4462652055",
+        "tags": {
+          "entrance": "yes",
+          "name": "新光三越百貨"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5151124,
+          25.0459362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4476417053",
+      "properties": {
+        "osm_id": "4476417053",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "ref": "K10"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5152596,
+          25.0470569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4476417054",
+      "properties": {
+        "osm_id": "4476417054",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "ref": "K12"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5148421,
+          25.0472004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4476417057",
+      "properties": {
+        "osm_id": "4476417057",
+        "tags": {
+          "entrance": "staircase",
+          "level": "0",
+          "name": "Z6出口(館前路)",
+          "name:en": "Z6 Exit (Guanqian Road)",
+          "name:zh": "Z6出口(館前路)",
+          "ref": "Z6"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5146739,
+          25.046742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4476417058",
+      "properties": {
+        "osm_id": "4476417058",
+        "tags": {
+          "entrance": "staircase",
+          "level": "0",
+          "name": "Z8出口(懷寧街)",
+          "name:en": "Z8 Exit (Huaning Street)",
+          "name:zh": "Z8出口(懷寧街)",
+          "ref": "Z8"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5137787,
+          25.0469646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4958026454",
+      "properties": {
+        "osm_id": "4958026454",
+        "tags": {
+          "entrance": "yes",
+          "railway": "subway_entrance"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.515031,
+          25.0486147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5021873865",
+      "properties": {
+        "osm_id": "5021873865",
+        "tags": {
+          "entrance": "yes",
+          "name": "1號出入口",
+          "railway": "subway_entrance"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5149689,
+          25.048539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5021873866",
+      "properties": {
+        "osm_id": "5021873866",
+        "tags": {
+          "name": "2號出入口",
+          "railway": "subway_entrance"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5144956,
+          25.0487954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5299977562",
+      "properties": {
+        "osm_id": "5299977562",
+        "tags": {
+          "entrance": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5152792,
+          25.0485557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5299977563",
+      "properties": {
+        "osm_id": "5299977563",
+        "tags": {
+          "entrance": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.515287,
+          25.0485862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5644385148",
+      "properties": {
+        "osm_id": "5644385148",
+        "tags": {
+          "entrance": "yes",
+          "name": "新光三越出入口"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5154246,
+          25.0463206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5644385151",
+      "properties": {
+        "osm_id": "5644385151",
+        "tags": {
+          "entrance": "yes",
+          "name": "新光三越出入口"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5151877,
+          25.046316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5813479931",
+      "properties": {
+        "osm_id": "5813479931",
+        "tags": {
+          "access": "permissive",
+          "entrance": "yes",
+          "name": "新光摩天大樓地下層行人出入口"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5151933,
+          25.0464888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6134452962",
+      "properties": {
+        "osm_id": "6134452962",
+        "tags": {
+          "addr:city": "台北市",
+          "addr:country": "TW",
+          "addr:district": "中正區",
+          "addr:full": "10047台北市中正區許昌街17號",
+          "addr:housenumber": "17",
+          "addr:postcode": "10047",
+          "addr:street": "許昌街",
+          "entrance": "main"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5169567,
+          25.0456882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6134454488",
+      "properties": {
+        "osm_id": "6134454488",
+        "tags": {
+          "highway": "elevator",
+          "indoor": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5170369,
+          25.0458547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6134454489",
+      "properties": {
+        "osm_id": "6134454489",
+        "tags": {
+          "highway": "elevator",
+          "level": "-1;0",
+          "ref": "M4",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5171653,
+          25.046489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6224730658",
+      "properties": {
+        "osm_id": "6224730658",
+        "tags": {
+          "entrance": "main"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5146783,
+          25.0459328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6224730659",
+      "properties": {
+        "osm_id": "6224730659",
+        "tags": {
+          "entrance": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5149151,
+          25.0457977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6224730660",
+      "properties": {
+        "osm_id": "6224730660",
+        "tags": {
+          "access": "yes",
+          "highway": "elevator",
+          "level": "-2;0",
+          "level:ref": "B1;1",
+          "maxweight": "15",
+          "ref": "Z4"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5153888,
+          25.0465676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6497915085",
+      "properties": {
+        "osm_id": "6497915085",
+        "tags": {
+          "entrance": "main"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5140986,
+          25.0452415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6995661039",
+      "properties": {
+        "osm_id": "6995661039",
+        "tags": {
+          "access": "private",
+          "entrance": "service",
+          "name": "公務車專用車道"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5188299,
+          25.0471725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7213500589",
+      "properties": {
+        "osm_id": "7213500589",
+        "tags": {
+          "description": "無障礙電梯",
+          "highway": "elevator",
+          "level": "-2;0",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5176384,
+          25.0473715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7213500590",
+      "properties": {
+        "osm_id": "7213500590",
+        "tags": {
+          "description": "無障礙電梯",
+          "highway": "elevator",
+          "level": "-2;0",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.517672,
+          25.047523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7213500591",
+      "properties": {
+        "osm_id": "7213500591",
+        "tags": {
+          "description": "無障礙電梯",
+          "highway": "elevator",
+          "level": "-2;0",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5177121,
+          25.0477192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7213500592",
+      "properties": {
+        "osm_id": "7213500592",
+        "tags": {
+          "description": "無障礙電梯",
+          "highway": "elevator",
+          "level": "-2;0",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5177356,
+          25.0478627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7495435645",
+      "properties": {
+        "osm_id": "7495435645",
+        "tags": {
+          "barrier": "lift_gate",
+          "entrance": "yes",
+          "fee": "yes",
+          "parking:fee": "yes",
+          "payment": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5195556,
+          25.0482938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7495435646",
+      "properties": {
+        "osm_id": "7495435646",
+        "tags": {
+          "amenity": "parking_entrance",
+          "entrance": "yes",
+          "fee": "yes",
+          "maxheight": "1.8",
+          "name": "市民大道停車場（公園-中山段）",
+          "name:en": "Civic Boulevard Car Park (Gongyuan-Zhongshan)",
+          "name:zh": "市民大道停車場（公園-中山段）",
+          "ownership": "government",
+          "parking": "underground"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5197191,
+          25.0482708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7495435666",
+      "properties": {
+        "osm_id": "7495435666",
+        "tags": {
+          "amenity": "parking_entrance",
+          "entrance": "yes",
+          "fee": "yes",
+          "maxheight": "2.1",
+          "name": "台北地下街",
+          "name:en": "Taipei City Mall",
+          "name:zh": "台北地下街",
+          "ownership": "government",
+          "parking": "underground"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5175351,
+          25.0485995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7839379051",
+      "properties": {
+        "osm_id": "7839379051",
+        "tags": {
+          "highway": "elevator",
+          "level": "0;1"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5176612,
+          25.047618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7839379052",
+      "properties": {
+        "osm_id": "7839379052",
+        "tags": {
+          "highway": "elevator"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5163086,
+          25.0478471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9266255461",
+      "properties": {
+        "osm_id": "9266255461",
+        "tags": {
+          "entrance": "yes",
+          "highway": "elevator",
+          "level": "0;-1;-2",
+          "ref": "R1",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5190035,
+          25.0486001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9369867438",
+      "properties": {
+        "osm_id": "9369867438",
+        "tags": {
+          "entrance": "staircase",
+          "level": "0",
+          "ref": "K5"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5167353,
+          25.0467294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9369867439",
+      "properties": {
+        "osm_id": "9369867439",
+        "tags": {
+          "entrance": "staircase",
+          "level": "0",
+          "ref": "K3"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5168886,
+          25.0468337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9369867440",
+      "properties": {
+        "osm_id": "9369867440",
+        "tags": {
+          "entrance": "staircase",
+          "level": "0",
+          "ref": "K4"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.516831,
+          25.0468465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11225066908",
+      "properties": {
+        "osm_id": "11225066908",
+        "tags": {
+          "entrance": "yes",
+          "level": "-2",
+          "ref": "Y2u"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5184437,
+          25.0483327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11262183530",
+      "properties": {
+        "osm_id": "11262183530",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "ref": "Y5"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5173706,
+          25.0488964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11262183531",
+      "properties": {
+        "osm_id": "11262183531",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "ref": "Y3"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5180143,
+          25.0487981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11262183532",
+      "properties": {
+        "osm_id": "11262183532",
+        "tags": {
+          "entrance": "yes",
+          "highway": "elevator",
+          "level": "-2;0",
+          "ref": "Y4",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5178663,
+          25.0482277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12087421732",
+      "properties": {
+        "osm_id": "12087421732",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "ref": "K2"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5173562,
+          25.0466193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12087421735",
+      "properties": {
+        "osm_id": "12087421735",
+        "tags": {
+          "highway": "elevator",
+          "level": "-3;-2;-1;0",
+          "level:ref": "B2;B1;R;1F",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5173934,
+          25.0469337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12087421748",
+      "properties": {
+        "osm_id": "12087421748",
+        "tags": {
+          "highway": "elevator",
+          "level": "-3;-2;0",
+          "level:ref": "B2;B1;1F",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5165433,
+          25.0471536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12087421749",
+      "properties": {
+        "osm_id": "12087421749",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "ref": "K8"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5158493,
+          25.0471014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12087421750",
+      "properties": {
+        "osm_id": "12087421750",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "ref": "K6"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5163048,
+          25.0469907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12087421751",
+      "properties": {
+        "osm_id": "12087421751",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "ref": "K7"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5164481,
+          25.0471779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12087421752",
+      "properties": {
+        "osm_id": "12087421752",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "ref": "K9"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5155053,
+          25.0471676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12087421753",
+      "properties": {
+        "osm_id": "12087421753",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "ref": "K11"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5152545,
+          25.0472323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12087421754",
+      "properties": {
+        "osm_id": "12087421754",
+        "tags": {
+          "entrance": "yes",
+          "level": "0",
+          "ref": "K1"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5172528,
+          25.046986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12088561600",
+      "properties": {
+        "osm_id": "12088561600",
+        "tags": {
+          "highway": "elevator",
+          "level": "-2;0",
+          "level:ref": "B1;1"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5156461,
+          25.0469131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12458715210",
+      "properties": {
+        "osm_id": "12458715210",
+        "tags": {
+          "entrance": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5138354,
+          25.0468494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12458715239",
+      "properties": {
+        "osm_id": "12458715239",
+        "tags": {
+          "entrance": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5138358,
+          25.0466119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13181062843",
+      "properties": {
+        "osm_id": "13181062843",
+        "tags": {
+          "access": "private",
+          "entrance": "service",
+          "name": "公務車專用車道"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5187914,
+          25.0475916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14182322704",
+      "properties": {
+        "osm_id": "14182322704",
+        "tags": {
+          "entrance": "main",
+          "level": "0",
+          "ref": "南3門",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5165284,
+          25.047235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14182322706",
+      "properties": {
+        "osm_id": "14182322706",
+        "tags": {
+          "entrance": "main",
+          "level": "0",
+          "ref": "南2門",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5169949,
+          25.0471552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14182322708",
+      "properties": {
+        "osm_id": "14182322708",
+        "tags": {
+          "entrance": "main",
+          "level": "0",
+          "ref": "南1門",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5174216,
+          25.0470823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14182322710",
+      "properties": {
+        "osm_id": "14182322710",
+        "tags": {
+          "entrance": "main",
+          "level": "0",
+          "ref": "東3門",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5178288,
+          25.0473339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14182322712",
+      "properties": {
+        "osm_id": "14182322712",
+        "tags": {
+          "entrance": "main",
+          "level": "0",
+          "ref": "東2門",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5178814,
+          25.0475867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14182322715",
+      "properties": {
+        "osm_id": "14182322715",
+        "tags": {
+          "entrance": "main",
+          "ref": "東1門",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.517942,
+          25.0478772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14182322717",
+      "properties": {
+        "osm_id": "14182322717",
+        "tags": {
+          "entrance": "main",
+          "level": "0",
+          "ref": "北1門",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5177089,
+          25.0481982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14182322720",
+      "properties": {
+        "osm_id": "14182322720",
+        "tags": {
+          "entrance": "main",
+          "level": "０",
+          "ref": "北3門",
+          "wheelchair": "yes"
+        },
+        "evidence_status": "candidate_only",
+        "analysis_ready": false,
+        "exclude_confirmed_B": false,
+        "restriction_source": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.516769,
+          25.048359
+        ]
+      }
+    }
+  ]
+}

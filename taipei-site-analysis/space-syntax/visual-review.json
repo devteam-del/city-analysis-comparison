@@ -1,0 +1,61 @@
+[
+  {
+    "file": "../evidence/taipei-station.pdf",
+    "version": "BL12R10-SW(26.05)",
+    "pages_reviewed": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "findings": [
+      "B1周邊非付費步行環路及Y/K/Z介面；3號電梯可見",
+      "B2板南線大廳，閘門與轉乘通路需區分",
+      "B3淡水線大廳／板南線月台，不可整層自由連通",
+      "B4月台，不作跨街公共步行路徑"
+    ]
+  },
+  {
+    "file": "../evidence/beimen-station.pdf",
+    "version": "G13-SW(25.08)",
+    "pages_reviewed": [
+      1
+    ],
+    "findings": [
+      "B1三出口與Y區接續",
+      "B2閘門與B4月台；公共橫向連接保持B1"
+    ]
+  },
+  {
+    "file": "sources/detour.pdf",
+    "pages_reviewed": [
+      1
+    ],
+    "findings": [
+      "2023-07-21起分段調整交六廣場與北平西路步行",
+      "歷史施工告知；無幾何圖，不用作2026實際線形"
+    ]
+  },
+  {
+    "file": "sources/a1-3d.png",
+    "findings": [
+      "非付費區與付費區分色",
+      "B1M東側台北車站連通與B2M西側北門連通",
+      "2/4/7出口標暫不開放"
+    ]
+  },
+  {
+    "file": "sources/taipei-section.jpg",
+    "version": "BL12/R10-SP(26.05)",
+    "findings": [
+      "3號電梯G、B1、B3停靠圖示；無公尺高程"
+    ]
+  },
+  {
+    "file": "sources/beimen-section.jpg",
+    "version": "G13-SP(24.01)",
+    "findings": [
+      "G—B1出口與B1—B2—B4站內層次分開"
+    ]
+  }
+]

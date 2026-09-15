@@ -1,0 +1,321 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "BM-E1",
+      "properties": {
+        "id": "BM-E1",
+        "name": "北門出口 1",
+        "coordinate_source": "sources/exits.csv",
+        "served_levels": [
+          "G",
+          "B1"
+        ],
+        "analysis_ready": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.509986,
+          25.048861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BM-E2",
+      "properties": {
+        "id": "BM-E2",
+        "name": "北門出口 2",
+        "coordinate_source": "sources/exits.csv",
+        "served_levels": [
+          "G",
+          "B1"
+        ],
+        "analysis_ready": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.510506,
+          25.049583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BM-E3",
+      "properties": {
+        "id": "BM-E3",
+        "name": "北門出口 3",
+        "coordinate_source": "sources/exits.csv",
+        "served_levels": [
+          "G",
+          "B1"
+        ],
+        "analysis_ready": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.510227,
+          25.049943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TP-M1",
+      "properties": {
+        "id": "TP-M1",
+        "name": "台北車站 M1",
+        "coordinate_source": "sources/exits.csv",
+        "served_levels": [
+          "G",
+          "B1"
+        ],
+        "analysis_ready": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.518193,
+          25.048232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TP-M2",
+      "properties": {
+        "id": "TP-M2",
+        "name": "台北車站 M2",
+        "coordinate_source": "sources/exits.csv",
+        "served_levels": [
+          "G",
+          "B1"
+        ],
+        "analysis_ready": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51908,
+          25.048159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TP-M3",
+      "properties": {
+        "id": "TP-M3",
+        "name": "台北車站 M3",
+        "coordinate_source": "sources/exits.csv",
+        "served_levels": [
+          "G",
+          "B1"
+        ],
+        "analysis_ready": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.517882,
+          25.046337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TP-M4",
+      "properties": {
+        "id": "TP-M4",
+        "name": "台北車站 M4",
+        "coordinate_source": "sources/exits.csv",
+        "served_levels": [
+          "G",
+          "B1"
+        ],
+        "analysis_ready": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.517345,
+          25.046485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TP-M5",
+      "properties": {
+        "id": "TP-M5",
+        "name": "台北車站 M5",
+        "coordinate_source": "sources/exits.csv",
+        "served_levels": [
+          "G",
+          "B1"
+        ],
+        "analysis_ready": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.516246,
+          25.046755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TP-M6",
+      "properties": {
+        "id": "TP-M6",
+        "name": "台北車站 M6",
+        "coordinate_source": "sources/exits.csv",
+        "served_levels": [
+          "G",
+          "B1"
+        ],
+        "analysis_ready": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.516787,
+          25.046234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TP-M7",
+      "properties": {
+        "id": "TP-M7",
+        "name": "台北車站 M7",
+        "coordinate_source": "sources/exits.csv",
+        "served_levels": [
+          "G",
+          "B1"
+        ],
+        "analysis_ready": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.518643,
+          25.046077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TP-M8",
+      "properties": {
+        "id": "TP-M8",
+        "name": "台北車站 M8",
+        "coordinate_source": "sources/exits.csv",
+        "served_levels": [
+          "G",
+          "B1"
+        ],
+        "analysis_ready": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.517479,
+          25.045948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TP-L3",
+      "properties": {
+        "id": "TP-L3",
+        "name": "台北車站 3 號電梯",
+        "coordinate_source": "sources/accessible.csv",
+        "served_levels": [
+          "G",
+          "B1",
+          "B3"
+        ],
+        "analysis_ready": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5186428,
+          25.0482356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TP-L5",
+      "properties": {
+        "id": "TP-L5",
+        "name": "台北車站 5 號電梯",
+        "coordinate_source": "sources/accessible.csv",
+        "served_levels": [
+          "G",
+          "B1"
+        ],
+        "analysis_ready": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5172729,
+          25.0463906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BM-L1",
+      "properties": {
+        "id": "BM-L1",
+        "name": "北門 1 號出口電梯",
+        "coordinate_source": "sources/accessible.csv",
+        "served_levels": [
+          "G",
+          "B1"
+        ],
+        "analysis_ready": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5106401,
+          25.0493473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BM-L2",
+      "properties": {
+        "id": "BM-L2",
+        "name": "北門 2 號出口電梯",
+        "coordinate_source": "sources/accessible.csv",
+        "served_levels": [
+          "G",
+          "B1"
+        ],
+        "analysis_ready": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51005,
+          25.0500699
+        ]
+      }
+    }
+  ]
+}

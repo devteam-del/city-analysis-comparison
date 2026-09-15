@@ -1,12 +1,15 @@
 {
-  "status": "preflight_only",
+  "status": "document_crosscheck_complete_field_and_geometry_pending",
   "not_a_routable_network": true,
   "records": [
     {
       "id": "BM-E1",
       "name": "北門出口 1",
       "kind": "exit",
-      "served_levels": null,
+      "served_levels": [
+        "G",
+        "B1"
+      ],
       "facilities": [
         "stairs",
         "escalator_up"
@@ -14,18 +17,30 @@
       "source": "https://web.metro.taipei/pages2026/WebStation/105/1",
       "review_date": "2026-09-15",
       "evidence": "official_facility_listing",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.509986,
+          25.048861
+        ]
+      },
       "z_m": null,
       "opening_hours": null,
       "operational_status": null,
       "analysis_ready": false,
-      "notes": "地下停靠層及非付費路徑待逐段核實；出口設備存在不代表完整無障礙旅程。"
+      "notes": "官方平面與剖面支持地面—B1；坐標為出口索引，尚非上下端點測繪。",
+      "coordinate_crs": "EPSG:4326",
+      "coordinate_source": "sources/exits.csv",
+      "level_evidence": "北捷官方平面圖與剖面圖"
     },
     {
       "id": "BM-E2",
       "name": "北門出口 2",
       "kind": "exit",
-      "served_levels": null,
+      "served_levels": [
+        "G",
+        "B1"
+      ],
       "facilities": [
         "stairs",
         "escalator_up",
@@ -34,18 +49,30 @@
       "source": "https://web.metro.taipei/pages2026/WebStation/105/1",
       "review_date": "2026-09-15",
       "evidence": "official_facility_listing",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.510506,
+          25.049583
+        ]
+      },
       "z_m": null,
       "opening_hours": null,
       "operational_status": null,
       "analysis_ready": false,
-      "notes": "地下停靠層及非付費路徑待逐段核實；出口設備存在不代表完整無障礙旅程。"
+      "notes": "官方平面與剖面支持地面—B1；坐標為出口索引，尚非上下端點測繪。",
+      "coordinate_crs": "EPSG:4326",
+      "coordinate_source": "sources/exits.csv",
+      "level_evidence": "北捷官方平面圖與剖面圖"
     },
     {
       "id": "BM-E3",
       "name": "北門出口 3",
       "kind": "exit",
-      "served_levels": null,
+      "served_levels": [
+        "G",
+        "B1"
+      ],
       "facilities": [
         "stairs",
         "escalator_up",
@@ -54,18 +81,30 @@
       "source": "https://web.metro.taipei/pages2026/WebStation/105/1",
       "review_date": "2026-09-15",
       "evidence": "official_facility_listing",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.510227,
+          25.049943
+        ]
+      },
       "z_m": null,
       "opening_hours": null,
       "operational_status": null,
       "analysis_ready": false,
-      "notes": "地下停靠層及非付費路徑待逐段核實；出口設備存在不代表完整無障礙旅程。"
+      "notes": "官方平面與剖面支持地面—B1；坐標為出口索引，尚非上下端點測繪。",
+      "coordinate_crs": "EPSG:4326",
+      "coordinate_source": "sources/exits.csv",
+      "level_evidence": "北捷官方平面圖與剖面圖"
     },
     {
       "id": "TP-M1",
       "name": "台北車站 M1",
       "kind": "exit",
-      "served_levels": null,
+      "served_levels": [
+        "G",
+        "B1"
+      ],
       "facilities": [
         "stairs",
         "escalator_up_down"
@@ -73,18 +112,30 @@
       "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
       "review_date": "2026-09-15",
       "evidence": "official_facility_listing",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.518193,
+          25.048232
+        ]
+      },
       "z_m": null,
       "opening_hours": null,
       "operational_status": null,
       "analysis_ready": false,
-      "notes": "設備依官方出口表；出口與獨立電梯需核對，不能重複計為兩條無障礙連接。"
+      "notes": "官方平面與剖面支持地面—B1；坐標為出口索引，尚非上下端點測繪。",
+      "coordinate_crs": "EPSG:4326",
+      "coordinate_source": "sources/exits.csv",
+      "level_evidence": "北捷官方平面圖與剖面圖"
     },
     {
       "id": "TP-M2",
       "name": "台北車站 M2",
       "kind": "exit",
-      "served_levels": null,
+      "served_levels": [
+        "G",
+        "B1"
+      ],
       "facilities": [
         "stairs",
         "escalator_up_down",
@@ -93,36 +144,60 @@
       "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
       "review_date": "2026-09-15",
       "evidence": "official_facility_listing",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51908,
+          25.048159
+        ]
+      },
       "z_m": null,
       "opening_hours": null,
       "operational_status": null,
       "analysis_ready": false,
-      "notes": "設備依官方出口表；出口與獨立電梯需核對，不能重複計為兩條無障礙連接。"
+      "notes": "官方平面與剖面支持地面—B1；坐標為出口索引，尚非上下端點測繪。",
+      "coordinate_crs": "EPSG:4326",
+      "coordinate_source": "sources/exits.csv",
+      "level_evidence": "北捷官方平面圖與剖面圖"
     },
     {
       "id": "TP-M3",
       "name": "台北車站 M3",
       "kind": "exit",
-      "served_levels": null,
+      "served_levels": [
+        "G",
+        "B1"
+      ],
       "facilities": [
         "escalator_up_down"
       ],
       "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
       "review_date": "2026-09-15",
       "evidence": "official_facility_listing",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.517882,
+          25.046337
+        ]
+      },
       "z_m": null,
       "opening_hours": null,
       "operational_status": null,
       "analysis_ready": false,
-      "notes": "設備依官方出口表；出口與獨立電梯需核對，不能重複計為兩條無障礙連接。"
+      "notes": "官方平面與剖面支持地面—B1；坐標為出口索引，尚非上下端點測繪。",
+      "coordinate_crs": "EPSG:4326",
+      "coordinate_source": "sources/exits.csv",
+      "level_evidence": "北捷官方平面圖與剖面圖"
     },
     {
       "id": "TP-M4",
       "name": "台北車站 M4",
       "kind": "exit",
-      "served_levels": null,
+      "served_levels": [
+        "G",
+        "B1"
+      ],
       "facilities": [
         "escalator_up_down",
         "elevator"
@@ -130,84 +205,141 @@
       "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
       "review_date": "2026-09-15",
       "evidence": "official_facility_listing",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.517345,
+          25.046485
+        ]
+      },
       "z_m": null,
       "opening_hours": null,
       "operational_status": null,
       "analysis_ready": false,
-      "notes": "設備依官方出口表；出口與獨立電梯需核對，不能重複計為兩條無障礙連接。"
+      "notes": "官方平面與剖面支持地面—B1；坐標為出口索引，尚非上下端點測繪。",
+      "coordinate_crs": "EPSG:4326",
+      "coordinate_source": "sources/exits.csv",
+      "level_evidence": "北捷官方平面圖與剖面圖"
     },
     {
       "id": "TP-M5",
       "name": "台北車站 M5",
       "kind": "exit",
-      "served_levels": null,
+      "served_levels": [
+        "G",
+        "B1"
+      ],
       "facilities": [
         "escalator_up_down"
       ],
       "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
       "review_date": "2026-09-15",
       "evidence": "official_facility_listing",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.516246,
+          25.046755
+        ]
+      },
       "z_m": null,
       "opening_hours": null,
       "operational_status": null,
       "analysis_ready": false,
-      "notes": "設備依官方出口表；出口與獨立電梯需核對，不能重複計為兩條無障礙連接。"
+      "notes": "官方平面與剖面支持地面—B1；坐標為出口索引，尚非上下端點測繪。",
+      "coordinate_crs": "EPSG:4326",
+      "coordinate_source": "sources/exits.csv",
+      "level_evidence": "北捷官方平面圖與剖面圖"
     },
     {
       "id": "TP-M6",
       "name": "台北車站 M6",
       "kind": "exit",
-      "served_levels": null,
+      "served_levels": [
+        "G",
+        "B1"
+      ],
       "facilities": [
         "stairs"
       ],
       "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
       "review_date": "2026-09-15",
       "evidence": "official_facility_listing",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.516787,
+          25.046234
+        ]
+      },
       "z_m": null,
       "opening_hours": null,
       "operational_status": null,
       "analysis_ready": false,
-      "notes": "設備依官方出口表；出口與獨立電梯需核對，不能重複計為兩條無障礙連接。"
+      "notes": "官方平面與剖面支持地面—B1；坐標為出口索引，尚非上下端點測繪。",
+      "coordinate_crs": "EPSG:4326",
+      "coordinate_source": "sources/exits.csv",
+      "level_evidence": "北捷官方平面圖與剖面圖"
     },
     {
       "id": "TP-M7",
       "name": "台北車站 M7",
       "kind": "exit",
-      "served_levels": null,
+      "served_levels": [
+        "G",
+        "B1"
+      ],
       "facilities": [
         "stairs"
       ],
       "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
       "review_date": "2026-09-15",
       "evidence": "official_facility_listing",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.518643,
+          25.046077
+        ]
+      },
       "z_m": null,
       "opening_hours": null,
       "operational_status": null,
       "analysis_ready": false,
-      "notes": "設備依官方出口表；出口與獨立電梯需核對，不能重複計為兩條無障礙連接。"
+      "notes": "官方平面與剖面支持地面—B1；坐標為出口索引，尚非上下端點測繪。",
+      "coordinate_crs": "EPSG:4326",
+      "coordinate_source": "sources/exits.csv",
+      "level_evidence": "北捷官方平面圖與剖面圖"
     },
     {
       "id": "TP-M8",
       "name": "台北車站 M8",
       "kind": "exit",
-      "served_levels": null,
+      "served_levels": [
+        "G",
+        "B1"
+      ],
       "facilities": [
         "escalator_up_down"
       ],
       "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
       "review_date": "2026-09-15",
       "evidence": "official_facility_listing",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.517479,
+          25.045948
+        ]
+      },
       "z_m": null,
       "opening_hours": null,
       "operational_status": null,
       "analysis_ready": false,
-      "notes": "設備依官方出口表；出口與獨立電梯需核對，不能重複計為兩條無障礙連接。"
+      "notes": "官方平面與剖面支持地面—B1；坐標為出口索引，尚非上下端點測繪。",
+      "coordinate_crs": "EPSG:4326",
+      "coordinate_source": "sources/exits.csv",
+      "level_evidence": "北捷官方平面圖與剖面圖"
     },
     {
       "id": "TP-L1",
@@ -257,6 +389,7 @@
       "kind": "elevator",
       "served_levels": [
         "G",
+        "B1",
         "B3"
       ],
       "facilities": [
@@ -265,12 +398,23 @@
       "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
       "review_date": "2026-09-15",
       "evidence": "official_facility_listing",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5186428,
+          25.0482356
+        ]
+      },
       "z_m": null,
       "opening_hours": null,
       "operational_status": null,
       "analysis_ready": false,
-      "notes": "官方列示端點；中間停靠、閘門界面與實際運轉待查，不推定可跨越非付費區。"
+      "notes": "修正前置表只列網頁地面—B3：官方平面／剖面亦支持 B1 停靠，故可建立 G—B1—B3 拓撲；實際運轉與門位仍待確認。",
+      "coordinate_crs": "EPSG:4326",
+      "coordinate_source": "sources/accessible.csv",
+      "source_name": "台北車站出口電梯1",
+      "alias_note": "GPS資料的出口電梯序號與車站總電梯序號不可直接相同對號；依M2/M4出口位置匹配。",
+      "level_evidence": "官方 26.05 剖面圖三處停靠符號，加上 B1、B3 平面圖均標 3 號電梯"
     },
     {
       "id": "TP-L4",
@@ -307,12 +451,22 @@
       "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
       "review_date": "2026-09-15",
       "evidence": "official_facility_listing",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5172729,
+          25.0463906
+        ]
+      },
       "z_m": null,
       "opening_hours": null,
       "operational_status": null,
       "analysis_ready": false,
-      "notes": "官方列示端點；中間停靠、閘門界面與實際運轉待查，不推定可跨越非付費區。"
+      "notes": "官方列示端點；中間停靠、閘門界面與實際運轉待查，不推定可跨越非付費區。",
+      "coordinate_crs": "EPSG:4326",
+      "coordinate_source": "sources/accessible.csv",
+      "source_name": "台北車站出口電梯2",
+      "alias_note": "GPS資料的出口電梯序號與車站總電梯序號不可直接相同對號；依M2/M4出口位置匹配。"
     },
     {
       "id": "TP-L6",
@@ -355,6 +509,233 @@
       "operational_status": null,
       "analysis_ready": false,
       "notes": "官方列示端點；中間停靠、閘門界面與實際運轉待查，不推定可跨越非付費區。"
+    },
+    {
+      "id": "BM-L1",
+      "name": "北門 1 號出口電梯",
+      "kind": "elevator",
+      "facilities": [
+        "elevator"
+      ],
+      "served_levels": [
+        "G",
+        "B1"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/105/1",
+      "evidence": "official_plan_profile_and_coordinate",
+      "analysis_ready": false,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "notes": "出口電梯與站內電梯分開，依官方剖面確認地面—B1。",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5106401,
+          25.0493473
+        ]
+      },
+      "coordinate_crs": "EPSG:4326",
+      "coordinate_source": "sources/accessible.csv",
+      "source_name": "北門站出口電梯1",
+      "alias_note": "GPS資料的出口電梯序號與車站總電梯序號不可直接相同對號；依M2/M4出口位置匹配。"
+    },
+    {
+      "id": "BM-L2",
+      "name": "北門 2 號出口電梯",
+      "kind": "elevator",
+      "facilities": [
+        "elevator"
+      ],
+      "served_levels": [
+        "G",
+        "B1"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/105/1",
+      "evidence": "official_plan_profile_and_coordinate",
+      "analysis_ready": false,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "notes": "出口電梯與站內電梯分開，依官方剖面確認地面—B1。",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.51005,
+          25.0500699
+        ]
+      },
+      "coordinate_crs": "EPSG:4326",
+      "coordinate_source": "sources/accessible.csv",
+      "source_name": "北門站出口電梯2",
+      "alias_note": "GPS資料的出口電梯序號與車站總電梯序號不可直接相同對號；依M2/M4出口位置匹配。"
+    },
+    {
+      "id": "A1-E1",
+      "name": "機捷 A1 出口 1",
+      "kind": "exit",
+      "facilities": [
+        "elevator"
+      ],
+      "facility_list_complete": false,
+      "served_levels": [
+        "G",
+        "B1M"
+      ],
+      "geometry": null,
+      "z_m": null,
+      "source": "https://www.tymetro.com.tw/tymetro-new/tw/_pages/travel-guide/A1",
+      "level_evidence": "官方立體圖，尚未配準",
+      "evidence": "official_plan_and_construction_notice",
+      "operational_status": "official_alternative_entrance",
+      "opening_hours": null,
+      "station_hours": "05:00 至末班車（不等於每條通道時段）",
+      "analysis_ready": false,
+      "exclude_confirmed_B": false,
+      "restriction_source": "https://english.udd.gov.taipei/News_Content.aspx?n=6E18BA96F3CB0148&s=E01BE4B5DB1363E6&sms=87415A8B9CE81B16",
+      "notes": "工程局 2026-08-31 公告優先於一般出口清單；立體圖亦標 2/4/7 暫不開放。"
+    },
+    {
+      "id": "A1-E2",
+      "name": "機捷 A1 出口 2",
+      "kind": "exit",
+      "facilities": [],
+      "facility_list_complete": false,
+      "served_levels": [
+        "G",
+        "B1"
+      ],
+      "geometry": null,
+      "z_m": null,
+      "source": "https://www.tymetro.com.tw/tymetro-new/tw/_pages/travel-guide/A1",
+      "level_evidence": "官方立體圖，尚未配準",
+      "evidence": "official_plan_and_construction_notice",
+      "operational_status": "construction_restricted",
+      "opening_hours": null,
+      "station_hours": "05:00 至末班車（不等於每條通道時段）",
+      "analysis_ready": false,
+      "exclude_confirmed_B": true,
+      "restriction_source": "https://english.udd.gov.taipei/News_Content.aspx?n=6E18BA96F3CB0148&s=E01BE4B5DB1363E6&sms=87415A8B9CE81B16",
+      "notes": "工程局 2026-08-31 公告優先於一般出口清單；立體圖亦標 2/4/7 暫不開放。"
+    },
+    {
+      "id": "A1-E3",
+      "name": "機捷 A1 出口 3",
+      "kind": "exit",
+      "facilities": [
+        "elevator"
+      ],
+      "facility_list_complete": false,
+      "served_levels": [
+        "G",
+        "B1"
+      ],
+      "geometry": null,
+      "z_m": null,
+      "source": "https://www.tymetro.com.tw/tymetro-new/tw/_pages/travel-guide/A1",
+      "level_evidence": "官方立體圖，尚未配準",
+      "evidence": "official_plan_and_construction_notice",
+      "operational_status": "official_alternative_entrance",
+      "opening_hours": null,
+      "station_hours": "05:00 至末班車（不等於每條通道時段）",
+      "analysis_ready": false,
+      "exclude_confirmed_B": false,
+      "restriction_source": "https://english.udd.gov.taipei/News_Content.aspx?n=6E18BA96F3CB0148&s=E01BE4B5DB1363E6&sms=87415A8B9CE81B16",
+      "notes": "工程局 2026-08-31 公告優先於一般出口清單；立體圖亦標 2/4/7 暫不開放。"
+    },
+    {
+      "id": "A1-E4",
+      "name": "機捷 A1 出口 4",
+      "kind": "exit",
+      "facilities": [],
+      "facility_list_complete": false,
+      "served_levels": [
+        "G",
+        "B1"
+      ],
+      "geometry": null,
+      "z_m": null,
+      "source": "https://www.tymetro.com.tw/tymetro-new/tw/_pages/travel-guide/A1",
+      "level_evidence": "官方立體圖，尚未配準",
+      "evidence": "official_plan_and_construction_notice",
+      "operational_status": "construction_restricted",
+      "opening_hours": null,
+      "station_hours": "05:00 至末班車（不等於每條通道時段）",
+      "analysis_ready": false,
+      "exclude_confirmed_B": true,
+      "restriction_source": "https://english.udd.gov.taipei/News_Content.aspx?n=6E18BA96F3CB0148&s=E01BE4B5DB1363E6&sms=87415A8B9CE81B16",
+      "notes": "工程局 2026-08-31 公告優先於一般出口清單；立體圖亦標 2/4/7 暫不開放。"
+    },
+    {
+      "id": "A1-E5",
+      "name": "機捷 A1 出口 5",
+      "kind": "exit",
+      "facilities": [
+        "elevator"
+      ],
+      "facility_list_complete": false,
+      "served_levels": [
+        "G",
+        "B1"
+      ],
+      "geometry": null,
+      "z_m": null,
+      "source": "https://www.tymetro.com.tw/tymetro-new/tw/_pages/travel-guide/A1",
+      "level_evidence": "官方立體圖，尚未配準",
+      "evidence": "official_plan_and_construction_notice",
+      "operational_status": "official_alternative_entrance",
+      "opening_hours": null,
+      "station_hours": "05:00 至末班車（不等於每條通道時段）",
+      "analysis_ready": false,
+      "exclude_confirmed_B": false,
+      "restriction_source": "https://english.udd.gov.taipei/News_Content.aspx?n=6E18BA96F3CB0148&s=E01BE4B5DB1363E6&sms=87415A8B9CE81B16",
+      "notes": "工程局 2026-08-31 公告優先於一般出口清單；立體圖亦標 2/4/7 暫不開放。"
+    },
+    {
+      "id": "A1-E6",
+      "name": "機捷 A1 出口 6",
+      "kind": "exit",
+      "facilities": [],
+      "facility_list_complete": false,
+      "served_levels": [
+        "G",
+        "B1"
+      ],
+      "geometry": null,
+      "z_m": null,
+      "source": "https://www.tymetro.com.tw/tymetro-new/tw/_pages/travel-guide/A1",
+      "level_evidence": "官方立體圖，尚未配準",
+      "evidence": "official_plan_and_construction_notice",
+      "operational_status": "official_alternative_entrance",
+      "opening_hours": null,
+      "station_hours": "05:00 至末班車（不等於每條通道時段）",
+      "analysis_ready": false,
+      "exclude_confirmed_B": false,
+      "restriction_source": "https://english.udd.gov.taipei/News_Content.aspx?n=6E18BA96F3CB0148&s=E01BE4B5DB1363E6&sms=87415A8B9CE81B16",
+      "notes": "工程局 2026-08-31 公告優先於一般出口清單；立體圖亦標 2/4/7 暫不開放。"
+    },
+    {
+      "id": "A1-E7",
+      "name": "機捷 A1 出口 7",
+      "kind": "exit",
+      "facilities": [],
+      "facility_list_complete": false,
+      "served_levels": [
+        "G",
+        "B1"
+      ],
+      "geometry": null,
+      "z_m": null,
+      "source": "https://www.tymetro.com.tw/tymetro-new/tw/_pages/travel-guide/A1",
+      "level_evidence": "官方立體圖，尚未配準",
+      "evidence": "official_plan_and_construction_notice",
+      "operational_status": "construction_restricted",
+      "opening_hours": null,
+      "station_hours": "05:00 至末班車（不等於每條通道時段）",
+      "analysis_ready": false,
+      "exclude_confirmed_B": true,
+      "restriction_source": "https://english.udd.gov.taipei/News_Content.aspx?n=6E18BA96F3CB0148&s=E01BE4B5DB1363E6&sms=87415A8B9CE81B16",
+      "notes": "工程局 2026-08-31 公告優先於一般出口清單；立體圖亦標 2/4/7 暫不開放。"
     }
   ]
 }

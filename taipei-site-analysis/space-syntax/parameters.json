@@ -17,7 +17,8 @@
     "proposed_engine": "depthmapX",
     "version": null,
     "tulip_bins": 1024,
-    "choice": true
+    "choice": true,
+    "role": "原先二維研究提案，非已確定的A組引擎；主A/B必須共用同一可處理層級連接的引擎"
   },
   "multilevel": {
     "engine": "not_selected_or_verified",
@@ -40,7 +41,16 @@
     "secondary_checks": [
       "opening_hours",
       "stairs_and_elevator_conditions"
-    ]
+    ],
+    "layer_identity_rule": "station-scoped floor IDs; join only with documented connectors; no constant floor-height assumption",
+    "excluded_restricted_exits": [
+      "A1-E2",
+      "A1-E4",
+      "A1-E7",
+      "Y18",
+      "Y22"
+    ],
+    "engine_verification": "not found in PATH or /Applications; no engine installed or executed this audit"
   },
   "release_gates": [
     "核實入口坐標與地面合法穿越",
@@ -61,6 +71,11 @@
       "reachable pairs and disconnected pairs",
       "route distance and detour where verified geometry exists"
     ],
-    "conditional_B": "state time window and access assumptions; no unverified all-day availability"
-  }
+    "conditional_B": "state time window and access assumptions; no unverified all-day availability",
+    "same_engine_and_version": true,
+    "same_algorithm_normalisation_and_radius_implementation": true,
+    "fixed_surface_OD_sample": true,
+    "centrality_caution": "新增路網改變節點集合與標準化分母；固定地面OD的連通／距離差為直接比較，不能將不同引擎的NAIN/NACH相減"
+  },
+  "B_analysis_ready": false
 }

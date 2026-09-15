@@ -1,0 +1,86 @@
+[
+  {
+    "file": "exits.csv",
+    "url": "https://data.taipei/api/frontstage/tpeod/dataset/resource.download?rid=307a7f61-e302-4108-a817-877ccbfca7c1",
+    "retrieved": "2026-09-15",
+    "sha256": "134d8488c240fb23e04535db6a94da73006f890c83617eeedaa9b26c9f120015",
+    "encoding": "cp950"
+  },
+  {
+    "file": "accessible.csv",
+    "url": "https://data.taipei/api/frontstage/tpeod/dataset/resource.download?rid=61792c82-6609-41b2-9775-3a346934826d",
+    "retrieved": "2026-09-15",
+    "sha256": "93da8455aa6408a5f498ee95392a6784464f67571c3eb9f57351c36c8d706fcc",
+    "encoding": "cp950"
+  },
+  {
+    "file": "maintenance.csv",
+    "url": "https://data.taipei/api/frontstage/tpeod/dataset/resource.download?rid=d93aadfb-9f78-4000-a73e-48870481bafc",
+    "retrieved": "2026-09-15",
+    "sha256": "a01bb65f84439c9c53761f72f98b602c29ce2de4f8292ee14a56887fe51c9f5f",
+    "encoding": "cp950"
+  },
+  {
+    "file": "faults.csv",
+    "url": "https://data.taipei/api/frontstage/tpeod/dataset/resource.download?rid=649c44eb-60b5-4746-a353-cbdc6651fc09",
+    "retrieved": "2026-09-15",
+    "sha256": "cbd2cf28bd86c54c86773972ba5246327c68548bf3185434d232c4b0a55e80e0",
+    "encoding": "cp950"
+  },
+  {
+    "file": "beimen-section.jpg",
+    "url": "https://web.metro.taipei/img/ALL/stationprofile/105.jpg",
+    "retrieved": "2026-09-15",
+    "sha256": "44ad8c620cc8db85326151f0e76657695d5fbc1fdeee33fc8b38734bc145c2d2",
+    "encoding": null
+  },
+  {
+    "file": "taipei-section.jpg",
+    "url": "https://web.metro.taipei/img/ALL/stationprofile/051.jpg",
+    "retrieved": "2026-09-15",
+    "sha256": "44e6e5bf838a11679425072584fd73b330642560e57163f63f6326b32554b96d",
+    "encoding": null
+  },
+  {
+    "file": "a1-3d.png",
+    "url": "https://www.tymetro.com.tw/tymetro-new/upload/station/20230526042350_1.png",
+    "retrieved": "2026-09-15",
+    "sha256": "6b58d51f3a7b4b79011e10384aa27b58cf715e32c6bb7df25b63cdafae1acfe2",
+    "encoding": null
+  },
+  {
+    "file": "detour.pdf",
+    "url": "https://www-ws.gov.taipei/Download.ashx?icon=..pdf&n=MS7kurrooYzli5Xnt5rlrqPlsI4ucGRm&u=LzAwMS9VcGxvYWQvMzE4L3JlbGZpbGUvMTQwNjYvOTAxODY4Ni8xYzdlOWVmNy05ZTcxLTQ3MGYtOWM3Ny1hYTExMWM4MGY1OTYucGRm",
+    "retrieved": "2026-09-15",
+    "sha256": "272955474dadb3d8bcde28991d2421bf0f84965ae0bb15f25d4e2bfd1a904cce",
+    "encoding": null
+  },
+  {
+    "file": "bridge-2436.png",
+    "url": "https://bridge.nco.taipei/bms2/Photo/FootBridge/Inventory/2436.png",
+    "retrieved": "2026-09-15",
+    "sha256": "26dbac59a05b7cd7394e43d1af0d72871d6ea51f51e2ab3d6e2859aca36dbb7a",
+    "encoding": null
+  },
+  {
+    "file": "bridge-2435.png",
+    "url": "https://bridge.nco.taipei/bms2/Photo/FootBridge/Inventory/2435.png",
+    "retrieved": "2026-09-15",
+    "sha256": "c023685df29c9024b0820f41e424c8dcff8d65037661279f0a5b8172d6acc5a8",
+    "encoding": null
+  },
+  {
+    "file": "bridge-2434.png",
+    "url": "https://bridge.nco.taipei/bms2/Photo/FootBridge/Inventory/2434.png",
+    "retrieved": "2026-09-15",
+    "sha256": "aa65f1eee83116b403d8f11a8b041f7dd5a432272fc4a305ce5c816c49864316",
+    "encoding": null
+  },
+  {
+    "file": "bridge-2433.png",
+    "url": "https://bridge.nco.taipei/bms2/Photo/FootBridge/Inventory/2433.png",
+    "retrieved": "2026-09-15",
+    "sha256": "3de6bdb2046572121a0347ff67d81b997cabefd9c31e66b35e54f52b867af6df",
+    "encoding": null
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "as_of": "2026-09-15",
+  "scope": "北門—台北車站樣區；候選圖資索引bbox [121.509,25.045,121.520,25.051] 不等於計算邊界",
+  "all_connections_verified": false,
+  "B_analysis_ready": false,
+  "checks": [
+    {
+      "id": "01",
+      "item": "範圍與A/B可比性",
+      "status": "規格確認",
+      "finding": "A 固定地面；B 僅新增核實立體步行連接。起訖點、地面網絡、成本與色階一致。",
+      "source": "parameters.json"
+    },
+    {
+      "id": "02",
+      "item": "北捷出口坐標",
+      "status": "文件確認",
+      "finding": "11 個出口、4 個獨立出口電梯坐標已匹配；出口點與電梯點不可互代。",
+      "source": "sources/exits.csv"
+    },
+    {
+      "id": "03",
+      "item": "北門樓層",
+      "status": "文件確認",
+      "finding": "出口1/2/3通B1，2/3有電梯；B1通Y區。月台通路不作自由穿越捷徑。",
+      "source": "sources/beimen-section.jpg"
+    },
+    {
+      "id": "04",
+      "item": "台北車站樓層",
+      "status": "文件確認",
+      "finding": "四頁平面圖全數目視；3號電梯剖面與B1平面支持B1停靠，修正舊表。",
+      "source": "sources/taipei-section.jpg"
+    },
+    {
+      "id": "05",
+      "item": "機捷接續與付費區",
+      "status": "文件確認",
+      "finding": "A1 有B1M、B1、B2M，不能把各站同名B1視作同高程；公共接續避開紫色付費區。",
+      "source": "sources/a1-3d.png"
+    },
+    {
+      "id": "06",
+      "item": "施工出口管制",
+      "status": "文件確認",
+      "finding": "A1 2/4/7、Y18/Y22 不納入已確認可通行 B；重開日期未取得。",
+      "source": "https://english.udd.gov.taipei/News_Content.aspx?n=6E18BA96F3CB0148&s=E01BE4B5DB1363E6&sms=87415A8B9CE81B16"
+    },
+    {
+      "id": "07",
+      "item": "地下街通行時段",
+      "status": "未確認",
+      "finding": "商店營業時段與停車場24小時，均不足以證明各地下通道時段；需管理資料／現勘。",
+      "source": "https://www.tcma.gov.taipei/News_Content.aspx?n=0D4E37187A7154F0&s=3CDB32A9AC16BEEA&sms=42464882E656FEC0"
+    },
+    {
+      "id": "08",
+      "item": "天橋存在與現況",
+      "status": "部分確認",
+      "finding": "C076 登記正常使用；2024照片支持結構及楼梯存在，未覆蓋全部落點與無障礙條件。",
+      "source": "https://bridge.nco.taipei/bms2/guest/Footbridge/inventory.aspx?vid=64"
+    },
+    {
+      "id": "09",
+      "item": "設備時間性",
+      "status": "部分確認",
+      "finding": "已取得9月預排保養，日保／夜保無精確時刻，異常公告非全設備即時狀態。",
+      "source": "maintenance-pilot.json"
+    },
+    {
+      "id": "10",
+      "item": "路網完整與精度",
+      "status": "未通過",
+      "finding": "456 條候選way與147個候選出入口／電梯點，均未等於逐段核實路網；來源含樓層歧義、面域與施工缺註。",
+      "source": "candidate-paths.geojson"
+    },
+    {
+      "id": "11",
+      "item": "三維距離與高程",
+      "status": "未通過",
+      "finding": "示意剖面無高程基準；橋墩高／橋下淨高不能代替步行路徑Z。不可據此計精確三維距離。",
+      "source": "parameters.json"
+    },
+    {
+      "id": "12",
+      "item": "計算引擎",
+      "status": "未通過",
+      "finding": "PATH與Applications未找到depthmapX/sDNA；尚未安裝或驗證引擎。不得以自製中心性冒充NAIN/NACH。",
+      "source": "https://sdna-open.readthedocs.io/en/latest/network_preparation.html"
+    }
+  ]
+}
