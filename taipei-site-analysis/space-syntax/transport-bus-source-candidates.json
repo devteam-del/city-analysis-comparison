@@ -1,0 +1,407 @@
+{
+  "status": "review_candidates_not_selected_OD",
+  "source": "previously acquired OSM node snapshot",
+  "official_stop_ids_not_yet_matched": true,
+  "candidates": [
+    {
+      "osm_id": "2441160819",
+      "name": "臺北車站(重慶)",
+      "lat": 25.0466039,
+      "lon": 121.5131881,
+      "ref": "1891",
+      "local_ref": "D",
+      "description": "重慶南路一段10號同向",
+      "note": null
+    },
+    {
+      "osm_id": "2461631520",
+      "name": "捷運北門站",
+      "lat": 25.0488734,
+      "lon": 121.5099668,
+      "ref": "1000077",
+      "local_ref": null,
+      "description": "塔城街12號",
+      "note": null
+    },
+    {
+      "osm_id": "2323973418",
+      "name": "臺北車站(承德)",
+      "lat": 25.0500558,
+      "lon": 121.5169598,
+      "ref": "16254",
+      "local_ref": null,
+      "description": "承德路一段17號",
+      "note": null
+    },
+    {
+      "osm_id": "2517659451",
+      "name": "臺北車站(承德)",
+      "lat": 25.0507411,
+      "lon": 121.5168365,
+      "ref": "1411",
+      "local_ref": null,
+      "description": "承德路一段18號",
+      "note": null
+    },
+    {
+      "osm_id": "2706511275",
+      "name": "後車站",
+      "lat": 25.0502456,
+      "lon": 121.5136345,
+      "ref": "1000178",
+      "local_ref": null,
+      "description": "重慶北路一段",
+      "note": null
+    },
+    {
+      "osm_id": "4205229665",
+      "name": "後車站",
+      "lat": 25.0513483,
+      "lon": 121.5152403,
+      "ref": null,
+      "local_ref": null,
+      "description": "停靠12,282,282副,711,47,棕9",
+      "note": null
+    },
+    {
+      "osm_id": "5110489279",
+      "name": "臺北車站(承德)",
+      "lat": 25.0493436,
+      "lon": 121.5164738,
+      "ref": null,
+      "local_ref": null,
+      "description": null,
+      "note": null
+    },
+    {
+      "osm_id": "12252486161",
+      "name": "臺北車站(承德)",
+      "lat": 25.0504007,
+      "lon": 121.5167325,
+      "ref": null,
+      "local_ref": null,
+      "description": null,
+      "note": null
+    },
+    {
+      "osm_id": "2323973417",
+      "name": "捷運北門站",
+      "lat": 25.0491504,
+      "lon": 121.5104163,
+      "ref": "50044",
+      "local_ref": null,
+      "description": "塔城街5號南側;1820,1825 stop",
+      "note": null
+    },
+    {
+      "osm_id": "2631129012",
+      "name": "捷運北門站",
+      "lat": 25.0506656,
+      "lon": 121.5105751,
+      "ref": "1001788",
+      "local_ref": null,
+      "description": "臺北市塔城街24巷口對面(向北)",
+      "note": null
+    },
+    {
+      "osm_id": "2706511274",
+      "name": "後車站",
+      "lat": 25.0504679,
+      "lon": 121.5134656,
+      "ref": "1000683",
+      "local_ref": null,
+      "description": "重慶北路1段22號旁",
+      "note": null
+    },
+    {
+      "osm_id": "2308210158",
+      "name": "臺北車站 (忠孝)",
+      "lat": 25.0465696,
+      "lon": 121.5165389,
+      "ref": null,
+      "local_ref": "C1",
+      "description": null,
+      "note": "C1-5 停靠 262/262區/265/265區/265夜/310"
+    },
+    {
+      "osm_id": "2310591195",
+      "name": "臺北車站(忠孝)",
+      "lat": 25.0465067,
+      "lon": 121.5155912,
+      "ref": "1882",
+      "local_ref": "C3",
+      "description": "臺北市中正區忠孝西路一段50號（新光三越站前店前面）(向東)",
+      "note": null
+    },
+    {
+      "osm_id": "2422630125",
+      "name": "臺北車站(忠孝)",
+      "lat": 25.0461228,
+      "lon": 121.5170622,
+      "ref": "1886",
+      "local_ref": "C4",
+      "description": "捷運臺北車站M6出口(向東)",
+      "note": null
+    },
+    {
+      "osm_id": "2422630126",
+      "name": "臺北車站(忠孝)",
+      "lat": 25.0467586,
+      "lon": 121.5145918,
+      "ref": "1888",
+      "local_ref": "C2",
+      "description": "忠孝西路與懷寧街東側公路總局前",
+      "note": null
+    },
+    {
+      "osm_id": "2619922107",
+      "name": "臺北車站(東三門)",
+      "lat": 25.0473076,
+      "lon": 121.5180105,
+      "ref": null,
+      "local_ref": "B",
+      "description": null,
+      "note": null
+    },
+    {
+      "osm_id": "2619922112",
+      "name": "臺北車站 (鄭州)",
+      "lat": 25.0488896,
+      "lon": 121.51714,
+      "ref": null,
+      "local_ref": "A1",
+      "description": null,
+      "note": null
+    },
+    {
+      "osm_id": "2619922114",
+      "name": "臺北車站 (鄭州)",
+      "lat": 25.048321,
+      "lon": 121.5178964,
+      "ref": null,
+      "local_ref": "A2",
+      "description": null,
+      "note": null
+    },
+    {
+      "osm_id": "3262985667",
+      "name": "臺北車站(鄭州)",
+      "lat": 25.0484171,
+      "lon": 121.5173496,
+      "ref": null,
+      "local_ref": null,
+      "description": null,
+      "note": null
+    },
+    {
+      "osm_id": "4524400585",
+      "name": "臺北車站(忠孝)",
+      "lat": 25.0466378,
+      "lon": 121.5162539,
+      "ref": null,
+      "local_ref": "C1",
+      "description": null,
+      "note": "C1-7 停靠 22/276/和平幹線/中山幹線"
+    },
+    {
+      "osm_id": "4753887131",
+      "name": "臺北車站(東三門)",
+      "lat": 25.0476,
+      "lon": 121.5182027,
+      "ref": null,
+      "local_ref": "3",
+      "description": "公路客運 1815 路線（臺北→金山）I\nntercity Bus 1815 Taipei → Jinshan",
+      "note": null
+    },
+    {
+      "osm_id": "4753887132",
+      "name": "臺北車站(東三門)",
+      "lat": 25.0475032,
+      "lon": 121.518147,
+      "ref": null,
+      "local_ref": "2",
+      "description": "公路客運 1813D 路線（臺北→基隆）\nIntercity Bus (Coach) 1813D Taipei → Keelung",
+      "note": null
+    },
+    {
+      "osm_id": "4753887133",
+      "name": "臺北車站(東三門)",
+      "lat": 25.047737,
+      "lon": 121.5182875,
+      "ref": null,
+      "local_ref": null,
+      "description": null,
+      "note": "1813、1815 乘客下車處 Intercity Bus Alight only"
+    },
+    {
+      "osm_id": "4825734727",
+      "name": "臺北車站(忠孝)",
+      "lat": 25.047203,
+      "lon": 121.5139614,
+      "ref": "1165604592",
+      "local_ref": "C6",
+      "description": "停靠274、539;臺北市中正區忠孝西路1段72號對面(交6)(向西)",
+      "note": null
+    },
+    {
+      "osm_id": "4825734728",
+      "name": "臺北車站(忠孝)",
+      "lat": 25.0473595,
+      "lon": 121.5139953,
+      "ref": "1165604589",
+      "local_ref": "C5",
+      "description": "停靠14、39、232副、299、299區、652、藍1;臺北市中正區忠孝西路1段72號對面(交6)(向西)",
+      "note": null
+    },
+    {
+      "osm_id": "5335508856",
+      "name": "臺北車站(東三門)",
+      "lat": 25.047403,
+      "lon": 121.5180868,
+      "ref": null,
+      "local_ref": "1",
+      "description": "公路客運 1813 路線（臺北→基隆）\nIntercity Bus (Coach) 1813 Taipei → Keelung",
+      "note": null
+    },
+    {
+      "osm_id": "7151865726",
+      "name": "臺北車站 (鄭州)",
+      "lat": 25.0483765,
+      "lon": 121.5175907,
+      "ref": null,
+      "local_ref": "A2",
+      "description": null,
+      "note": null
+    },
+    {
+      "osm_id": "7151865727",
+      "name": "臺北車站 (鄭州)",
+      "lat": 25.0483559,
+      "lon": 121.5176873,
+      "ref": null,
+      "local_ref": "A2",
+      "description": null,
+      "note": null
+    },
+    {
+      "osm_id": "7151865728",
+      "name": "臺北車站 (鄭州)",
+      "lat": 25.0483425,
+      "lon": 121.5177704,
+      "ref": null,
+      "local_ref": "A2",
+      "description": null,
+      "note": null
+    },
+    {
+      "osm_id": "7151865729",
+      "name": "臺北車站 (鄭州)",
+      "lat": 25.0483304,
+      "lon": 121.5178442,
+      "ref": null,
+      "local_ref": "A2",
+      "description": null,
+      "note": null
+    },
+    {
+      "osm_id": "7151865730",
+      "name": "臺北車站(鄭州)",
+      "lat": 25.0484081,
+      "lon": 121.5174285,
+      "ref": null,
+      "local_ref": null,
+      "description": null,
+      "note": null
+    },
+    {
+      "osm_id": "8420400115",
+      "name": "臺北車站 (鄭州)",
+      "lat": 25.0488801,
+      "lon": 121.5172072,
+      "ref": null,
+      "local_ref": "A1",
+      "description": "葛瑪蘭客運下客站",
+      "note": null
+    },
+    {
+      "osm_id": "8442738381",
+      "name": "臺北車站 (忠孝)",
+      "lat": 25.0466643,
+      "lon": 121.5161429,
+      "ref": null,
+      "local_ref": "C1",
+      "description": null,
+      "note": "C1-8 停靠 257/260區/605/605副/605新台五"
+    },
+    {
+      "osm_id": "8442738382",
+      "name": "臺北車站 (忠孝)",
+      "lat": 25.0466034,
+      "lon": 121.5163974,
+      "ref": null,
+      "local_ref": "C1",
+      "description": null,
+      "note": "C1-6 停靠 221/232/247/內湖幹線"
+    },
+    {
+      "osm_id": "8442738383",
+      "name": "臺北車站 (忠孝)",
+      "lat": 25.0464904,
+      "lon": 121.5168703,
+      "ref": null,
+      "local_ref": "C1",
+      "description": null,
+      "note": "C1-3 停靠 202/202區/205/307"
+    },
+    {
+      "osm_id": "8442738384",
+      "name": "臺北車站 (忠孝)",
+      "lat": 25.0465372,
+      "lon": 121.5166747,
+      "ref": null,
+      "local_ref": "C1",
+      "description": null,
+      "note": "C1-4 停靠 49/246/260/604"
+    },
+    {
+      "osm_id": "8442738386",
+      "name": "臺北車站 (忠孝)",
+      "lat": 25.0464568,
+      "lon": 121.5170109,
+      "ref": null,
+      "local_ref": "C1",
+      "description": null,
+      "note": "C1-2 停靠 212/218/253"
+    },
+    {
+      "osm_id": "8442738387",
+      "name": "臺北車站 (忠孝)",
+      "lat": 25.0464027,
+      "lon": 121.517237,
+      "ref": null,
+      "local_ref": "C1",
+      "description": null,
+      "note": "C1-1 停靠觀光巴士"
+    },
+    {
+      "osm_id": "13227228184",
+      "name": "臺北車站 (鄭州)",
+      "lat": 25.0483169,
+      "lon": 121.5179875,
+      "ref": null,
+      "local_ref": null,
+      "description": null,
+      "note": null
+    },
+    {
+      "osm_id": "13227228185",
+      "name": "臺北車站 (鄭州)",
+      "lat": 25.0483101,
+      "lon": 121.518028,
+      "ref": null,
+      "local_ref": null,
+      "description": null,
+      "note": null
+    }
+  ]
+}
