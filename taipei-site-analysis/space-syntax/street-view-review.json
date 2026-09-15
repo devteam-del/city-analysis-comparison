@@ -1,0 +1,25 @@
+{
+  "checked": "2026-09-15",
+  "site": "承德市民天橋／君品酒店旁",
+  "image_date": "2019-07",
+  "image_provider": "Google Maps 使用者全景：偶然的旅人",
+  "pano_id": "CIHM0ogKEICAgIDk-dHofw",
+  "coordinates": [
+    121.5166929,
+    25.0489661
+  ],
+  "source_url": "https://www.google.com/maps/@25.0489661,121.5166929,3a,90y,243.85h,90t/data=!3m4!1e1!3m2!1sCIHM0ogKEICAgIDk-dHofw!2e10",
+  "observed": [
+    "鋪面橋面與護欄",
+    "橋面向高架下方延伸",
+    "橋面側邊有下行開口與扶手，末端落點不在此視野內"
+  ],
+  "not_verified": [
+    "2026即時通行狀態",
+    "全部樓梯地面端點",
+    "設備運轉",
+    "精確高度坡度"
+  ],
+  "use": "historical_geometry_reference_only",
+  "all_street_view_checks_complete": false
+}

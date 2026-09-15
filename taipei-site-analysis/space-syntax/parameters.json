@@ -128,9 +128,22 @@
       "if_positive_below_threshold": "inferred_ramp_only_where_continuous_walkable_surface_is_supported",
       "if_zero": "flat",
       "if_missing_height_or_run": "unknown_do_not_classify",
-      "if_equal_or_above_threshold": "pending_user_clarification_do_not_automatically_create_stairs",
       "evidence": "user_defined_modelling_rule_not_measured_ramp_or_compliance_claim",
-      "vertical_connector_warning": "do not apply to elevator shafts or stairs explicitly shown by official diagram"
+      "vertical_connector_warning": "do not apply to elevator shafts or stairs explicitly shown by official diagram",
+      "if_greater_than_threshold": "inferred_stairs_where_geometry_supported",
+      "if_equal_to_threshold": "boundary_case_pending_do_not_auto_classify"
+    },
+    "walking_connectivity": {
+      "stairs_allowed": true,
+      "elevator_required": false,
+      "elevator_role": "optional alternative; may reduce walking effort, not assumed faster without waiting/travel time",
+      "wheelchair_network": "not the primary A/B comparison"
+    },
+    "street_view": {
+      "authorised": true,
+      "use": "verify physical endpoints and surface connections",
+      "record_capture_date": true,
+      "older_images_do_not_override_current_user_confirmed_closures": true
     }
   }
 }
