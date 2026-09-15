@@ -1,5 +1,5 @@
 {
-  "PROJECT_INSTRUCTIONS.md": "7a5863a21b19eb5852e906dad2819eba556ee3f7281455e732dfeb3a36c6f3fa",
+  "PROJECT_INSTRUCTIONS.md": "5739b89afe22374ff7766a10e197b912d16f08150443980f78b0e1a52734b73a",
   "COMMANDS.md": "d7f6a9e6d96ebfba5b2234ccc0cb6f27c6d2beb75fdc048138ba5d6323efc01f",
   "requirements.txt": "b4c099d695a1657b31c537a918106350d53c448e788a4900318c7bb1ee54a809",
   ".gitignore": "077bb02bc91dd8bed8abae35861f5ba47ada75ea16a6ed31208b33e84eacfe67",
@@ -121,8 +121,8 @@
   "taipei-site-analysis/maps/infrastructure/full-corridor/water-geometry.json.gz": "bf3edc21167f2ad9e0def7523e231527c6ed244a23286d9382af51d9681ec7c4",
   "taipei-site-analysis/space-syntax/README.md": "cdceb0a6a9fb8f10991c3b0ac0ec05a858ab82cfcd2714a8100b2e7fe44c8462",
   "taipei-site-analysis/space-syntax/facility-register.json": "0d6bc2fbcf1ea430ead9ec57a7eceb359f632c62af4bd6770eba4b67d31e8cec",
-  "taipei-site-analysis/space-syntax/index.html": "b78d5b98242f8d0161427c9524fbc36672044d6415e15a053c87124a21b0f234",
-  "taipei-site-analysis/space-syntax/parameters.json": "f98441413473f3a661d3b053ebe125cb383f19167eae366e84377244b79de4e5",
+  "taipei-site-analysis/space-syntax/index.html": "1060d7f676c1c4e834376cb4d33f33a2a989fbdc1d8c1a67e140e4d1086d6ba8",
+  "taipei-site-analysis/space-syntax/parameters.json": "958d6716b2eaf90d3f1b060290be34e86a19323112880820235e2f40e65e5141",
   "taipei-site-analysis/space-syntax/VERIFICATION_REPORT.md": "3dac7688903eebd0c2c253ceb7a41b7f99360f1645fa44076a79f986dbabd8d6",
   "taipei-site-analysis/space-syntax/candidate-access-points.geojson": "416a48a05d53cc3e30c0a487b25dfd0a943b3654e051f722a9d16c0229467859",
   "taipei-site-analysis/space-syntax/candidate-paths.geojson": "85465193587fd3c25cf92b52abe21f78ef876a173481042d6060fe6d804ae070",
@@ -145,5 +145,15 @@
   "taipei-site-analysis/space-syntax/visual-review.json": "8da50f7c7a09b9077185c84a528f954ab24f800b90e8983ef189d3164a3f8a50",
   "taipei-site-analysis/市民大道分析:其他國家案例分析.html": "4531f0f39c23f782ec73af2bb57745b2f710293eafceda5e7a67c1758a927741",
   "taipei-site-analysis/space-syntax/USER_CONDITIONS.md": "8670588d779d06c2c72e694ce9fb0233b597121370429ed8100fabb721ef98f5",
-  "taipei-site-analysis/space-syntax/street-view-review.json": "8c3b9dede81e927008613a01071fd39d4375acde13f0780c4ba08572d0bace6f"
+  "taipei-site-analysis/space-syntax/street-view-review.json": "8c3b9dede81e927008613a01071fd39d4375acde13f0780c4ba08572d0bace6f",
+  "taipei-site-analysis/space-syntax/calculate_accessibility.py": "dbf2faaa9b8f5c490645e1ae72e8da777135d3f1bf9d61c75ef859997586869c",
+  "taipei-site-analysis/space-syntax/results/A.svg": "ae5e62e94eec30e68c5707a7dc53bf53f59be10b06b8cc46c93f3b66f8876f91",
+  "taipei-site-analysis/space-syntax/results/B.svg": "5e4afb085ef7285ae6a582c65076ccff246e6ca47d076b16c9342cdfaa8a9ebe",
+  "taipei-site-analysis/space-syntax/results/README.md": "500e546dfed60710c8d30739385a91168334e452bedf3c6f47748d142a8188e9",
+  "taipei-site-analysis/space-syntax/results/edge-provenance.json": "2c786a28ed220ba17424a0f6851e98318efebd318524a948d6bcac702a487d02",
+  "taipei-site-analysis/space-syntax/results/index.html": "1a0e9e2d111795d92074cb1ba70accf63d2752fc9d87978519656e9e9b69e1da",
+  "taipei-site-analysis/space-syntax/results/od-comparison.csv": "5a3ab7b16b57e453210663717abf4e4dc902507a44314780ff48714203abd79f",
+  "taipei-site-analysis/space-syntax/results/routes.geojson": "e365f35133eab5735beab689c7f32f4fc52528fed5511479b4c8942dab158d8b",
+  "taipei-site-analysis/space-syntax/results/sample-points.json": "d0334196e23e263d6aa7dcd278df75443b040c825bb0938d673d4ef3b800ebc9",
+  "taipei-site-analysis/space-syntax/results/summary.json": "daf2d1f0d5e45f7fb5573d8d2c2b4bd24369644b6452d14157267fc0e259f867"
 }

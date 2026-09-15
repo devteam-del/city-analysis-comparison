@@ -1,0 +1,194 @@
+[
+  {
+    "id": "N1",
+    "node": [
+      7818778811,
+      "surface"
+    ],
+    "side": "N",
+    "target_offset_m": 63.44,
+    "sample_valid": true,
+    "lon": 121.5105366,
+    "lat": 25.0509209
+  },
+  {
+    "id": "S1",
+    "node": [
+      5141544830,
+      "surface"
+    ],
+    "side": "S",
+    "target_offset_m": 56.56,
+    "sample_valid": true,
+    "lon": 121.5101171,
+    "lat": 25.0492203
+  },
+  {
+    "id": "N2",
+    "node": [
+      3262986578,
+      "surface"
+    ],
+    "side": "N",
+    "target_offset_m": 96.34,
+    "sample_valid": true,
+    "lon": 121.512329,
+    "lat": 25.0517065
+  },
+  {
+    "id": "S2",
+    "node": [
+      5310653366,
+      "surface"
+    ],
+    "side": "S",
+    "target_offset_m": 28.85,
+    "sample_valid": true,
+    "lon": 121.5115377,
+    "lat": 25.04849
+  },
+  {
+    "id": "N3",
+    "node": [
+      7052731759,
+      "surface"
+    ],
+    "side": "N",
+    "target_offset_m": 37.28,
+    "sample_valid": true,
+    "lon": 121.5135271,
+    "lat": 25.0506265
+  },
+  {
+    "id": "S3",
+    "node": [
+      7052738991,
+      "surface"
+    ],
+    "side": "S",
+    "target_offset_m": 59.26,
+    "sample_valid": true,
+    "lon": 121.5131986,
+    "lat": 25.0484956
+  },
+  {
+    "id": "N4",
+    "node": [
+      5038755615,
+      "surface"
+    ],
+    "side": "N",
+    "target_offset_m": 7.71,
+    "sample_valid": true,
+    "lon": 121.5141267,
+    "lat": 25.0503593
+  },
+  {
+    "id": "S4",
+    "node": [
+      13700179013,
+      "surface"
+    ],
+    "side": "S",
+    "target_offset_m": 14.61,
+    "sample_valid": true,
+    "lon": 121.5134804,
+    "lat": 25.0482729
+  },
+  {
+    "id": "N5",
+    "node": [
+      7782558058,
+      "surface"
+    ],
+    "side": "N",
+    "target_offset_m": 1.38,
+    "sample_valid": true,
+    "lon": 121.5151659,
+    "lat": 25.0502151
+  },
+  {
+    "id": "S5",
+    "node": [
+      5813479925,
+      "surface"
+    ],
+    "side": "S",
+    "target_offset_m": 57.52,
+    "sample_valid": true,
+    "lon": 121.514552,
+    "lat": 25.0475798
+  },
+  {
+    "id": "N6",
+    "node": [
+      4881981837,
+      "surface"
+    ],
+    "side": "N",
+    "target_offset_m": 25.69,
+    "sample_valid": true,
+    "lon": 121.5162886,
+    "lat": 25.0501965
+  },
+  {
+    "id": "S6",
+    "node": [
+      7825334957,
+      "surface"
+    ],
+    "side": "S",
+    "target_offset_m": 60.56,
+    "sample_valid": true,
+    "lon": 121.5160222,
+    "lat": 25.0474628
+  },
+  {
+    "id": "N7",
+    "node": [
+      7951191759,
+      "surface"
+    ],
+    "side": "N",
+    "target_offset_m": 10.28,
+    "sample_valid": true,
+    "lon": 121.5172862,
+    "lat": 25.0497807
+  },
+  {
+    "id": "S7",
+    "node": [
+      3541338393,
+      "surface"
+    ],
+    "side": "S",
+    "target_offset_m": 36.04,
+    "sample_valid": true,
+    "lon": 121.5163475,
+    "lat": 25.0478502
+  },
+  {
+    "id": "N8",
+    "node": [
+      13555854742,
+      "surface"
+    ],
+    "side": "N",
+    "target_offset_m": 83.82,
+    "sample_valid": true,
+    "lon": 121.5180178,
+    "lat": 25.0488154
+  },
+  {
+    "id": "S8",
+    "node": [
+      14182322710,
+      "surface"
+    ],
+    "side": "S",
+    "target_offset_m": 22.26,
+    "sample_valid": true,
+    "lon": 121.5178288,
+    "lat": 25.0473339
+  }
+]

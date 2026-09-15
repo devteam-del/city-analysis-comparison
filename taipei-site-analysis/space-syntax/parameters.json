@@ -145,5 +145,19 @@
       "record_capture_date": true,
       "older_images_do_not_override_current_user_confirmed_closures": true
     }
+  },
+  "exploratory_calculation": {
+    "status": "computed_partial",
+    "results": "results/index.html",
+    "method": "Dijkstra horizontal projected metres, EPSG:3826",
+    "B_added_ways": [
+      204711168,
+      204711170,
+      204711171,
+      492117320
+    ],
+    "complete_B": false,
+    "underground_included": false,
+    "verified_current_stair_endpoints": false
   }
 }

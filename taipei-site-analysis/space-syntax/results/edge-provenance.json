@@ -1,0 +1,86 @@
+[
+  {
+    "way": 204711168,
+    "a": [
+      2146918275,
+      "bridge"
+    ],
+    "b": [
+      2146918277,
+      "bridge"
+    ],
+    "length": 10.983248525880269,
+    "group": "bridge",
+    "evidence": "OSM source topology, not fully field verified"
+  },
+  {
+    "way": 204711168,
+    "a": [
+      2146918277,
+      "bridge"
+    ],
+    "b": [
+      4841674013,
+      "bridge"
+    ],
+    "length": 42.00519226047355,
+    "group": "bridge",
+    "evidence": "OSM source topology, not fully field verified"
+  },
+  {
+    "way": 204711170,
+    "a": [
+      10834182688,
+      "stairs"
+    ],
+    "b": [
+      2146918275,
+      "stairs"
+    ],
+    "length": 6.877493730438776,
+    "group": "stairs",
+    "evidence": "OSM stair geometry; z not available"
+  },
+  {
+    "way": 204711171,
+    "a": [
+      2146918277,
+      "stairs"
+    ],
+    "b": [
+      2146918276,
+      "stairs"
+    ],
+    "length": 16.53484999970391,
+    "group": "stairs",
+    "evidence": "OSM stair geometry; z not available"
+  },
+  {
+    "way": 492117320,
+    "a": [
+      4841674013,
+      "stairs"
+    ],
+    "b": [
+      4841674014,
+      "stairs"
+    ],
+    "length": 10.072018629162448,
+    "group": "stairs",
+    "evidence": "OSM stair geometry; z not available"
+  },
+  {
+    "way": 492117320,
+    "a": [
+      4841674014,
+      "stairs"
+    ],
+    "b": [
+      4841674015,
+      "stairs"
+    ],
+    "length": 14.802491225115574,
+    "group": "stairs",
+    "evidence": "OSM stair geometry; z not available"
+  }
+]
