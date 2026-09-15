@@ -1,5 +1,5 @@
 {
-  "PROJECT_INSTRUCTIONS.md": "76c9b5fec330b25ebc1b47a95d1c863b859a80de9f82f704179009aedb709f06",
+  "PROJECT_INSTRUCTIONS.md": "79ec8a7d4b27dac827cdb1c96e5b5343d79e4161441e53af482d23177c98cc22",
   "COMMANDS.md": "d7f6a9e6d96ebfba5b2234ccc0cb6f27c6d2beb75fdc048138ba5d6323efc01f",
   "requirements.txt": "b4c099d695a1657b31c537a918106350d53c448e788a4900318c7bb1ee54a809",
   ".gitignore": "077bb02bc91dd8bed8abae35861f5ba47ada75ea16a6ed31208b33e84eacfe67",
@@ -98,16 +98,17 @@
   "taipei-site-analysis/maps/infrastructure/source-geometry.json.gz": "446a2534b0de282ec7a4ac207b3dac15242b1a65d88046a5c7c74e76b181be55",
   "taipei-site-analysis/maps/infrastructure/full-corridor/01-green.png": "183ba64074bfdd3f3e66ad2bf1537681584ae57c017761387b0d8c2f810021b4",
   "taipei-site-analysis/maps/infrastructure/full-corridor/01-green.svg": "4d682321ad1c55b5253eb783264dea5fd34eb4d6a8a3f5f580e2855a543ca007",
-  "taipei-site-analysis/maps/infrastructure/full-corridor/02-transport.png": "74a7e3aa8a8264a64ea20760362a1e9fb797ae6191f433f086d5bfe96f5a3a93",
-  "taipei-site-analysis/maps/infrastructure/full-corridor/02-transport.svg": "a422167cde16a560edbc857a19ae26e5a438ae057641bc86b939a7ad25b9e397",
+  "taipei-site-analysis/maps/infrastructure/full-corridor/02-transport.png": "a397281c7da4992f96833b056d01ae74c22b24faa83b7bf2ee2c995948e92c98",
+  "taipei-site-analysis/maps/infrastructure/full-corridor/02-transport.svg": "fa9d8f4c17d0a8c590883a00da6a931e406672b2bca925d8d5b6cba6dbadd1bc",
   "taipei-site-analysis/maps/infrastructure/full-corridor/03-commerce.png": "4df4cdb4fd34bfbb6e92de039b8199fa98a7d71c7ab68680351f7c91319661f0",
   "taipei-site-analysis/maps/infrastructure/full-corridor/03-commerce.svg": "4dc9326497da847bbb1e21989303f75f2794252881a06bf40e0320544b9274de",
-  "taipei-site-analysis/maps/infrastructure/full-corridor/SOURCE_NOTES.md": "f0220f4ebf4e481cf0d93469bb90c518abd42f27a3f3c2be4863f7e3746b3489",
-  "taipei-site-analysis/maps/infrastructure/full-corridor/build_full.py": "b053e6562a28ec8c3613ba200860787bdc18b4368031470749bed275b08831e1",
+  "taipei-site-analysis/maps/infrastructure/full-corridor/SOURCE_NOTES.md": "792d8cdaad587b5997d72ea544d0c1f139f852d0acf85f6c2f5f392281494993",
+  "taipei-site-analysis/maps/infrastructure/full-corridor/build_full.py": "026031d6480e1a86977143cc74e97c30eb53c1e777a040dfa1874b78911ba404",
   "taipei-site-analysis/maps/infrastructure/full-corridor/combine_geometry.py": "56990106f3bf0bf528efcdac848e7609c392d6ba147231af08200b5973cbd130",
   "taipei-site-analysis/maps/infrastructure/full-corridor/fetch_tiles.py": "27ab98a99ace699d1d4d6ef52c25a818e374f85c98deed502d984c9db7c8c3ef",
   "taipei-site-analysis/maps/infrastructure/full-corridor/geometry.json.gz": "4001a89bbfbe37b40e3fd29489c3328a418e7db02b62054eddfa7e53d31420c9",
   "taipei-site-analysis/maps/infrastructure/full-corridor/index.html": "96f4e5da63357c7ae5394989ebe9cd8b33263a7f801ed86385779705b89f544d",
-  "taipei-site-analysis/maps/infrastructure/full-corridor/overview.png": "7066c166a7c48d03c1e699806ce27ca84f7151418d3bb8b47b2edf78419d33ec",
-  "taipei-site-analysis/maps/infrastructure/full-corridor/road-width-basis.json.gz": "f4acf440e7cb52d43f2a64068685dee7b2f7a64efc628e7cb1b7c9671faaedb9"
+  "taipei-site-analysis/maps/infrastructure/full-corridor/overview.png": "b510a78fea76057335a8994ffa8d3f2c80b585e679ffe99d8c17f155d3738bad",
+  "taipei-site-analysis/maps/infrastructure/full-corridor/road-width-basis.json.gz": "f4acf440e7cb52d43f2a64068685dee7b2f7a64efc628e7cb1b7c9671faaedb9",
+  "taipei-site-analysis/maps/infrastructure/full-corridor/transport-classification.json": "aeeceafbc4e6a2fe2b460c1c9e511ded33099916c3283c6000e1c01d1e090174"
 }

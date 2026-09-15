@@ -16,7 +16,7 @@
 
 - 淺灰：已取得的地上建築輪廓。沒有建物不代表空地，未標記的用途不代表不存在。
 - 綠地圖：OSM leisure=park/garden 與 landuse=grass 等面；公園範圍不等於植被覆蓋。名稱含「廣場」的 way 不作整塊公園著色。公園 relation 只繪可閉合邊界，保留內洞，缺失鏈不強行閉合。
-- 交通圖：地上車站／交通建築為藍灰，地下或設施範圍為淺藍。這不是完整公車站、出入口與地下步行網絡圖。
+- 交通圖（依使用者修訂）：淺藍只表示有地下位置證據的交通站體／建築輪廓；深藍只表示有地上位置證據的交通建築，包括有封閉建築輪廓的捷運出口。地下判定採 location=underground、負 layer 或負 level；地上判定採非負 layer／level、地上 location、正高度／地上樓層，或有已核對地上站體的台北轉運站。單有 building:levels:underground 不判成地下。位置不明者保持底圖灰色；僅點座標的出口不虛構面積、不加點位。一般建築作底圖，其上先顯示地下交通輪廓，再顯示地上交通建物；高架最後畫。逐筆分類見 transport-classification.json。這不是完整公車站、出入口與地下步行網絡圖。
 - 商業圖：棕色依 OSM building=commercial/retail/office/supermarket 或 shop 標籤；淡棕依 landuse=commercial/retail 範圍。包含辦公與商業所在建築，不代表所有樓層是零售。全段採一致可用標籤，不沿用前版西段的鄰街候選建物選取法。不是完整逐戶營業普查或法定商業區圖。
 
 ## 白色路面與高架

@@ -74,6 +74,23 @@ def commercial(e):
  t=e.get('tags',{});return t.get('building') in ['commercial','retail','office','supermarket'] or t.get('shop') not in [None,'no','vacant'] or t.get('landuse') in ['commercial','retail']
 def transit(e):
  t=e.get('tags',{});return t.get('building') in ['train_station','transportation'] or t.get('amenity') in ['bus_station','ferry_terminal'] or t.get('railway')=='station'
+def number(value):
+ try:return float(value)
+ except (TypeError,ValueError):return None
+def transport_position(e):
+ t=e.get('tags',{})
+ if not transit(e) and t.get('railway')!='subway_entrance':return None
+ layer=number(t.get('layer'));level=number(t.get('level'))
+ if t.get('location')=='underground' or (layer is not None and layer<0) or (level is not None and level<0):return 'underground'
+ if not closed(e) or t.get('building') in [None,'no']:return 'unknown'
+ if (t.get('location') in ['surface','overground','aboveground','elevated'] or
+     (layer is not None and layer>=0) or (level is not None and level>=0) or
+     (number(t.get('building:levels')) or 0)>0 or (number(t.get('height')) or 0)>0 or
+     t.get('railway')=='subway_entrance' or e['id']==605982576):return 'aboveground'
+ return 'unknown'
+# Basement storey counts alone do not make an aboveground building underground.
+classification=[{'id':e['id'],'name':e.get('tags',{}).get('name'),'position':transport_position(e),'tags':e.get('tags',{})} for e in ways if transit(e) or e.get('tags',{}).get('railway')=='subway_entrance']
+(B/'transport-classification.json').write_text(json.dumps(classification,ensure_ascii=False,indent=2))
 # Reconstruct closed relation rings; open chains are omitted and logged, not closed across missing geometry.
 def rings(members,role):
  chains=[[xy(q) for q in m.get('geometry',[]) if q] for m in members if m.get('role','outer')==role and m.get('geometry')]
@@ -111,12 +128,19 @@ for theme in ['01-green','02-transport','03-commerce']:
  for e in buildings:
   col='#c8cec6'
   if theme=='03-commerce' and commercial(e):col='#b68167'
-  if theme=='02-transport' and transit(e):col='#6e909c'
+  if theme=='02-transport' and transport_position(e)=='aboveground':col='#6e909c'
   drawpoly(pts(e),col)
  sv.append('</g>')
  if theme=='02-transport':
+  sv.append('<g id="underground-transport">')
   for e in ways:
-   if closed(e) and transit(e) and not building(e):drawpoly(pts(e),'#bdcfd2')
+   if closed(e) and transport_position(e)=='underground':drawpoly(pts(e),'#bdcfd2')
+  sv.append('</g>')
+ if theme=='02-transport':
+  sv.append('<g id="aboveground-transport">')
+  for e in buildings:
+   if transport_position(e)=='aboveground':drawpoly(pts(e),'#6e909c')
+  sv.append('</g>')
  # Fill between former side edges. No empty road interiors or centreline symbols.
  sv.append('<g id="filled-surface-roads">')
  for e in roads:band(pts(e),roadwidth[e['id']],'#ffffff')

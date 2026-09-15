@@ -1,0 +1,556 @@
+[
+  {
+    "id": 270118893,
+    "name": null,
+    "position": "unknown",
+    "tags": {
+      "building": "transportation",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 296975239,
+    "name": null,
+    "position": "aboveground",
+    "tags": {
+      "addr:city": "臺北市",
+      "addr:country": "TW",
+      "addr:district": "大同區",
+      "addr:full": "10341臺北市大同區忠孝西路二段11號",
+      "addr:housenumber": "11",
+      "addr:postcode": "10341",
+      "addr:street": "忠孝西路二段",
+      "building": "transportation",
+      "building:levels": "1",
+      "disused:amenity": "bus_station",
+      "disused:branch": "台北站",
+      "disused:bus": "yes",
+      "disused:name": "日統客運臺北站",
+      "disused:opening_hours": "Mo-Su 06:00-22:00",
+      "disused:operator": "日統汽車客運股份有限公司",
+      "disused:phone": "+886 2 2558 3131",
+      "disused:public_transport": "station",
+      "disused:website": "https://www.solarbus.com.tw/"
+    }
+  },
+  {
+    "id": 1226069618,
+    "name": "捷運北門站",
+    "position": "underground",
+    "tags": {
+      "building": "transportation",
+      "layer": "-1",
+      "location": "underground",
+      "name": "捷運北門站",
+      "name:en": "MRT Beimen Station",
+      "name:zh": "捷運北門站"
+    }
+  },
+  {
+    "id": 1226069619,
+    "name": "桃園機場捷運台北車站",
+    "position": "underground",
+    "tags": {
+      "building": "transportation",
+      "layer": "-2",
+      "name": "桃園機場捷運台北車站",
+      "name:zh": "桃園機場捷運台北車站"
+    }
+  },
+  {
+    "id": 23641610,
+    "name": "臺北車站",
+    "position": "aboveground",
+    "tags": {
+      "addr:city": "臺北市",
+      "addr:country": "TW",
+      "addr:district": "中正區",
+      "addr:full": "10041臺北市中正區北平西路3號",
+      "addr:housenumber": "3",
+      "addr:postcode": "10041",
+      "addr:street": "北平西路",
+      "alt_name": "台北車站",
+      "alt_name:nan": "台北車頭",
+      "building": "train_station",
+      "building:levels": "7",
+      "building:levels:underground": "4",
+      "building:material": "plaster",
+      "height": "30",
+      "name": "臺北車站",
+      "name:en": "Taipei main station",
+      "name:ja": "台北駅",
+      "name:ko": "타이베이역",
+      "name:nan": "Tâi-pak Chhia-thâu",
+      "name:zh": "臺北車站",
+      "name:zh-Latn-pinyin": "Tǎiběi Huǒchēzhàn",
+      "operator": "臺灣鐵路管理局;台灣高速鐵路股份有限公司",
+      "roof:height": "18",
+      "roof:material": "brick",
+      "roof:shape": "pyramidal",
+      "short_name": "北車",
+      "start_date": "1989-09-02",
+      "wikidata": "Q700588",
+      "wikipedia": "zh:臺北車站"
+    }
+  },
+  {
+    "id": 366766273,
+    "name": "捷運台北車站",
+    "position": "underground",
+    "tags": {
+      "building": "transportation",
+      "building:levels:underground": "3",
+      "layer": "-1",
+      "lit": "yes",
+      "location": "underground",
+      "name": "捷運台北車站",
+      "name:en": "Taipei Main Station",
+      "name:ja": "MRT台北駅",
+      "name:zh": "捷運台北車站",
+      "operator": "台北捷運",
+      "start_date": "1997-12-25"
+    }
+  },
+  {
+    "id": 448227619,
+    "name": "華山車站",
+    "position": "aboveground",
+    "tags": {
+      "addr:city": "臺北市",
+      "addr:country": "TW",
+      "addr:district": "中正區",
+      "addr:full": "10049臺北市中正區林森北路27號",
+      "addr:housenumber": "27",
+      "addr:postcode": "10049",
+      "addr:street": "林森北路",
+      "building": "train_station",
+      "building:levels": "2",
+      "historic": "heritage",
+      "name": "華山車站",
+      "wikidata": "Q11620070",
+      "wikipedia": "zh:華山車站 (台灣)"
+    }
+  },
+  {
+    "id": 605982576,
+    "name": "臺北轉運站",
+    "position": "aboveground",
+    "tags": {
+      "addr:city": "臺北市",
+      "addr:country": "TW",
+      "addr:district": "大同區",
+      "addr:full": "10351臺北市大同區市民大道一段209號",
+      "addr:housenumber": "209",
+      "addr:postcode": "10351",
+      "addr:street": "市民大道一段",
+      "air_conditioning": "yes",
+      "amenity": "bus_station",
+      "building": "transportation",
+      "building:levels:underground": "4",
+      "bus": "yes",
+      "image": "https://commons.wikimedia.org/wiki/Category:Taipei_Bus_Station",
+      "internet_access": "wlan",
+      "name": "臺北轉運站",
+      "name:en": "Taipei Bus Station",
+      "name:ja": "台北転運站",
+      "name:ko": "타이베이 전운역",
+      "name:nan": "Tâi-pak Choán-ūn-chām",
+      "name:nan-Hant": "臺北轉運站",
+      "name:nan-Latn-pehoeji": "Tâi-pak Choán-ūn-chām",
+      "name:nan-Latn-tailo": "Tâi-pak Tsuán-ūn-tsām",
+      "name:zh": "臺北轉運站",
+      "note": "服務範圍：西部：新竹以南西部各主要城市 東部：宜蘭",
+      "operator": "萬達通實業股份有限公司",
+      "phone": "+886 2 7733 5888",
+      "public_transport": "station",
+      "start_date": "2009-08-19",
+      "website": "http://www.taipeibus.com.tw/default.asp",
+      "wikidata": "Q703446",
+      "wikipedia": "zh:臺北轉運站"
+    }
+  },
+  {
+    "id": 646262272,
+    "name": "台北車站",
+    "position": "underground",
+    "tags": {
+      "building": "transportation",
+      "layer": "-1",
+      "name": "台北車站",
+      "name:en": "Taipei main station (Taoyuan Metro)",
+      "name:ja": "台北駅(桃園メトロ)",
+      "name:zh": "台北車站",
+      "network": "桃園捷運",
+      "wikidata": "Q18119044",
+      "wikipedia": "zh:台北車站 (桃園捷運)",
+      "wikipedia:en": "Taipei main station (Taoyuan Metro)"
+    }
+  },
+  {
+    "id": 772602548,
+    "name": "善導寺站",
+    "position": "underground",
+    "tags": {
+      "building": "transportation",
+      "building:levels:underground": "2",
+      "layer": "-1",
+      "location": "underground",
+      "name": "善導寺站"
+    }
+  },
+  {
+    "id": 1050624607,
+    "name": null,
+    "position": "unknown",
+    "tags": {
+      "building": "transportation"
+    }
+  },
+  {
+    "id": 1050624674,
+    "name": null,
+    "position": "unknown",
+    "tags": {
+      "building": "transportation"
+    }
+  },
+  {
+    "id": 1154453250,
+    "name": null,
+    "position": "aboveground",
+    "tags": {
+      "building": "transportation",
+      "building:levels": "1"
+    }
+  },
+  {
+    "id": 1154453271,
+    "name": null,
+    "position": "aboveground",
+    "tags": {
+      "building": "transportation",
+      "building:levels": "1"
+    }
+  },
+  {
+    "id": 642477596,
+    "name": null,
+    "position": "aboveground",
+    "tags": {
+      "building": "transportation",
+      "building:levels": "1",
+      "height": "4",
+      "layer": "1"
+    }
+  },
+  {
+    "id": 662836181,
+    "name": null,
+    "position": "aboveground",
+    "tags": {
+      "building": "transportation",
+      "building:levels": "1",
+      "roof:levels": "0",
+      "roof:shape": "round"
+    }
+  },
+  {
+    "id": 772602547,
+    "name": "忠孝新生站",
+    "position": "underground",
+    "tags": {
+      "building": "transportation",
+      "layer": "-1",
+      "location": "underground",
+      "name": "忠孝新生站",
+      "operator": "台北捷運"
+    }
+  },
+  {
+    "id": 404046711,
+    "name": "捷運松江南京站",
+    "position": "underground",
+    "tags": {
+      "building": "transportation",
+      "layer": "-1",
+      "level": "-1",
+      "location": "underground",
+      "name": "捷運松江南京站"
+    }
+  },
+  {
+    "id": 772451796,
+    "name": "忠孝敦化站",
+    "position": "underground",
+    "tags": {
+      "building": "transportation",
+      "building:levels:underground": "3",
+      "layer": "-2",
+      "location": "underground",
+      "name": "忠孝敦化站"
+    }
+  },
+  {
+    "id": 810555296,
+    "name": "忠孝復興站",
+    "position": "underground",
+    "tags": {
+      "building": "transportation",
+      "building:levels:underground": "3",
+      "layer": "-2",
+      "location": "underground",
+      "name": "忠孝復興站"
+    }
+  },
+  {
+    "id": 314949910,
+    "name": "捷運南京復興站",
+    "position": "aboveground",
+    "tags": {
+      "building": "train_station",
+      "layer": "2",
+      "name": "捷運南京復興站"
+    }
+  },
+  {
+    "id": 1469168944,
+    "name": "捷運小巨蛋站2號出口",
+    "position": "aboveground",
+    "tags": {
+      "building": "transportation",
+      "building:levels": "1",
+      "name": "捷運小巨蛋站2號出口"
+    }
+  },
+  {
+    "id": 503496499,
+    "name": "國父紀念館捷運站",
+    "position": "underground",
+    "tags": {
+      "addr:floor": "B1",
+      "building": "transportation",
+      "layer": "-1",
+      "location": "underground",
+      "name": "國父紀念館捷運站",
+      "name:zh": "國父紀念館捷運站",
+      "name:zh-Hans": "国父纪念馆捷运站",
+      "name:zh-Hant": "國父紀念館捷運站",
+      "network": "台北捷運藍線",
+      "operator": "台北捷運公司"
+    }
+  },
+  {
+    "id": 312729918,
+    "name": "市府轉運站",
+    "position": "aboveground",
+    "tags": {
+      "addr:city": "臺北市",
+      "addr:country": "TW",
+      "addr:district": "信義區",
+      "addr:full": "11065臺北市信義區忠孝東路五段6號",
+      "addr:housenumber": "6",
+      "addr:postcode": "11065",
+      "addr:street": "忠孝東路五段",
+      "alt_name:ja": "市政府前高速バスターミナル",
+      "amenity": "bus_station",
+      "building": "transportation",
+      "building:colour": "gray",
+      "building:levels": "32",
+      "bus": "yes",
+      "height": "145.4",
+      "name": "市府轉運站",
+      "name:en": "Taipei City Hall Bus Station",
+      "name:ja": "市府バスターミナル",
+      "name:ko": "타이베이 시청 버스정류장",
+      "name:nan": "Chhī-hú Choán-ūn-chām",
+      "name:nan-Hant": "市府轉運站",
+      "name:nan-Latn-pehoeji": "Chhī-hú Choán-ūn-chām",
+      "name:nan-Latn-tailo": "Tshī-hú Tsuán-ūn-tsām",
+      "name:zh": "市府轉運站",
+      "note": "服務範圍：基隆、宜蘭、桃竹苗、臺中、臺南",
+      "opening_hours": "05:00-01:00",
+      "operator": "臺北市公共運輸處",
+      "phone": "+886-2-87806252",
+      "public_transport": "station",
+      "start_date": "2010-08-05",
+      "website": "http://www.estation.com.tw",
+      "wheelchair": "yes",
+      "wikidata": "Q7676283",
+      "wikipedia": "zh:市府轉運站"
+    }
+  },
+  {
+    "id": 810557338,
+    "name": "永春站",
+    "position": "underground",
+    "tags": {
+      "building": "transportation",
+      "building:levels:underground": "2",
+      "layer": "-1",
+      "location": "underground",
+      "name": "永春站",
+      "name:en": "Yongchun Station"
+    }
+  },
+  {
+    "id": 810557339,
+    "name": "市政府站",
+    "position": "underground",
+    "tags": {
+      "building": "transportation",
+      "building:levels:underground": "2",
+      "layer": "-1",
+      "location": "underground",
+      "name": "市政府站",
+      "name:en": "Taipei City Hall Station",
+      "name:zh": "市政府站",
+      "name:zh-Hans": "市政府站",
+      "name:zh-Hant": "市政府站"
+    }
+  },
+  {
+    "id": 73369283,
+    "name": "捷運昆陽站",
+    "position": "aboveground",
+    "tags": {
+      "building": "transportation",
+      "building:levels": "1",
+      "name": "捷運昆陽站",
+      "name:en": "KunYang Station",
+      "name:zh": "台北捷運昆陽站"
+    }
+  },
+  {
+    "id": 579762132,
+    "name": "後山埤1號出口",
+    "position": "aboveground",
+    "tags": {
+      "building": "transportation",
+      "building:levels": "1",
+      "name": "後山埤1號出口"
+    }
+  },
+  {
+    "id": 1042407118,
+    "name": null,
+    "position": "unknown",
+    "tags": {
+      "building": "transportation"
+    }
+  },
+  {
+    "id": 1067738212,
+    "name": "後山埤站",
+    "position": "underground",
+    "tags": {
+      "building": "transportation",
+      "building:levels:underground": "2",
+      "layer": "-1",
+      "location": "underground",
+      "name": "後山埤站"
+    }
+  },
+  {
+    "id": 1504680871,
+    "name": "松山車站",
+    "position": "underground",
+    "tags": {
+      "building": "train_station",
+      "location": "underground",
+      "name": "松山車站",
+      "operator": "國營臺灣鐵路股份有限公司",
+      "start_date": "2008-09-21"
+    }
+  },
+  {
+    "id": 233331393,
+    "name": "南港車站",
+    "position": "aboveground",
+    "tags": {
+      "addr:city": "臺北市",
+      "addr:country": "TW",
+      "addr:district": "南港區",
+      "addr:full": "115臺北市南港區忠孝東路七段369號",
+      "addr:housenumber": "369",
+      "addr:postcode": "115",
+      "addr:street": "忠孝東路七段",
+      "building": "train_station",
+      "building:levels": "7",
+      "layer": "1",
+      "name": "南港車站",
+      "name:en": "Ruentex Nangang Station Complex",
+      "name:zh": "南港車站",
+      "name:zh-Hans": "南港车站",
+      "name:zh-Hant": "南港車站",
+      "phone": "+886 2 2652 9000",
+      "start_date": "2014",
+      "website": "https://www.citylink.tw/",
+      "wikidata": "Q698337",
+      "wikipedia": "zh:南港車站"
+    }
+  },
+  {
+    "id": 310746643,
+    "name": "捷運南港展覽館站",
+    "position": "unknown",
+    "tags": {
+      "building": "train_station",
+      "name": "捷運南港展覽館站",
+      "name:zh": "捷運南港展覽館站",
+      "name:zh-Hans": "捷运南港展览馆站",
+      "name:zh-Hant": "捷運南港展覽館站"
+    }
+  },
+  {
+    "id": 810557337,
+    "name": "南港站",
+    "position": "underground",
+    "tags": {
+      "building": "transportation",
+      "building:levels:underground": "2",
+      "layer": "-1",
+      "location": "underground",
+      "name": "南港站",
+      "name:zh": "南港站",
+      "name:zh-Hans": "南港站",
+      "name:zh-Hant": "南港站"
+    }
+  },
+  {
+    "id": 1320372810,
+    "name": null,
+    "position": "aboveground",
+    "tags": {
+      "building": "train_station",
+      "building:levels": "1",
+      "highway": "elevator"
+    }
+  },
+  {
+    "id": 1320372819,
+    "name": null,
+    "position": "aboveground",
+    "tags": {
+      "building": "train_station",
+      "building:levels": "1"
+    }
+  },
+  {
+    "id": 1320372832,
+    "name": null,
+    "position": "aboveground",
+    "tags": {
+      "building": "train_station",
+      "building:levels": "1"
+    }
+  },
+  {
+    "id": 1320380474,
+    "name": null,
+    "position": "aboveground",
+    "tags": {
+      "building": "train_station",
+      "building:levels": "1"
+    }
+  }
+]
