@@ -74,7 +74,7 @@ for e in stairs:
 # Explicit assumption: 12:00 normal weekday, user-defined Y corridor hours 10:30–22:00.
 # No invented temporary-sidewalk alignment, plaza axis, elevator shaft, or underground joining line.
 exec(compile((D/'repair_ground.py').read_text(),str(D/'repair_ground.py'),'exec'))
-samples=json.load(open(D/'fixed-sample-points.json'))
+exec(compile((D/'attach_selected_od.py').read_text(),str(D/'attach_selected_od.py'),'exec'))
 for sample in samples:sample['node']=tuple(sample['node'])
 def dijkstra(graph,source):
  dist={source:0};prev={};q=[(0,source)]
@@ -110,7 +110,7 @@ def comps(g):
     if v not in seen:seen.add(v);stack.append(v)
   sizes.append(count)
  return sorted(sizes,reverse=True)
-summary={'status':'computed_exploratory_source_network','analysis_type':'undirected shortest horizontal route distance, Dijkstra; NOT NAIN/NACH','scope':'北門—台北車站樣區，使用已取得全段OSM線網作背景；外圍資料有限','scenario_time':'平日12:00，Y通道採使用者指定10:30–22:00','radius_type':'network horizontal projected metres','height_cost':'not included: no surveyed z; stair distance is projected proxy','nodes_A':len(A),'nodes_B':len(B),'edges_A':sum(map(len,A.values()))//2,'edges_B':sum(map(len,B.values()))//2,'components_A':len(comps(A)),'components_B':len(comps(B)),'sample_count':len(samples),'cross_side_pairs':len(rows),'connected_A':sum(r['A_horizontal_m'] is not None for r in rows),'connected_B':sum(r['B_horizontal_m'] is not None for r in rows),'B_only_pairs':sum(r['status']=='B_only_connected_in_source' for r in rows),'shorter_pairs':sum((r['shorter_by_m'] or 0)>.01 for r in rows),'radius_counts':{str(rad):{'A':sum(r['A_within_'+str(rad)] for r in rows),'B':sum(r['B_within_'+str(rad)] for r in rows)} for rad in [400,800,1600]},'excluded':dict(excluded),'limitations':['資料中不連通不等於現地不通','地面修復包含標籤推定巷弄通行、人行道偏移與接點；道路製圖寬度不是實測，詳見ground-repair-audit.json','巷弄採OSM線形，人行道含偏移推定；工區臨時人行道與地下示意圖仍未補接','無三維高程，未套用1:12推定；不宣稱真實步行時間／距離','地下連接尚無逐段核實線形，全部暫不接入；A1封閉出口不接入','B本輪只加入承德市民天橋可追溯線段；尚未完成使用者要求的地下通道模型','天橋存在有官方佐證；OSM樓梯落點尚未全部現勘，結果採其線形條件成立時的試算','半徑與背景邊界效果未充分排除','階梯及電扶梯以雙向步行代理，單向運轉未另建時間模型','抽樣為固定網絡節點，非居民或觀測人流']}
+summary={'status':'computed_exploratory_source_network','analysis_type':'undirected shortest horizontal route distance, Dijkstra; NOT NAIN/NACH','scope':'北門—台北車站—善導寺，交通及商業選點；背景使用既有全段OSM線網','scenario_time':'平日12:00，Y通道採使用者指定10:30–22:00','radius_type':'network horizontal projected metres','height_cost':'not included: no surveyed z; stair distance is projected proxy','nodes_A':len(A),'nodes_B':len(B),'edges_A':sum(map(len,A.values()))//2,'edges_B':sum(map(len,B.values()))//2,'components_A':len(comps(A)),'components_B':len(comps(B)),'sample_count':len(samples),'cross_side_pairs':len(rows),'connected_A':sum(r['A_horizontal_m'] is not None for r in rows),'connected_B':sum(r['B_horizontal_m'] is not None for r in rows),'B_only_pairs':sum(r['status']=='B_only_connected_in_source' for r in rows),'shorter_pairs':sum((r['shorter_by_m'] or 0)>.01 for r in rows),'radius_counts':{str(rad):{'A':sum(r['A_within_'+str(rad)] for r in rows),'B':sum(r['B_within_'+str(rad)] for r in rows)} for rad in [400,800,1600]},'excluded':dict(excluded),'limitations':['資料中不連通不等於現地不通','地面修復包含標籤推定巷弄通行、人行道偏移與接點；道路製圖寬度不是實測，詳見ground-repair-audit.json','巷弄採OSM線形，人行道含偏移推定；工區臨時人行道與地下示意圖仍未補接','無三維高程，未套用1:12推定；不宣稱真實步行時間／距離','地下連接尚無逐段核實線形，全部暫不接入；A1封閉出口不接入','B本輪只加入承德市民天橋可追溯線段；尚未完成使用者要求的地下通道模型','天橋存在有官方佐證；OSM樓梯落點尚未全部現勘，結果採其線形條件成立時的試算','半徑與背景邊界效果未充分排除','階梯及電扶梯以雙向步行代理，單向運轉未另建時間模型','抽樣為固定網絡節點，非居民或觀測人流']}
 summary['ground_repair_segments']=len(audit)
 summary['ground_repair_report']='ground-repair-audit.json'
 summary['service_access_continuity_assumed']='--conservative-junctions' not in sys.argv
@@ -126,7 +126,7 @@ assert not any(e['group']=='underground' for e in edge_records)
 assert len({tuple(s['node']) for s in samples})==len(samples)
 assert all(math.isfinite(w) and w>=0 for g in [A,B] for adj in g.values() for w in adj.values())
 # Same extent and actual projected proportions in both editable SVG maps.
-minx,miny=project(121.5088,25.0447);maxx,maxy=project(121.5203,25.0520);W=1400;H=(maxy-miny)/(maxx-minx)*W;scale=W/(maxx-minx)
+minx,miny=project(121.5084,25.0428);maxx,maxy=project(121.5263,25.0530);W=1400;H=(maxy-miny)/(maxx-minx)*W;scale=W/(maxx-minx)
 def P(p):return ((p[0]-minx)*scale,(maxy-p[1])*scale)
 def line(points):return ' '.join(f'{a:.2f},{b:.2f}' for a,b in map(P,points))
 exec(compile((D/'render_network_surfaces.py').read_text(),str(D/'render_network_surfaces.py'),'exec'))

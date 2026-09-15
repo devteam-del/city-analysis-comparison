@@ -1,0 +1,1210 @@
+[
+  {
+    "id": "TP-M5",
+    "name": "台北車站M5",
+    "lon": 121.516246,
+    "lat": 25.046755,
+    "kind": "metro",
+    "osm_id": 3505143993,
+    "coordinate_basis": "official sources/exits.csv"
+  },
+  {
+    "id": "TP-M6",
+    "name": "台北車站M6",
+    "lon": 121.516787,
+    "lat": 25.046234,
+    "kind": "metro",
+    "osm_id": 3707479441,
+    "coordinate_basis": "official sources/exits.csv"
+  },
+  {
+    "id": "TP-M7",
+    "name": "台北車站M7",
+    "lon": 121.518643,
+    "lat": 25.046077,
+    "kind": "metro",
+    "osm_id": 3505143594,
+    "coordinate_basis": "official sources/exits.csv"
+  },
+  {
+    "id": "TP-M8",
+    "name": "台北車站M8",
+    "lon": 121.517479,
+    "lat": 25.045948,
+    "kind": "metro",
+    "osm_id": 2793285506,
+    "coordinate_basis": "official sources/exits.csv"
+  },
+  {
+    "id": "TP-M1",
+    "name": "台北車站M1",
+    "lon": 121.518193,
+    "lat": 25.048232,
+    "kind": "metro",
+    "osm_id": 2793285507,
+    "coordinate_basis": "official sources/exits.csv"
+  },
+  {
+    "id": "TP-M2",
+    "name": "台北車站M2",
+    "lon": 121.51908,
+    "lat": 25.048159,
+    "kind": "metro",
+    "osm_id": 2793285508,
+    "coordinate_basis": "official sources/exits.csv"
+  },
+  {
+    "id": "TP-M3",
+    "name": "台北車站M3",
+    "lon": 121.517882,
+    "lat": 25.046337,
+    "kind": "metro",
+    "osm_id": 3505143793,
+    "coordinate_basis": "official sources/exits.csv"
+  },
+  {
+    "id": "TP-M4",
+    "name": "台北車站M4",
+    "lon": 121.517345,
+    "lat": 25.046485,
+    "kind": "metro",
+    "osm_id": 3505143693,
+    "coordinate_basis": "official sources/exits.csv"
+  },
+  {
+    "id": "SD-1",
+    "name": "善導寺站出口1",
+    "lon": 121.523009,
+    "lat": 25.045097,
+    "kind": "metro",
+    "osm_id": 2737014090,
+    "coordinate_basis": "official sources/exits.csv"
+  },
+  {
+    "id": "SD-2",
+    "name": "善導寺站出口2",
+    "lon": 121.523053,
+    "lat": 25.044796,
+    "kind": "metro",
+    "osm_id": 2737317118,
+    "coordinate_basis": "official sources/exits.csv"
+  },
+  {
+    "id": "SD-3",
+    "name": "善導寺站出口3",
+    "lon": 121.523734,
+    "lat": 25.044568,
+    "kind": "metro",
+    "osm_id": 2757790370,
+    "coordinate_basis": "official sources/exits.csv"
+  },
+  {
+    "id": "SD-4",
+    "name": "善導寺站出口4",
+    "lon": 121.524217,
+    "lat": 25.044111,
+    "kind": "metro",
+    "osm_id": 2744857478,
+    "coordinate_basis": "official sources/exits.csv"
+  },
+  {
+    "id": "SD-5",
+    "name": "善導寺站出口5",
+    "lon": 121.52482,
+    "lat": 25.044256,
+    "kind": "metro",
+    "osm_id": 3100680570,
+    "coordinate_basis": "official sources/exits.csv"
+  },
+  {
+    "id": "SD-6",
+    "name": "善導寺站出口6",
+    "lon": 121.524898,
+    "lat": 25.044632,
+    "kind": "metro",
+    "osm_id": 2737014061,
+    "coordinate_basis": "official sources/exits.csv"
+  },
+  {
+    "id": "BM-1",
+    "name": "北門站出口1",
+    "lon": 121.509986,
+    "lat": 25.048861,
+    "kind": "metro",
+    "osm_id": 3186011785,
+    "coordinate_basis": "official sources/exits.csv"
+  },
+  {
+    "id": "BM-2",
+    "name": "北門站出口2",
+    "lon": 121.510506,
+    "lat": 25.049583,
+    "kind": "metro",
+    "osm_id": 3186011786,
+    "coordinate_basis": "official sources/exits.csv"
+  },
+  {
+    "id": "BM-3",
+    "name": "北門站出口3",
+    "lon": 121.510227,
+    "lat": 25.049943,
+    "kind": "metro",
+    "osm_id": 3186011787,
+    "coordinate_basis": "official sources/exits.csv"
+  },
+  {
+    "id": "A1-1",
+    "name": "機捷台北車站出口1",
+    "lon": 121.5149689,
+    "lat": 25.048539,
+    "kind": "airport_metro",
+    "osm_id": 5021873865,
+    "coordinate_basis": "OSM source point",
+    "operation_status": "candidate not independently current-gate verified"
+  },
+  {
+    "id": "A1-3",
+    "name": "機捷台北車站出口3",
+    "lon": 121.5136831,
+    "lat": 25.0489815,
+    "kind": "airport_metro",
+    "osm_id": 5021873867,
+    "coordinate_basis": "OSM source point",
+    "operation_status": "candidate not independently current-gate verified"
+  },
+  {
+    "id": "A1-5",
+    "name": "機捷台北車站出口5",
+    "lon": 121.5126776,
+    "lat": 25.0488034,
+    "kind": "airport_metro",
+    "osm_id": 5021873868,
+    "coordinate_basis": "OSM source point",
+    "operation_status": "candidate not independently current-gate verified"
+  },
+  {
+    "id": "A1-6",
+    "name": "機捷台北車站出口6",
+    "lon": 121.5121947,
+    "lat": 25.0494338,
+    "kind": "airport_metro",
+    "osm_id": 5021873869,
+    "coordinate_basis": "OSM source point",
+    "operation_status": "candidate not independently current-gate verified"
+  },
+  {
+    "id": "BUS-2441160819",
+    "name": "臺北車站(重慶)／D",
+    "lon": 121.5131881,
+    "lat": 25.0466039,
+    "kind": "bus",
+    "osm_id": 2441160819,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-2461631520",
+    "name": "捷運北門站",
+    "lon": 121.5099668,
+    "lat": 25.0488734,
+    "kind": "bus",
+    "osm_id": 2461631520,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-2323973418",
+    "name": "臺北車站(承德)",
+    "lon": 121.5169598,
+    "lat": 25.0500558,
+    "kind": "bus",
+    "osm_id": 2323973418,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-2517659451",
+    "name": "臺北車站(承德)",
+    "lon": 121.5168365,
+    "lat": 25.0507411,
+    "kind": "bus",
+    "osm_id": 2517659451,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-2706511275",
+    "name": "後車站",
+    "lon": 121.5136345,
+    "lat": 25.0502456,
+    "kind": "bus",
+    "osm_id": 2706511275,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-4205229665",
+    "name": "後車站",
+    "lon": 121.5152403,
+    "lat": 25.0513483,
+    "kind": "bus",
+    "osm_id": 4205229665,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-5110489279",
+    "name": "臺北車站(承德)",
+    "lon": 121.5164738,
+    "lat": 25.0493436,
+    "kind": "bus",
+    "osm_id": 5110489279,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-12252486161",
+    "name": "臺北車站(承德)",
+    "lon": 121.5167325,
+    "lat": 25.0504007,
+    "kind": "bus",
+    "osm_id": 12252486161,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-2323973417",
+    "name": "捷運北門站",
+    "lon": 121.5104163,
+    "lat": 25.0491504,
+    "kind": "bus",
+    "osm_id": 2323973417,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-2631129012",
+    "name": "捷運北門站",
+    "lon": 121.5105751,
+    "lat": 25.0506656,
+    "kind": "bus",
+    "osm_id": 2631129012,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-2706511274",
+    "name": "後車站",
+    "lon": 121.5134656,
+    "lat": 25.0504679,
+    "kind": "bus",
+    "osm_id": 2706511274,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-2308210158",
+    "name": "臺北車站 (忠孝)／C1",
+    "lon": 121.5165389,
+    "lat": 25.0465696,
+    "kind": "bus",
+    "osm_id": 2308210158,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-2310591195",
+    "name": "臺北車站(忠孝)／C3",
+    "lon": 121.5155912,
+    "lat": 25.0465067,
+    "kind": "bus",
+    "osm_id": 2310591195,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-2422630125",
+    "name": "臺北車站(忠孝)／C4",
+    "lon": 121.5170622,
+    "lat": 25.0461228,
+    "kind": "bus",
+    "osm_id": 2422630125,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-2422630126",
+    "name": "臺北車站(忠孝)／C2",
+    "lon": 121.5145918,
+    "lat": 25.0467586,
+    "kind": "bus",
+    "osm_id": 2422630126,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-2619922107",
+    "name": "臺北車站(東三門)／B",
+    "lon": 121.5180105,
+    "lat": 25.0473076,
+    "kind": "bus",
+    "osm_id": 2619922107,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-2619922112",
+    "name": "臺北車站 (鄭州)／A1",
+    "lon": 121.51714,
+    "lat": 25.0488896,
+    "kind": "bus",
+    "osm_id": 2619922112,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-2619922114",
+    "name": "臺北車站 (鄭州)／A2",
+    "lon": 121.5178964,
+    "lat": 25.048321,
+    "kind": "bus",
+    "osm_id": 2619922114,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-3262985667",
+    "name": "臺北車站(鄭州)",
+    "lon": 121.5173496,
+    "lat": 25.0484171,
+    "kind": "bus",
+    "osm_id": 3262985667,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-4524400585",
+    "name": "臺北車站(忠孝)／C1",
+    "lon": 121.5162539,
+    "lat": 25.0466378,
+    "kind": "bus",
+    "osm_id": 4524400585,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-4753887131",
+    "name": "臺北車站(東三門)／3",
+    "lon": 121.5182027,
+    "lat": 25.0476,
+    "kind": "bus",
+    "osm_id": 4753887131,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-4753887132",
+    "name": "臺北車站(東三門)／2",
+    "lon": 121.518147,
+    "lat": 25.0475032,
+    "kind": "bus",
+    "osm_id": 4753887132,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-4753887133",
+    "name": "臺北車站(東三門)",
+    "lon": 121.5182875,
+    "lat": 25.047737,
+    "kind": "bus",
+    "osm_id": 4753887133,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-4825734727",
+    "name": "臺北車站(忠孝)／C6",
+    "lon": 121.5139614,
+    "lat": 25.047203,
+    "kind": "bus",
+    "osm_id": 4825734727,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-4825734728",
+    "name": "臺北車站(忠孝)／C5",
+    "lon": 121.5139953,
+    "lat": 25.0473595,
+    "kind": "bus",
+    "osm_id": 4825734728,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-5335508856",
+    "name": "臺北車站(東三門)／1",
+    "lon": 121.5180868,
+    "lat": 25.047403,
+    "kind": "bus",
+    "osm_id": 5335508856,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-7151865726",
+    "name": "臺北車站 (鄭州)／A2",
+    "lon": 121.5175907,
+    "lat": 25.0483765,
+    "kind": "bus",
+    "osm_id": 7151865726,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-7151865727",
+    "name": "臺北車站 (鄭州)／A2",
+    "lon": 121.5176873,
+    "lat": 25.0483559,
+    "kind": "bus",
+    "osm_id": 7151865727,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-7151865728",
+    "name": "臺北車站 (鄭州)／A2",
+    "lon": 121.5177704,
+    "lat": 25.0483425,
+    "kind": "bus",
+    "osm_id": 7151865728,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-7151865729",
+    "name": "臺北車站 (鄭州)／A2",
+    "lon": 121.5178442,
+    "lat": 25.0483304,
+    "kind": "bus",
+    "osm_id": 7151865729,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-7151865730",
+    "name": "臺北車站(鄭州)",
+    "lon": 121.5174285,
+    "lat": 25.0484081,
+    "kind": "bus",
+    "osm_id": 7151865730,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-8420400115",
+    "name": "臺北車站 (鄭州)／A1",
+    "lon": 121.5172072,
+    "lat": 25.0488801,
+    "kind": "bus",
+    "osm_id": 8420400115,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-8442738381",
+    "name": "臺北車站 (忠孝)／C1",
+    "lon": 121.5161429,
+    "lat": 25.0466643,
+    "kind": "bus",
+    "osm_id": 8442738381,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-8442738382",
+    "name": "臺北車站 (忠孝)／C1",
+    "lon": 121.5163974,
+    "lat": 25.0466034,
+    "kind": "bus",
+    "osm_id": 8442738382,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-8442738383",
+    "name": "臺北車站 (忠孝)／C1",
+    "lon": 121.5168703,
+    "lat": 25.0464904,
+    "kind": "bus",
+    "osm_id": 8442738383,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-8442738384",
+    "name": "臺北車站 (忠孝)／C1",
+    "lon": 121.5166747,
+    "lat": 25.0465372,
+    "kind": "bus",
+    "osm_id": 8442738384,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-8442738386",
+    "name": "臺北車站 (忠孝)／C1",
+    "lon": 121.5170109,
+    "lat": 25.0464568,
+    "kind": "bus",
+    "osm_id": 8442738386,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-8442738387",
+    "name": "臺北車站 (忠孝)／C1",
+    "lon": 121.517237,
+    "lat": 25.0464027,
+    "kind": "bus",
+    "osm_id": 8442738387,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-13227228184",
+    "name": "臺北車站 (鄭州)",
+    "lon": 121.5179875,
+    "lat": 25.0483169,
+    "kind": "bus",
+    "osm_id": 13227228184,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-13227228185",
+    "name": "臺北車站 (鄭州)",
+    "lon": 121.518028,
+    "lat": 25.0483101,
+    "kind": "bus",
+    "osm_id": 13227228185,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-2085453855",
+    "name": "臺北車站(公園)",
+    "lon": 121.5167093,
+    "lat": 25.0438823,
+    "kind": "bus",
+    "osm_id": 2085453855,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "BUS-2085453856",
+    "name": "臺北車站(公園)",
+    "lon": 121.5169614,
+    "lat": 25.0441666,
+    "kind": "bus",
+    "osm_id": 2085453856,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Z7",
+    "name": "Z7地面出口",
+    "lon": 121.5134659,
+    "lat": 25.0475295,
+    "kind": "mall_access",
+    "osm_id": 3355241657,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Z10",
+    "name": "Z10地面出口",
+    "lon": 121.5130667,
+    "lat": 25.0470144,
+    "kind": "mall_access",
+    "osm_id": 4476417055,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Z9",
+    "name": "Z9地面出口",
+    "lon": 121.5132024,
+    "lat": 25.0475797,
+    "kind": "mall_access",
+    "osm_id": 4476417059,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y9",
+    "name": "Y9地面出口",
+    "lon": 121.5158039,
+    "lat": 25.0490388,
+    "kind": "mall_access",
+    "osm_id": 3505143998,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y17",
+    "name": "Y17地面出口",
+    "lon": 121.5137089,
+    "lat": 25.0494896,
+    "kind": "mall_access",
+    "osm_id": 3505144196,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y11",
+    "name": "Y11地面出口",
+    "lon": 121.5155813,
+    "lat": 25.0490738,
+    "kind": "mall_access",
+    "osm_id": 4406419433,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y13",
+    "name": "Y13地面出口",
+    "lon": 121.5148447,
+    "lat": 25.0494559,
+    "kind": "mall_access",
+    "osm_id": 4406419435,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y15",
+    "name": "Y15地面出口",
+    "lon": 121.5143713,
+    "lat": 25.0493313,
+    "kind": "mall_access",
+    "osm_id": 4406419437,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y20",
+    "name": "Y20地面出口",
+    "lon": 121.5137224,
+    "lat": 25.0492155,
+    "kind": "mall_access",
+    "osm_id": 5318551122,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-R2",
+    "name": "R2地面出口",
+    "lon": 121.5196961,
+    "lat": 25.0495538,
+    "kind": "mall_access",
+    "osm_id": 9260092525,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-R3",
+    "name": "R3地面出口",
+    "lon": 121.5199494,
+    "lat": 25.0497877,
+    "kind": "mall_access",
+    "osm_id": 9260092526,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y21",
+    "name": "Y21地面出口",
+    "lon": 121.5122444,
+    "lat": 25.0499766,
+    "kind": "mall_access",
+    "osm_id": 3505143596,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y26",
+    "name": "Y26地面出口",
+    "lon": 121.5115694,
+    "lat": 25.0497574,
+    "kind": "mall_access",
+    "osm_id": 3505144000,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y27",
+    "name": "Y27地面出口",
+    "lon": 121.510663,
+    "lat": 25.0503037,
+    "kind": "mall_access",
+    "osm_id": 3505144002,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y19",
+    "name": "Y19地面出口",
+    "lon": 121.5129463,
+    "lat": 25.0497129,
+    "kind": "mall_access",
+    "osm_id": 3505144197,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y23",
+    "name": "Y23地面出口",
+    "lon": 121.5116838,
+    "lat": 25.0501153,
+    "kind": "mall_access",
+    "osm_id": 3505145996,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y25",
+    "name": "Y25地面出口",
+    "lon": 121.5113046,
+    "lat": 25.0501875,
+    "kind": "mall_access",
+    "osm_id": 3505146395,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y28",
+    "name": "Y28地面出口",
+    "lon": 121.5108058,
+    "lat": 25.0499144,
+    "kind": "mall_access",
+    "osm_id": 3699813329,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-R1",
+    "name": "R1地面出口",
+    "lon": 121.5190203,
+    "lat": 25.0486703,
+    "kind": "mall_access",
+    "osm_id": 3192472090,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Z5",
+    "name": "Z5地面出口",
+    "lon": 121.5135774,
+    "lat": 25.0473437,
+    "kind": "mall_access",
+    "osm_id": 3355241658,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Z3",
+    "name": "Z3地面出口",
+    "lon": 121.5146228,
+    "lat": 25.0470856,
+    "kind": "mall_access",
+    "osm_id": 3355241659,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Z1",
+    "name": "Z1地面出口",
+    "lon": 121.5155152,
+    "lat": 25.0469572,
+    "kind": "mall_access",
+    "osm_id": 3355241664,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y7",
+    "name": "Y7地面出口",
+    "lon": 121.5161428,
+    "lat": 25.0489803,
+    "kind": "mall_access",
+    "osm_id": 3505143496,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y4",
+    "name": "Y4地面出口",
+    "lon": 121.5177578,
+    "lat": 25.0482104,
+    "kind": "mall_access",
+    "osm_id": 3505143694,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y6",
+    "name": "Y6地面出口",
+    "lon": 121.517535,
+    "lat": 25.0484104,
+    "kind": "mall_access",
+    "osm_id": 3505143795,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y1",
+    "name": "Y1地面出口",
+    "lon": 121.5186581,
+    "lat": 25.0485849,
+    "kind": "mall_access",
+    "osm_id": 3505143997,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y10",
+    "name": "Y10地面出口",
+    "lon": 121.5161726,
+    "lat": 25.0486302,
+    "kind": "mall_access",
+    "osm_id": 3505145593,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y12",
+    "name": "Y12地面出口",
+    "lon": 121.5156098,
+    "lat": 25.0487211,
+    "kind": "mall_access",
+    "osm_id": 3505145993,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "TRA-西1門",
+    "name": "台北車站西1門",
+    "lon": 121.5164048,
+    "lat": 25.0481248,
+    "kind": "rail_station",
+    "osm_id": 3541337696,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "TRA-北2門",
+    "name": "台北車站北2門",
+    "lon": 121.5172335,
+    "lat": 25.0482797,
+    "kind": "rail_station",
+    "osm_id": 3541338293,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "TRA-西3門",
+    "name": "台北車站西3門",
+    "lon": 121.5162903,
+    "lat": 25.0475754,
+    "kind": "rail_station",
+    "osm_id": 3541338294,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "TRA-西2門",
+    "name": "台北車站西2門",
+    "lon": 121.5163475,
+    "lat": 25.0478502,
+    "kind": "rail_station",
+    "osm_id": 3541338393,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Z2",
+    "name": "Z2地面出口",
+    "lon": 121.5157272,
+    "lat": 25.0464818,
+    "kind": "mall_access",
+    "osm_id": 3556410802,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Z4",
+    "name": "Z4地面出口",
+    "lon": 121.5152884,
+    "lat": 25.0465883,
+    "kind": "mall_access",
+    "osm_id": 3556411099,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y14",
+    "name": "Y14地面出口",
+    "lon": 121.5149615,
+    "lat": 25.0488643,
+    "kind": "mall_access",
+    "osm_id": 4406419436,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y16",
+    "name": "Y16地面出口",
+    "lon": 121.5146406,
+    "lat": 25.0489354,
+    "kind": "mall_access",
+    "osm_id": 4406419438,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y8",
+    "name": "Y8地面出口",
+    "lon": 121.5167243,
+    "lat": 25.0483852,
+    "kind": "mall_access",
+    "osm_id": 4406419456,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-K10",
+    "name": "K10地面出口",
+    "lon": 121.5152596,
+    "lat": 25.0470569,
+    "kind": "mall_access",
+    "osm_id": 4476417053,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-K12",
+    "name": "K12地面出口",
+    "lon": 121.5148421,
+    "lat": 25.0472004,
+    "kind": "mall_access",
+    "osm_id": 4476417054,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Z6",
+    "name": "Z6地面出口",
+    "lon": 121.5146739,
+    "lat": 25.046742,
+    "kind": "mall_access",
+    "osm_id": 4476417057,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Z8",
+    "name": "Z8地面出口",
+    "lon": 121.5137787,
+    "lat": 25.0469646,
+    "kind": "mall_access",
+    "osm_id": 4476417058,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-R1",
+    "name": "R1地面出口",
+    "lon": 121.5190035,
+    "lat": 25.0486001,
+    "kind": "mall_access",
+    "osm_id": 9266255461,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-K5",
+    "name": "K5地面出口",
+    "lon": 121.5167353,
+    "lat": 25.0467294,
+    "kind": "mall_access",
+    "osm_id": 9369867438,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-K3",
+    "name": "K3地面出口",
+    "lon": 121.5168886,
+    "lat": 25.0468337,
+    "kind": "mall_access",
+    "osm_id": 9369867439,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-K4",
+    "name": "K4地面出口",
+    "lon": 121.516831,
+    "lat": 25.0468465,
+    "kind": "mall_access",
+    "osm_id": 9369867440,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y5",
+    "name": "Y5地面出口",
+    "lon": 121.5173706,
+    "lat": 25.0488964,
+    "kind": "mall_access",
+    "osm_id": 11262183530,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-Y3",
+    "name": "Y3地面出口",
+    "lon": 121.5180143,
+    "lat": 25.0487981,
+    "kind": "mall_access",
+    "osm_id": 11262183531,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-K2",
+    "name": "K2地面出口",
+    "lon": 121.5173562,
+    "lat": 25.0466193,
+    "kind": "mall_access",
+    "osm_id": 12087421732,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-K8",
+    "name": "K8地面出口",
+    "lon": 121.5158493,
+    "lat": 25.0471014,
+    "kind": "mall_access",
+    "osm_id": 12087421749,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-K6",
+    "name": "K6地面出口",
+    "lon": 121.5163048,
+    "lat": 25.0469907,
+    "kind": "mall_access",
+    "osm_id": 12087421750,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-K7",
+    "name": "K7地面出口",
+    "lon": 121.5164481,
+    "lat": 25.0471779,
+    "kind": "mall_access",
+    "osm_id": 12087421751,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-K9",
+    "name": "K9地面出口",
+    "lon": 121.5155053,
+    "lat": 25.0471676,
+    "kind": "mall_access",
+    "osm_id": 12087421752,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-K11",
+    "name": "K11地面出口",
+    "lon": 121.5152545,
+    "lat": 25.0472323,
+    "kind": "mall_access",
+    "osm_id": 12087421753,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "UG-K1",
+    "name": "K1地面出口",
+    "lon": 121.5172528,
+    "lat": 25.046986,
+    "kind": "mall_access",
+    "osm_id": 12087421754,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "TRA-南3門",
+    "name": "台北車站南3門",
+    "lon": 121.5165284,
+    "lat": 25.047235,
+    "kind": "rail_station",
+    "osm_id": 14182322704,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "TRA-南2門",
+    "name": "台北車站南2門",
+    "lon": 121.5169949,
+    "lat": 25.0471552,
+    "kind": "rail_station",
+    "osm_id": 14182322706,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "TRA-南1門",
+    "name": "台北車站南1門",
+    "lon": 121.5174216,
+    "lat": 25.0470823,
+    "kind": "rail_station",
+    "osm_id": 14182322708,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "TRA-東3門",
+    "name": "台北車站東3門",
+    "lon": 121.5178288,
+    "lat": 25.0473339,
+    "kind": "rail_station",
+    "osm_id": 14182322710,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "TRA-東2門",
+    "name": "台北車站東2門",
+    "lon": 121.5178814,
+    "lat": 25.0475867,
+    "kind": "rail_station",
+    "osm_id": 14182322712,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "TRA-東1門",
+    "name": "台北車站東1門",
+    "lon": 121.517942,
+    "lat": 25.0478772,
+    "kind": "rail_station",
+    "osm_id": 14182322715,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "TRA-北1門",
+    "name": "台北車站北1門",
+    "lon": 121.5177089,
+    "lat": 25.0481982,
+    "kind": "rail_station",
+    "osm_id": 14182322717,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "TRA-北3門",
+    "name": "台北車站北3門",
+    "lon": 121.516769,
+    "lat": 25.048359,
+    "kind": "rail_station",
+    "osm_id": 14182322720,
+    "coordinate_basis": "OSM source point"
+  },
+  {
+    "id": "C1",
+    "name": "京站承德門周邊",
+    "lon": 121.51704,
+    "lat": 25.0493,
+    "kind": "commercial",
+    "osm_id": null,
+    "coordinate_basis": "named street-frontage selection anchor; approximate, not surveyed door",
+    "frontage_proxy": true
+  },
+  {
+    "id": "C2",
+    "name": "華陰街×太原路",
+    "lon": 121.51516,
+    "lat": 25.05021,
+    "kind": "commercial",
+    "osm_id": null,
+    "coordinate_basis": "named street-frontage selection anchor; approximate, not surveyed door",
+    "frontage_proxy": true
+  },
+  {
+    "id": "C3",
+    "name": "華陰街×重慶北路",
+    "lon": 121.51375,
+    "lat": 25.05048,
+    "kind": "commercial",
+    "osm_id": null,
+    "coordinate_basis": "named street-frontage selection anchor; approximate, not surveyed door",
+    "frontage_proxy": true
+  },
+  {
+    "id": "C5",
+    "name": "南陽街×許昌街",
+    "lon": 121.51612,
+    "lat": 25.04551,
+    "kind": "commercial",
+    "osm_id": null,
+    "coordinate_basis": "named street-frontage selection anchor; approximate, not surveyed door",
+    "frontage_proxy": true
+  },
+  {
+    "id": "C6",
+    "name": "華山市場入口周邊",
+    "lon": 121.52481,
+    "lat": 25.04424,
+    "kind": "commercial",
+    "osm_id": null,
+    "coordinate_basis": "named street-frontage selection anchor; approximate, not surveyed door",
+    "frontage_proxy": true
+  },
+  {
+    "id": "C7",
+    "name": "善導寺忠孝東路入口周邊",
+    "lon": 121.52528,
+    "lat": 25.04453,
+    "kind": "commercial",
+    "osm_id": null,
+    "coordinate_basis": "named street-frontage selection anchor; approximate, not surveyed door",
+    "frontage_proxy": true
+  },
+  {
+    "id": "BT",
+    "name": "台北轉運站市民大道旅客入口周邊",
+    "lon": 121.51853,
+    "lat": 25.04874,
+    "kind": "bus_terminal",
+    "osm_id": null,
+    "coordinate_basis": "named street-frontage selection anchor; approximate, not surveyed door",
+    "frontage_proxy": true
+  },
+  {
+    "id": "C4",
+    "name": "新光三越站前店地面入口",
+    "lon": 121.5151877,
+    "lat": 25.046316,
+    "kind": "commercial",
+    "osm_id": 5644385151,
+    "coordinate_basis": "OSM source point"
+  }
+]

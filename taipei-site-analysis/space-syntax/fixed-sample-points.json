@@ -1,194 +1,3186 @@
 [
   {
-    "id": "N1",
+    "id": "TP-M5",
+    "name": "台北車站M5",
+    "lon": 121.516246,
+    "lat": 25.046755,
+    "kind": "metro",
+    "osm_id": 3505143993,
+    "coordinate_basis": "official sources/exits.csv",
     "node": [
-      7818778811,
-      "surface"
+      -576,
+      "od_ground_attachment"
     ],
-    "side": "N",
-    "target_offset_m": 63.44,
-    "sample_valid": true,
-    "lon": 121.5105366,
-    "lat": 25.0509209
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 9.612888882759169,
+    "source_coordinate": [
+      121.516246,
+      25.046755
+    ],
+    "network_coordinate": [
+      121.51622014578379,
+      25.046671471670084
+    ]
   },
   {
-    "id": "S1",
+    "id": "TP-M6",
+    "name": "台北車站M6",
+    "lon": 121.516787,
+    "lat": 25.046234,
+    "kind": "metro",
+    "osm_id": 3707479441,
+    "coordinate_basis": "official sources/exits.csv",
     "node": [
-      5141544830,
+      3707479441,
       "surface"
     ],
     "side": "S",
-    "target_offset_m": 56.56,
-    "sample_valid": true,
-    "lon": 121.5101171,
-    "lat": 25.0492203
-  },
-  {
-    "id": "N2",
-    "node": [
-      3262986578,
-      "surface"
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.516787,
+      25.046234
     ],
-    "side": "N",
-    "target_offset_m": 96.34,
-    "sample_valid": true,
-    "lon": 121.512329,
-    "lat": 25.0517065
+    "network_coordinate": [
+      121.5168062,
+      25.0461142
+    ]
   },
   {
-    "id": "S2",
+    "id": "TP-M7",
+    "name": "台北車站M7",
+    "lon": 121.518643,
+    "lat": 25.046077,
+    "kind": "metro",
+    "osm_id": 3505143594,
+    "coordinate_basis": "official sources/exits.csv",
     "node": [
-      5310653366,
-      "surface"
-    ],
-    "side": "S",
-    "target_offset_m": 28.85,
-    "sample_valid": true,
-    "lon": 121.5115377,
-    "lat": 25.04849
-  },
-  {
-    "id": "N3",
-    "node": [
-      7052731759,
-      "surface"
-    ],
-    "side": "N",
-    "target_offset_m": 37.28,
-    "sample_valid": true,
-    "lon": 121.5135271,
-    "lat": 25.0506265
-  },
-  {
-    "id": "S3",
-    "node": [
-      7052738991,
+      3505143594,
       "surface"
     ],
     "side": "S",
-    "target_offset_m": 59.26,
-    "sample_valid": true,
-    "lon": 121.5131986,
-    "lat": 25.0484956
-  },
-  {
-    "id": "N4",
-    "node": [
-      5038755615,
-      "surface"
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.518643,
+      25.046077
     ],
-    "side": "N",
-    "target_offset_m": 7.71,
-    "sample_valid": true,
-    "lon": 121.5141267,
-    "lat": 25.0503593
+    "network_coordinate": [
+      121.5186555,
+      25.046061
+    ]
   },
   {
-    "id": "S4",
+    "id": "TP-M8",
+    "name": "台北車站M8",
+    "lon": 121.517479,
+    "lat": 25.045948,
+    "kind": "metro",
+    "osm_id": 2793285506,
+    "coordinate_basis": "official sources/exits.csv",
     "node": [
-      13700179013,
+      -577,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 6.508675477502392,
+    "source_coordinate": [
+      121.517479,
+      25.045948
+    ],
+    "network_coordinate": [
+      121.5174985086584,
+      25.04600400847463
+    ]
+  },
+  {
+    "id": "TP-M1",
+    "name": "台北車站M1",
+    "lon": 121.518193,
+    "lat": 25.048232,
+    "kind": "metro",
+    "osm_id": 2793285507,
+    "coordinate_basis": "official sources/exits.csv",
+    "node": [
+      -578,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 8.729389436508967,
+    "source_coordinate": [
+      121.518193,
+      25.048232
+    ],
+    "network_coordinate": [
+      121.51820707953148,
+      25.04830975840362
+    ]
+  },
+  {
+    "id": "TP-M2",
+    "name": "台北車站M2",
+    "lon": 121.51908,
+    "lat": 25.048159,
+    "kind": "metro",
+    "osm_id": 2793285508,
+    "coordinate_basis": "official sources/exits.csv",
+    "node": [
+      2793285508,
       "surface"
     ],
     "side": "S",
-    "target_offset_m": 14.61,
-    "sample_valid": true,
-    "lon": 121.5134804,
-    "lat": 25.0482729
-  },
-  {
-    "id": "N5",
-    "node": [
-      7782558058,
-      "surface"
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.51908,
+      25.048159
     ],
-    "side": "N",
-    "target_offset_m": 1.38,
-    "sample_valid": true,
-    "lon": 121.5151659,
-    "lat": 25.0502151
+    "network_coordinate": [
+      121.5190094,
+      25.0480916
+    ]
   },
   {
-    "id": "S5",
+    "id": "TP-M3",
+    "name": "台北車站M3",
+    "lon": 121.517882,
+    "lat": 25.046337,
+    "kind": "metro",
+    "osm_id": 3505143793,
+    "coordinate_basis": "official sources/exits.csv",
     "node": [
-      5813479925,
-      "surface"
-    ],
-    "side": "S",
-    "target_offset_m": 57.52,
-    "sample_valid": true,
-    "lon": 121.514552,
-    "lat": 25.0475798
-  },
-  {
-    "id": "N6",
-    "node": [
-      4881981837,
-      "surface"
-    ],
-    "side": "N",
-    "target_offset_m": 25.69,
-    "sample_valid": true,
-    "lon": 121.5162886,
-    "lat": 25.0501965
-  },
-  {
-    "id": "S6",
-    "node": [
-      7825334957,
+      3505143793,
       "surface"
     ],
     "side": "S",
-    "target_offset_m": 60.56,
-    "sample_valid": true,
-    "lon": 121.5160222,
-    "lat": 25.0474628
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.517882,
+      25.046337
+    ],
+    "network_coordinate": [
+      121.5177943,
+      25.046293
+    ]
   },
   {
-    "id": "N7",
+    "id": "TP-M4",
+    "name": "台北車站M4",
+    "lon": 121.517345,
+    "lat": 25.046485,
+    "kind": "metro",
+    "osm_id": 3505143693,
+    "coordinate_basis": "official sources/exits.csv",
     "node": [
-      7951191759,
+      -579,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 10.05382156009111,
+    "source_coordinate": [
+      121.517345,
+      25.046485
+    ],
+    "network_coordinate": [
+      121.51731769883672,
+      25.04639770774616
+    ]
+  },
+  {
+    "id": "SD-1",
+    "name": "善導寺站出口1",
+    "lon": 121.523009,
+    "lat": 25.045097,
+    "kind": "metro",
+    "osm_id": 2737014090,
+    "coordinate_basis": "official sources/exits.csv",
+    "node": [
+      -580,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 6.140048740714851,
+    "source_coordinate": [
+      121.523009,
+      25.045097
+    ],
+    "network_coordinate": [
+      121.52299339456899,
+      25.045043421513853
+    ]
+  },
+  {
+    "id": "SD-2",
+    "name": "善導寺站出口2",
+    "lon": 121.523053,
+    "lat": 25.044796,
+    "kind": "metro",
+    "osm_id": 2737317118,
+    "coordinate_basis": "official sources/exits.csv",
+    "node": [
+      -581,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 8.00574653886871,
+    "source_coordinate": [
+      121.523053,
+      25.044796
+    ],
+    "network_coordinate": [
+      121.52303227831963,
+      25.04472623271575
+    ]
+  },
+  {
+    "id": "SD-3",
+    "name": "善導寺站出口3",
+    "lon": 121.523734,
+    "lat": 25.044568,
+    "kind": "metro",
+    "osm_id": 2757790370,
+    "coordinate_basis": "official sources/exits.csv",
+    "node": [
+      -582,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 1.1375057748661084,
+    "source_coordinate": [
+      121.523734,
+      25.044568
+    ],
+    "network_coordinate": [
+      121.52373112141171,
+      25.044558071041436
+    ]
+  },
+  {
+    "id": "SD-4",
+    "name": "善導寺站出口4",
+    "lon": 121.524217,
+    "lat": 25.044111,
+    "kind": "metro",
+    "osm_id": 2744857478,
+    "coordinate_basis": "official sources/exits.csv",
+    "node": [
+      -583,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 3.3963297937522223,
+    "source_coordinate": [
+      121.524217,
+      25.044111
+    ],
+    "network_coordinate": [
+      121.52418453746593,
+      25.044119098985092
+    ]
+  },
+  {
+    "id": "SD-5",
+    "name": "善導寺站出口5",
+    "lon": 121.52482,
+    "lat": 25.044256,
+    "kind": "metro",
+    "osm_id": 3100680570,
+    "coordinate_basis": "official sources/exits.csv",
+    "node": [
+      6212730110,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 3.078005285293225,
+    "source_coordinate": [
+      121.52482,
+      25.044256
+    ],
+    "network_coordinate": [
+      121.5248018,
+      25.0442783
+    ],
+    "aliases": [
+      {
+        "id": "C6",
+        "name": "華山市場入口周邊"
+      }
+    ]
+  },
+  {
+    "id": "SD-6",
+    "name": "善導寺站出口6",
+    "lon": 121.524898,
+    "lat": 25.044632,
+    "kind": "metro",
+    "osm_id": 2737014061,
+    "coordinate_basis": "official sources/exits.csv",
+    "node": [
+      -584,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 1.8028266218940763,
+    "source_coordinate": [
+      121.524898,
+      25.044632
+    ],
+    "network_coordinate": [
+      121.52489345330615,
+      25.044616259912424
+    ]
+  },
+  {
+    "id": "BM-1",
+    "name": "北門站出口1",
+    "lon": 121.509986,
+    "lat": 25.048861,
+    "kind": "metro",
+    "osm_id": 3186011785,
+    "coordinate_basis": "official sources/exits.csv",
+    "node": [
+      -585,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.0586883402343803,
+    "source_coordinate": [
+      121.509986,
+      25.048861
+    ],
+    "network_coordinate": [
+      121.5100056536364,
+      25.04885601049383
+    ]
+  },
+  {
+    "id": "BM-2",
+    "name": "北門站出口2",
+    "lon": 121.510506,
+    "lat": 25.049583,
+    "kind": "metro",
+    "osm_id": 3186011786,
+    "coordinate_basis": "official sources/exits.csv",
+    "node": [
+      -586,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 3.7162017841919566,
+    "source_coordinate": [
+      121.510506,
+      25.049583
+    ],
+    "network_coordinate": [
+      121.51054176984744,
+      25.049575009912445
+    ]
+  },
+  {
+    "id": "BM-3",
+    "name": "北門站出口3",
+    "lon": 121.510227,
+    "lat": 25.049943,
+    "kind": "metro",
+    "osm_id": 3186011787,
+    "coordinate_basis": "official sources/exits.csv",
+    "node": [
+      -587,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 7.958451510968119,
+    "source_coordinate": [
+      121.510227,
+      25.049943
+    ],
+    "network_coordinate": [
+      121.51030368111044,
+      25.049926180374452
+    ]
+  },
+  {
+    "id": "A1-1",
+    "name": "機捷台北車站出口1",
+    "lon": 121.5149689,
+    "lat": 25.048539,
+    "kind": "airport_metro",
+    "osm_id": 5021873865,
+    "coordinate_basis": "OSM source point",
+    "operation_status": "candidate not independently current-gate verified",
+    "node": [
+      -588,
+      "unresolved_od"
+    ],
+    "side": "S",
+    "attachment_status": "unresolved_ground_attachment",
+    "attachment_distance_m": null,
+    "source_coordinate": [
+      121.5149689,
+      25.048539
+    ],
+    "network_coordinate": [
+      121.5149689,
+      25.048539000000005
+    ]
+  },
+  {
+    "id": "A1-3",
+    "name": "機捷台北車站出口3",
+    "lon": 121.5136831,
+    "lat": 25.0489815,
+    "kind": "airport_metro",
+    "osm_id": 5021873867,
+    "coordinate_basis": "OSM source point",
+    "operation_status": "candidate not independently current-gate verified",
+    "node": [
+      5021873867,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5136831,
+      25.0489815
+    ],
+    "network_coordinate": [
+      121.5136831,
+      25.0489815
+    ]
+  },
+  {
+    "id": "A1-5",
+    "name": "機捷台北車站出口5",
+    "lon": 121.5126776,
+    "lat": 25.0488034,
+    "kind": "airport_metro",
+    "osm_id": 5021873868,
+    "coordinate_basis": "OSM source point",
+    "operation_status": "candidate not independently current-gate verified",
+    "node": [
+      -589,
+      "unresolved_od"
+    ],
+    "side": "S",
+    "attachment_status": "unresolved_ground_attachment",
+    "attachment_distance_m": null,
+    "source_coordinate": [
+      121.5126776,
+      25.0488034
+    ],
+    "network_coordinate": [
+      121.51267760000002,
+      25.0488034
+    ]
+  },
+  {
+    "id": "A1-6",
+    "name": "機捷台北車站出口6",
+    "lon": 121.5121947,
+    "lat": 25.0494338,
+    "kind": "airport_metro",
+    "osm_id": 5021873869,
+    "coordinate_basis": "OSM source point",
+    "operation_status": "candidate not independently current-gate verified",
+    "node": [
+      -590,
+      "unresolved_od"
+    ],
+    "side": "S",
+    "attachment_status": "unresolved_ground_attachment",
+    "attachment_distance_m": null,
+    "source_coordinate": [
+      121.5121947,
+      25.0494338
+    ],
+    "network_coordinate": [
+      121.51219470000001,
+      25.0494338
+    ]
+  },
+  {
+    "id": "BUS-2441160819",
+    "name": "臺北車站(重慶)／D",
+    "lon": 121.5131881,
+    "lat": 25.0466039,
+    "kind": "bus",
+    "osm_id": 2441160819,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -591,
+      "unresolved_od"
+    ],
+    "side": "S",
+    "attachment_status": "unresolved_ground_attachment",
+    "attachment_distance_m": null,
+    "source_coordinate": [
+      121.5131881,
+      25.0466039
+    ],
+    "network_coordinate": [
+      121.51318810000001,
+      25.046603899999997
+    ]
+  },
+  {
+    "id": "BUS-2461631520",
+    "name": "捷運北門站",
+    "lon": 121.5099668,
+    "lat": 25.0488734,
+    "kind": "bus",
+    "osm_id": 2461631520,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -592,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 4.293640994480548,
+    "source_coordinate": [
+      121.5099668,
+      25.0488734
+    ],
+    "network_coordinate": [
+      121.51000779001556,
+      25.048862993789854
+    ]
+  },
+  {
+    "id": "BUS-2323973418",
+    "name": "臺北車站(承德)",
+    "lon": 121.5169598,
+    "lat": 25.0500558,
+    "kind": "bus",
+    "osm_id": 2323973418,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -593,
+      "od_ground_attachment"
+    ],
+    "side": "N",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 3.0376154771831034,
+    "source_coordinate": [
+      121.5169598,
+      25.0500558
+    ],
+    "network_coordinate": [
+      121.5169887861177,
+      25.05004839468135
+    ]
+  },
+  {
+    "id": "BUS-2517659451",
+    "name": "臺北車站(承德)",
+    "lon": 121.5168365,
+    "lat": 25.0507411,
+    "kind": "bus",
+    "osm_id": 2517659451,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -594,
+      "od_ground_attachment"
+    ],
+    "side": "N",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.961393547685154,
+    "source_coordinate": [
+      121.5168365,
+      25.0507411
+    ],
+    "network_coordinate": [
+      121.5168081448822,
+      25.050747999468634
+    ]
+  },
+  {
+    "id": "BUS-2706511275",
+    "name": "後車站",
+    "lon": 121.5136345,
+    "lat": 25.0502456,
+    "kind": "bus",
+    "osm_id": 2706511275,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -595,
+      "unresolved_od"
+    ],
+    "side": "N",
+    "attachment_status": "unresolved_ground_attachment",
+    "attachment_distance_m": null,
+    "source_coordinate": [
+      121.5136345,
+      25.0502456
+    ],
+    "network_coordinate": [
+      121.51363450000001,
+      25.0502456
+    ]
+  },
+  {
+    "id": "BUS-4205229665",
+    "name": "後車站",
+    "lon": 121.5152403,
+    "lat": 25.0513483,
+    "kind": "bus",
+    "osm_id": 4205229665,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -596,
+      "od_ground_attachment"
+    ],
+    "side": "N",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 1.2704012960875133,
+    "source_coordinate": [
+      121.5152403,
+      25.0513483
+    ],
+    "network_coordinate": [
+      121.51524268950796,
+      25.05135956075942
+    ]
+  },
+  {
+    "id": "BUS-5110489279",
+    "name": "臺北車站(承德)",
+    "lon": 121.5164738,
+    "lat": 25.0493436,
+    "kind": "bus",
+    "osm_id": 5110489279,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -597,
+      "od_ground_attachment"
+    ],
+    "side": "N",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 3.6678691983038494,
+    "source_coordinate": [
+      121.5164738,
+      25.0493436
+    ],
+    "network_coordinate": [
+      121.51643830076263,
+      25.049350724021277
+    ]
+  },
+  {
+    "id": "BUS-12252486161",
+    "name": "臺北車站(承德)",
+    "lon": 121.5167325,
+    "lat": 25.0504007,
+    "kind": "bus",
+    "osm_id": 12252486161,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -598,
+      "od_ground_attachment"
+    ],
+    "side": "N",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.588035856317751,
+    "source_coordinate": [
+      121.5167325,
+      25.0504007
+    ],
+    "network_coordinate": [
+      121.51670774436705,
+      25.050406812712406
+    ]
+  },
+  {
+    "id": "BUS-2323973417",
+    "name": "捷運北門站",
+    "lon": 121.5104163,
+    "lat": 25.0491504,
+    "kind": "bus",
+    "osm_id": 2323973417,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -599,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 1.09502452294485,
+    "source_coordinate": [
+      121.5104163,
+      25.0491504
+    ],
+    "network_coordinate": [
+      121.51042683999063,
+      25.049148045630197
+    ]
+  },
+  {
+    "id": "BUS-2631129012",
+    "name": "捷運北門站",
+    "lon": 121.5105751,
+    "lat": 25.0506656,
+    "kind": "bus",
+    "osm_id": 2631129012,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -100,
+      "alley_end"
+    ],
+    "side": "N",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 4.746182960121788,
+    "source_coordinate": [
+      121.5105751,
+      25.0506656
+    ],
+    "network_coordinate": [
+      121.51053940000001,
+      25.0506377
+    ]
+  },
+  {
+    "id": "BUS-2706511274",
+    "name": "後車站",
+    "lon": 121.5134656,
+    "lat": 25.0504679,
+    "kind": "bus",
+    "osm_id": 2706511274,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -600,
+      "od_ground_attachment"
+    ],
+    "side": "N",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 1.517558030619984,
+    "source_coordinate": [
+      121.5134656,
+      25.0504679
+    ],
+    "network_coordinate": [
+      121.51348014207682,
+      25.050464404186915
+    ]
+  },
+  {
+    "id": "BUS-2308210158",
+    "name": "臺北車站 (忠孝)／C1",
+    "lon": 121.5165389,
+    "lat": 25.0465696,
+    "kind": "bus",
+    "osm_id": 2308210158,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      6939419003,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 1.5711958275306792,
+    "source_coordinate": [
+      121.5165389,
+      25.0465696
+    ],
+    "network_coordinate": [
+      121.5165406,
+      25.0465837
+    ]
+  },
+  {
+    "id": "BUS-2310591195",
+    "name": "臺北車站(忠孝)／C3",
+    "lon": 121.5155912,
+    "lat": 25.0465067,
+    "kind": "bus",
+    "osm_id": 2310591195,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -601,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.812212257330162,
+    "source_coordinate": [
+      121.5155912,
+      25.0465067
+    ],
+    "network_coordinate": [
+      121.51558415070888,
+      25.04648213684682
+    ]
+  },
+  {
+    "id": "BUS-2422630125",
+    "name": "臺北車站(忠孝)／C4",
+    "lon": 121.5170622,
+    "lat": 25.0461228,
+    "kind": "bus",
+    "osm_id": 2422630125,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -602,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 0.7512178544540604,
+    "source_coordinate": [
+      121.5170622,
+      25.0461228
+    ],
+    "network_coordinate": [
+      121.51706412484926,
+      25.046129351407462
+    ]
+  },
+  {
+    "id": "BUS-2422630126",
+    "name": "臺北車站(忠孝)／C2",
+    "lon": 121.5145918,
+    "lat": 25.0467586,
+    "kind": "bus",
+    "osm_id": 2422630126,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -603,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 0.4896700285404063,
+    "source_coordinate": [
+      121.5145918,
+      25.0467586
+    ],
+    "network_coordinate": [
+      121.51459057505625,
+      25.046754322401792
+    ]
+  },
+  {
+    "id": "BUS-2619922107",
+    "name": "臺北車站(東三門)／B",
+    "lon": 121.5180105,
+    "lat": 25.0473076,
+    "kind": "bus",
+    "osm_id": 2619922107,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -604,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 0.6559184571746904,
+    "source_coordinate": [
+      121.5180105,
+      25.0473076
+    ],
+    "network_coordinate": [
+      121.51801621064818,
+      25.04730477109485
+    ]
+  },
+  {
+    "id": "BUS-2619922112",
+    "name": "臺北車站 (鄭州)／A1",
+    "lon": 121.51714,
+    "lat": 25.0488896,
+    "kind": "bus",
+    "osm_id": 2619922112,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -605,
+      "od_ground_attachment"
+    ],
+    "side": "N",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.8210569197568764,
+    "source_coordinate": [
+      121.51714,
+      25.0488896
+    ],
+    "network_coordinate": [
+      121.51713507471275,
+      25.048864529764757
+    ]
+  },
+  {
+    "id": "BUS-2619922114",
+    "name": "臺北車站 (鄭州)／A2",
+    "lon": 121.5178964,
+    "lat": 25.048321,
+    "kind": "bus",
+    "osm_id": 2619922114,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -606,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 3.8732894461366563,
+    "source_coordinate": [
+      121.5178964,
+      25.048321
+    ],
+    "network_coordinate": [
+      121.51790264710374,
+      25.04835550194601
+    ]
+  },
+  {
+    "id": "BUS-3262985667",
+    "name": "臺北車站(鄭州)",
+    "lon": 121.5173496,
+    "lat": 25.0484171,
+    "kind": "bus",
+    "osm_id": 3262985667,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -607,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.3497555975686684,
+    "source_coordinate": [
+      121.5173496,
+      25.0484171
+    ],
+    "network_coordinate": [
+      121.51735338975536,
+      25.048438030839453
+    ]
+  },
+  {
+    "id": "BUS-4524400585",
+    "name": "臺北車站(忠孝)／C1",
+    "lon": 121.5162539,
+    "lat": 25.0466378,
+    "kind": "bus",
+    "osm_id": 4524400585,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -608,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.665366449891198,
+    "source_coordinate": [
+      121.5162539,
+      25.0466378
+    ],
+    "network_coordinate": [
+      121.51626106860115,
+      25.046660959905548
+    ]
+  },
+  {
+    "id": "BUS-4753887131",
+    "name": "臺北車站(東三門)／3",
+    "lon": 121.5182027,
+    "lat": 25.0476,
+    "kind": "bus",
+    "osm_id": 4753887131,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -609,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 0.9092579629976477,
+    "source_coordinate": [
+      121.5182027,
+      25.0476
+    ],
+    "network_coordinate": [
+      121.5181947836796,
+      25.047603921540894
+    ]
+  },
+  {
+    "id": "BUS-4753887132",
+    "name": "臺北車站(東三門)／2",
+    "lon": 121.518147,
+    "lat": 25.0475032,
+    "kind": "bus",
+    "osm_id": 4753887132,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -610,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 1.0939348921761034,
+    "source_coordinate": [
+      121.518147,
+      25.0475032
+    ],
+    "network_coordinate": [
+      121.51813747582229,
+      25.047507918030824
+    ]
+  },
+  {
+    "id": "BUS-4753887133",
+    "name": "臺北車站(東三門)",
+    "lon": 121.5182875,
+    "lat": 25.047737,
+    "kind": "bus",
+    "osm_id": 4753887133,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -611,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 1.1769416721885981,
+    "source_coordinate": [
+      121.5182875,
+      25.047737
+    ],
+    "network_coordinate": [
+      121.5182772531231,
+      25.047742076040414
+    ]
+  },
+  {
+    "id": "BUS-4825734727",
+    "name": "臺北車站(忠孝)／C6",
+    "lon": 121.5139614,
+    "lat": 25.047203,
+    "kind": "bus",
+    "osm_id": 4825734727,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -612,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 1.8523023128695388,
+    "source_coordinate": [
+      121.5139614,
+      25.047203
+    ],
+    "network_coordinate": [
+      121.5139659765888,
+      25.047219194589665
+    ]
+  },
+  {
+    "id": "BUS-4825734728",
+    "name": "臺北車站(忠孝)／C5",
+    "lon": 121.5139953,
+    "lat": 25.0473595,
+    "kind": "bus",
+    "osm_id": 4825734728,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -613,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 14.396172968710303,
+    "source_coordinate": [
+      121.5139953,
+      25.0473595
+    ],
+    "network_coordinate": [
+      121.51403240343055,
+      25.047484997009615
+    ]
+  },
+  {
+    "id": "BUS-5335508856",
+    "name": "臺北車站(東三門)／1",
+    "lon": 121.5180868,
+    "lat": 25.047403,
+    "kind": "bus",
+    "osm_id": 5335508856,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -614,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 1.0596098912643959,
+    "source_coordinate": [
+      121.5180868,
+      25.047403
+    ],
+    "network_coordinate": [
+      121.51807757467283,
+      25.047407569986806
+    ]
+  },
+  {
+    "id": "BUS-7151865726",
+    "name": "臺北車站 (鄭州)／A2",
+    "lon": 121.5175907,
+    "lat": 25.0483765,
+    "kind": "bus",
+    "osm_id": 7151865726,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -615,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.827753521961131,
+    "source_coordinate": [
+      121.5175907,
+      25.0483765
+    ],
+    "network_coordinate": [
+      121.51759526073218,
+      25.048401688677536
+    ]
+  },
+  {
+    "id": "BUS-7151865727",
+    "name": "臺北車站 (鄭州)／A2",
+    "lon": 121.5176873,
+    "lat": 25.0483559,
+    "kind": "bus",
+    "osm_id": 7151865727,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -616,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 3.4928151614200957,
+    "source_coordinate": [
+      121.5176873,
+      25.0483559
+    ],
+    "network_coordinate": [
+      121.51769293339802,
+      25.048387012819006
+    ]
+  },
+  {
+    "id": "BUS-7151865728",
+    "name": "臺北車站 (鄭州)／A2",
+    "lon": 121.5177704,
+    "lat": 25.0483425,
+    "kind": "bus",
+    "osm_id": 7151865728,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -617,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 3.592674389192713,
+    "source_coordinate": [
+      121.5177704,
+      25.0483425
+    ],
+    "network_coordinate": [
+      121.51777619447716,
+      25.0483745023278
+    ]
+  },
+  {
+    "id": "BUS-7151865729",
+    "name": "臺北車站 (鄭州)／A2",
+    "lon": 121.5178442,
+    "lat": 25.0483304,
+    "kind": "bus",
+    "osm_id": 7151865729,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -618,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 3.703171996954407,
+    "source_coordinate": [
+      121.5178442,
+      25.0483304
+    ],
+    "network_coordinate": [
+      121.5178501727133,
+      25.048363386599874
+    ]
+  },
+  {
+    "id": "BUS-7151865730",
+    "name": "臺北車站(鄭州)",
+    "lon": 121.5174285,
+    "lat": 25.0484081,
+    "kind": "bus",
+    "osm_id": 7151865730,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -619,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.0377314682110677,
+    "source_coordinate": [
+      121.5174285,
+      25.0484081
+    ],
+    "network_coordinate": [
+      121.51743178652485,
+      25.048426251430648
+    ]
+  },
+  {
+    "id": "BUS-8420400115",
+    "name": "臺北車站 (鄭州)／A1",
+    "lon": 121.5172072,
+    "lat": 25.0488801,
+    "kind": "bus",
+    "osm_id": 8420400115,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -620,
+      "od_ground_attachment"
+    ],
+    "side": "N",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.9797767706358385,
+    "source_coordinate": [
+      121.5172072,
+      25.0488801
+    ],
+    "network_coordinate": [
+      121.51720199758962,
+      25.048853619251986
+    ]
+  },
+  {
+    "id": "BUS-8442738381",
+    "name": "臺北車站 (忠孝)／C1",
+    "lon": 121.5161429,
+    "lat": 25.0466643,
+    "kind": "bus",
+    "osm_id": 8442738381,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -621,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.879898571243605,
+    "source_coordinate": [
+      121.5161429,
+      25.0466643
+    ],
+    "network_coordinate": [
+      121.51615064557267,
+      25.046689324024353
+    ]
+  },
+  {
+    "id": "BUS-8442738382",
+    "name": "臺北車站 (忠孝)／C1",
+    "lon": 121.5163974,
+    "lat": 25.0466034,
+    "kind": "bus",
+    "osm_id": 8442738382,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -622,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.4030367983898833,
+    "source_coordinate": [
+      121.5163974,
+      25.0466034
+    ],
+    "network_coordinate": [
+      121.51640386307804,
+      25.046624280463924
+    ]
+  },
+  {
+    "id": "BUS-8442738383",
+    "name": "臺北車站 (忠孝)／C1",
+    "lon": 121.5168703,
+    "lat": 25.0464904,
+    "kind": "bus",
+    "osm_id": 8442738383,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -623,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.271716811863011,
+    "source_coordinate": [
+      121.5168703,
+      25.0464904
+    ],
+    "network_coordinate": [
+      121.51687617696946,
+      25.046510197998124
+    ]
+  },
+  {
+    "id": "BUS-8442738384",
+    "name": "臺北車站 (忠孝)／C1",
+    "lon": 121.5166747,
+    "lat": 25.0465372,
+    "kind": "bus",
+    "osm_id": 8442738384,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -624,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.238836821847612,
+    "source_coordinate": [
+      121.5166747,
+      25.0465372
+    ],
+    "network_coordinate": [
+      121.51668016990352,
+      25.046556788417913
+    ]
+  },
+  {
+    "id": "BUS-8442738386",
+    "name": "臺北車站 (忠孝)／C1",
+    "lon": 121.5170109,
+    "lat": 25.0464568,
+    "kind": "bus",
+    "osm_id": 8442738386,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -625,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.1609036232209706,
+    "source_coordinate": [
+      121.5170109,
+      25.0464568
+    ],
+    "network_coordinate": [
+      121.51701649031361,
+      25.046475632256342
+    ]
+  },
+  {
+    "id": "BUS-8442738387",
+    "name": "臺北車站 (忠孝)／C1",
+    "lon": 121.517237,
+    "lat": 25.0464027,
+    "kind": "bus",
+    "osm_id": 8442738387,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -626,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 1.699427756040627,
+    "source_coordinate": [
+      121.517237,
+      25.0464027
+    ],
+    "network_coordinate": [
+      121.51724161478568,
+      25.046417455275847
+    ]
+  },
+  {
+    "id": "BUS-13227228184",
+    "name": "臺北車站 (鄭州)",
+    "lon": 121.5179875,
+    "lat": 25.0483169,
+    "kind": "bus",
+    "osm_id": 13227228184,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -627,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.8253694213216316,
+    "source_coordinate": [
+      121.5179875,
+      25.0483169
+    ],
+    "network_coordinate": [
+      121.51799205696534,
+      25.048342067427544
+    ]
+  },
+  {
+    "id": "BUS-13227228185",
+    "name": "臺北車站 (鄭州)",
+    "lon": 121.518028,
+    "lat": 25.0483101,
+    "kind": "bus",
+    "osm_id": 13227228185,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -628,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.9034617626770736,
+    "source_coordinate": [
+      121.518028,
+      25.0483101
+    ],
+    "network_coordinate": [
+      121.51803268292667,
+      25.0483359630461
+    ]
+  },
+  {
+    "id": "BUS-2085453855",
+    "name": "臺北車站(公園)",
+    "lon": 121.5167093,
+    "lat": 25.0438823,
+    "kind": "bus",
+    "osm_id": 2085453855,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -629,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 1.6987338765452016,
+    "source_coordinate": [
+      121.5167093,
+      25.0438823
+    ],
+    "network_coordinate": [
+      121.51672559302024,
+      25.04387844141389
+    ]
+  },
+  {
+    "id": "BUS-2085453856",
+    "name": "臺北車站(公園)",
+    "lon": 121.5169614,
+    "lat": 25.0441666,
+    "kind": "bus",
+    "osm_id": 2085453856,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -630,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 1.5574127949306968,
+    "source_coordinate": [
+      121.5169614,
+      25.0441666
+    ],
+    "network_coordinate": [
+      121.51697606578102,
+      25.044162219053135
+    ]
+  },
+  {
+    "id": "UG-Z7",
+    "name": "Z7地面出口",
+    "lon": 121.5134659,
+    "lat": 25.0475295,
+    "kind": "mall_access",
+    "osm_id": 3355241657,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -631,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.8365525072719047,
+    "source_coordinate": [
+      121.5134659,
+      25.0475295
+    ],
+    "network_coordinate": [
+      121.51343780775623,
+      25.047528558075005
+    ]
+  },
+  {
+    "id": "UG-Z10",
+    "name": "Z10地面出口",
+    "lon": 121.5130667,
+    "lat": 25.0470144,
+    "kind": "mall_access",
+    "osm_id": 4476417055,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      5813516469,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 11.030444250045432,
+    "source_coordinate": [
+      121.5130667,
+      25.0470144
+    ],
+    "network_coordinate": [
+      121.5131698,
+      25.0470475
+    ]
+  },
+  {
+    "id": "UG-Z9",
+    "name": "Z9地面出口",
+    "lon": 121.5132024,
+    "lat": 25.0475797,
+    "kind": "mall_access",
+    "osm_id": 4476417059,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -632,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.0490176984599815,
+    "source_coordinate": [
+      121.5132024,
+      25.0475797
+    ],
+    "network_coordinate": [
+      121.51318211844746,
+      25.047578782978267
+    ]
+  },
+  {
+    "id": "UG-Y9",
+    "name": "Y9地面出口",
+    "lon": 121.5158039,
+    "lat": 25.0490388,
+    "kind": "mall_access",
+    "osm_id": 3505143998,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -633,
+      "od_ground_attachment"
+    ],
+    "side": "N",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 11.338052036937619,
+    "source_coordinate": [
+      121.5158039,
+      25.0490388
+    ],
+    "network_coordinate": [
+      121.51569511194863,
+      25.049064423340027
+    ]
+  },
+  {
+    "id": "UG-Y17",
+    "name": "Y17地面出口",
+    "lon": 121.5137089,
+    "lat": 25.0494896,
+    "kind": "mall_access",
+    "osm_id": 3505144196,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -634,
+      "unresolved_od"
+    ],
+    "side": "N",
+    "attachment_status": "unresolved_ground_attachment",
+    "attachment_distance_m": null,
+    "source_coordinate": [
+      121.5137089,
+      25.0494896
+    ],
+    "network_coordinate": [
+      121.51370890000001,
+      25.049489599999998
+    ]
+  },
+  {
+    "id": "UG-Y11",
+    "name": "Y11地面出口",
+    "lon": 121.5155813,
+    "lat": 25.0490738,
+    "kind": "mall_access",
+    "osm_id": 4406419433,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -635,
+      "od_ground_attachment"
+    ],
+    "side": "N",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 11.37835845394333,
+    "source_coordinate": [
+      121.5155813,
+      25.0490738
+    ],
+    "network_coordinate": [
+      121.515690474823,
+      25.049048085652853
+    ]
+  },
+  {
+    "id": "UG-Y13",
+    "name": "Y13地面出口",
+    "lon": 121.5148447,
+    "lat": 25.0494559,
+    "kind": "mall_access",
+    "osm_id": 4406419435,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -636,
+      "od_ground_attachment"
+    ],
+    "side": "N",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 4.307933273886054,
+    "source_coordinate": [
+      121.5148447,
+      25.0494559
+    ],
+    "network_coordinate": [
+      121.5148858266583,
+      25.049445459257488
+    ]
+  },
+  {
+    "id": "UG-Y15",
+    "name": "Y15地面出口",
+    "lon": 121.5143713,
+    "lat": 25.0493313,
+    "kind": "mall_access",
+    "osm_id": 4406419437,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -637,
+      "od_ground_attachment"
+    ],
+    "side": "N",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 13.307333967402318,
+    "source_coordinate": [
+      121.5143713,
+      25.0493313
+    ],
+    "network_coordinate": [
+      121.51449805544178,
+      25.04929812788851
+    ]
+  },
+  {
+    "id": "UG-Y20",
+    "name": "Y20地面出口",
+    "lon": 121.5137224,
+    "lat": 25.0492155,
+    "kind": "mall_access",
+    "osm_id": 5318551122,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -638,
+      "unresolved_od"
+    ],
+    "side": "S",
+    "attachment_status": "unresolved_ground_attachment",
+    "attachment_distance_m": null,
+    "source_coordinate": [
+      121.5137224,
+      25.0492155
+    ],
+    "network_coordinate": [
+      121.5137224,
+      25.049215499999995
+    ]
+  },
+  {
+    "id": "UG-R2",
+    "name": "R2地面出口",
+    "lon": 121.5196961,
+    "lat": 25.0495538,
+    "kind": "mall_access",
+    "osm_id": 9260092525,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      9260092525,
       "surface"
     ],
     "side": "N",
-    "target_offset_m": 10.28,
-    "sample_valid": true,
-    "lon": 121.5172862,
-    "lat": 25.0497807
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5196961,
+      25.0495538
+    ],
+    "network_coordinate": [
+      121.5196961,
+      25.0495538
+    ]
   },
   {
-    "id": "S7",
+    "id": "UG-R3",
+    "name": "R3地面出口",
+    "lon": 121.5199494,
+    "lat": 25.0497877,
+    "kind": "mall_access",
+    "osm_id": 9260092526,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      9260092526,
+      "surface"
+    ],
+    "side": "N",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5199494,
+      25.0497877
+    ],
+    "network_coordinate": [
+      121.5199494,
+      25.0497877
+    ]
+  },
+  {
+    "id": "UG-Y21",
+    "name": "Y21地面出口",
+    "lon": 121.5122444,
+    "lat": 25.0499766,
+    "kind": "mall_access",
+    "osm_id": 3505143596,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      12069239695,
+      "surface"
+    ],
+    "side": "N",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 1.1457855096374883,
+    "source_coordinate": [
+      121.5122444,
+      25.0499766
+    ],
+    "network_coordinate": [
+      121.5122335,
+      25.0499795
+    ]
+  },
+  {
+    "id": "UG-Y26",
+    "name": "Y26地面出口",
+    "lon": 121.5115694,
+    "lat": 25.0497574,
+    "kind": "mall_access",
+    "osm_id": 3505144000,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -639,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 3.7086983684115857,
+    "source_coordinate": [
+      121.5115694,
+      25.0497574
+    ],
+    "network_coordinate": [
+      121.51157756641321,
+      25.049790045328315
+    ]
+  },
+  {
+    "id": "UG-Y27",
+    "name": "Y27地面出口",
+    "lon": 121.510663,
+    "lat": 25.0503037,
+    "kind": "mall_access",
+    "osm_id": 3505144002,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -640,
+      "od_ground_attachment"
+    ],
+    "side": "N",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.5880180288898624,
+    "source_coordinate": [
+      121.510663,
+      25.0503037
+    ],
+    "network_coordinate": [
+      121.51063735681379,
+      25.05030418819258
+    ]
+  },
+  {
+    "id": "UG-Y19",
+    "name": "Y19地面出口",
+    "lon": 121.5129463,
+    "lat": 25.0497129,
+    "kind": "mall_access",
+    "osm_id": 3505144197,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -641,
+      "unresolved_od"
+    ],
+    "side": "N",
+    "attachment_status": "unresolved_ground_attachment",
+    "attachment_distance_m": null,
+    "source_coordinate": [
+      121.5129463,
+      25.0497129
+    ],
+    "network_coordinate": [
+      121.51294629999998,
+      25.049712900000003
+    ]
+  },
+  {
+    "id": "UG-Y23",
+    "name": "Y23地面出口",
+    "lon": 121.5116838,
+    "lat": 25.0501153,
+    "kind": "mall_access",
+    "osm_id": 3505145996,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -642,
+      "unresolved_od"
+    ],
+    "side": "N",
+    "attachment_status": "unresolved_ground_attachment",
+    "attachment_distance_m": null,
+    "source_coordinate": [
+      121.5116838,
+      25.0501153
+    ],
+    "network_coordinate": [
+      121.5116838,
+      25.0501153
+    ]
+  },
+  {
+    "id": "UG-Y25",
+    "name": "Y25地面出口",
+    "lon": 121.5113046,
+    "lat": 25.0501875,
+    "kind": "mall_access",
+    "osm_id": 3505146395,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -643,
+      "unresolved_od"
+    ],
+    "side": "N",
+    "attachment_status": "unresolved_ground_attachment",
+    "attachment_distance_m": null,
+    "source_coordinate": [
+      121.5113046,
+      25.0501875
+    ],
+    "network_coordinate": [
+      121.5113046,
+      25.050187499999996
+    ]
+  },
+  {
+    "id": "UG-Y28",
+    "name": "Y28地面出口",
+    "lon": 121.5108058,
+    "lat": 25.0499144,
+    "kind": "mall_access",
+    "osm_id": 3699813329,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -644,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 3.871932083879193,
+    "source_coordinate": [
+      121.5108058,
+      25.0499144
+    ],
+    "network_coordinate": [
+      121.51081432564914,
+      25.049948482217836
+    ]
+  },
+  {
+    "id": "UG-R1",
+    "name": "R1地面出口",
+    "lon": 121.5190203,
+    "lat": 25.0486703,
+    "kind": "mall_access",
+    "osm_id": 3192472090,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      3192472090,
+      "surface"
+    ],
+    "side": "N",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5190203,
+      25.0486703
+    ],
+    "network_coordinate": [
+      121.5190203,
+      25.0486703
+    ]
+  },
+  {
+    "id": "UG-Z5",
+    "name": "Z5地面出口",
+    "lon": 121.5135774,
+    "lat": 25.0473437,
+    "kind": "mall_access",
+    "osm_id": 3355241658,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -645,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 3.0866189933552435,
+    "source_coordinate": [
+      121.5135774,
+      25.0473437
+    ],
+    "network_coordinate": [
+      121.51356929120267,
+      25.04731683082849
+    ]
+  },
+  {
+    "id": "UG-Z3",
+    "name": "Z3地面出口",
+    "lon": 121.5146228,
+    "lat": 25.0470856,
+    "kind": "mall_access",
+    "osm_id": 3355241659,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      3355241659,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5146228,
+      25.0470856
+    ],
+    "network_coordinate": [
+      121.5146228,
+      25.0470856
+    ]
+  },
+  {
+    "id": "UG-Z1",
+    "name": "Z1地面出口",
+    "lon": 121.5155152,
+    "lat": 25.0469572,
+    "kind": "mall_access",
+    "osm_id": 3355241664,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -646,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 12.96098936210237,
+    "source_coordinate": [
+      121.5155152,
+      25.0469572
+    ],
+    "network_coordinate": [
+      121.51548487123111,
+      25.046843496468263
+    ]
+  },
+  {
+    "id": "UG-Y7",
+    "name": "Y7地面出口",
+    "lon": 121.5161428,
+    "lat": 25.0489803,
+    "kind": "mall_access",
+    "osm_id": 3505143496,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -647,
+      "od_ground_attachment"
+    ],
+    "side": "N",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 8.329874153016313,
+    "source_coordinate": [
+      121.5161428,
+      25.0489803
+    ],
+    "network_coordinate": [
+      121.51622435010191,
+      25.048968613382026
+    ]
+  },
+  {
+    "id": "UG-Y4",
+    "name": "Y4地面出口",
+    "lon": 121.5177578,
+    "lat": 25.0482104,
+    "kind": "mall_access",
+    "osm_id": 3505143694,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -648,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 1.1351419720189808,
+    "source_coordinate": [
+      121.5177578,
+      25.0482104
+    ],
+    "network_coordinate": [
+      121.51775575322296,
+      25.048200322960266
+    ]
+  },
+  {
+    "id": "UG-Y6",
+    "name": "Y6地面出口",
+    "lon": 121.517535,
+    "lat": 25.0484104,
+    "kind": "mall_access",
+    "osm_id": 3505143795,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -649,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 0.03750297779234111,
+    "source_coordinate": [
+      121.517535,
+      25.0484104
+    ],
+    "network_coordinate": [
+      121.51753506048638,
+      25.048410734063946
+    ]
+  },
+  {
+    "id": "UG-Y1",
+    "name": "Y1地面出口",
+    "lon": 121.5186581,
+    "lat": 25.0485849,
+    "kind": "mall_access",
+    "osm_id": 3505143997,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -650,
+      "od_ground_attachment"
+    ],
+    "side": "N",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 3.4172156463383874,
+    "source_coordinate": [
+      121.5186581,
+      25.0485849
+    ],
+    "network_coordinate": [
+      121.51866406295497,
+      25.048615268701532
+    ]
+  },
+  {
+    "id": "UG-Y10",
+    "name": "Y10地面出口",
+    "lon": 121.5161726,
+    "lat": 25.0486302,
+    "kind": "mall_access",
+    "osm_id": 3505145593,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -651,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 0.6869914970140281,
+    "source_coordinate": [
+      121.5161726,
+      25.0486302
+    ],
+    "network_coordinate": [
+      121.51617135583759,
+      25.048624102262256
+    ]
+  },
+  {
+    "id": "UG-Y12",
+    "name": "Y12地面出口",
+    "lon": 121.5156098,
+    "lat": 25.0487211,
+    "kind": "mall_access",
+    "osm_id": 3505145993,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -652,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 0.20871257111851452,
+    "source_coordinate": [
+      121.5156098,
+      25.0487211
+    ],
+    "network_coordinate": [
+      121.51560942202332,
+      25.048719247465318
+    ]
+  },
+  {
+    "id": "TRA-西1門",
+    "name": "台北車站西1門",
+    "lon": 121.5164048,
+    "lat": 25.0481248,
+    "kind": "rail_station",
+    "osm_id": 3541337696,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      3541337696,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5164048,
+      25.0481248
+    ],
+    "network_coordinate": [
+      121.5164048,
+      25.0481248
+    ]
+  },
+  {
+    "id": "TRA-北2門",
+    "name": "台北車站北2門",
+    "lon": 121.5172335,
+    "lat": 25.0482797,
+    "kind": "rail_station",
+    "osm_id": 3541338293,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      3541338293,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5172335,
+      25.0482797
+    ],
+    "network_coordinate": [
+      121.5172335,
+      25.0482797
+    ]
+  },
+  {
+    "id": "TRA-西3門",
+    "name": "台北車站西3門",
+    "lon": 121.5162903,
+    "lat": 25.0475754,
+    "kind": "rail_station",
+    "osm_id": 3541338294,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      3541338294,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5162903,
+      25.0475754
+    ],
+    "network_coordinate": [
+      121.5162903,
+      25.0475754
+    ]
+  },
+  {
+    "id": "TRA-西2門",
+    "name": "台北車站西2門",
+    "lon": 121.5163475,
+    "lat": 25.0478502,
+    "kind": "rail_station",
+    "osm_id": 3541338393,
+    "coordinate_basis": "OSM source point",
     "node": [
       3541338393,
       "surface"
     ],
     "side": "S",
-    "target_offset_m": 36.04,
-    "sample_valid": true,
-    "lon": 121.5163475,
-    "lat": 25.0478502
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5163475,
+      25.0478502
+    ],
+    "network_coordinate": [
+      121.5163475,
+      25.0478502
+    ]
   },
   {
-    "id": "N8",
+    "id": "UG-Z2",
+    "name": "Z2地面出口",
+    "lon": 121.5157272,
+    "lat": 25.0464818,
+    "kind": "mall_access",
+    "osm_id": 3556410802,
+    "coordinate_basis": "OSM source point",
     "node": [
-      13555854742,
+      3556410802,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5157272,
+      25.0464818
+    ],
+    "network_coordinate": [
+      121.5157272,
+      25.0464818
+    ]
+  },
+  {
+    "id": "UG-Z4",
+    "name": "Z4地面出口",
+    "lon": 121.5152884,
+    "lat": 25.0465883,
+    "kind": "mall_access",
+    "osm_id": 3556411099,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      3556411099,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5152884,
+      25.0465883
+    ],
+    "network_coordinate": [
+      121.5152884,
+      25.0465883
+    ]
+  },
+  {
+    "id": "UG-Y14",
+    "name": "Y14地面出口",
+    "lon": 121.5149615,
+    "lat": 25.0488643,
+    "kind": "mall_access",
+    "osm_id": 4406419436,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -653,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 3.503167645484664,
+    "source_coordinate": [
+      121.5149615,
+      25.0488643
+    ],
+    "network_coordinate": [
+      121.51495265942154,
+      25.048833715863204
+    ]
+  },
+  {
+    "id": "UG-Y16",
+    "name": "Y16地面出口",
+    "lon": 121.5146406,
+    "lat": 25.0489354,
+    "kind": "mall_access",
+    "osm_id": 4406419438,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -654,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.873881519041373,
+    "source_coordinate": [
+      121.5146406,
+      25.0489354
+    ],
+    "network_coordinate": [
+      121.51463334754547,
+      25.048910309781174
+    ]
+  },
+  {
+    "id": "UG-Y8",
+    "name": "Y8地面出口",
+    "lon": 121.5167243,
+    "lat": 25.0483852,
+    "kind": "mall_access",
+    "osm_id": 4406419456,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      4406419456,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5167243,
+      25.0483852
+    ],
+    "network_coordinate": [
+      121.5167243,
+      25.0483852
+    ]
+  },
+  {
+    "id": "UG-K10",
+    "name": "K10地面出口",
+    "lon": 121.5152596,
+    "lat": 25.0470569,
+    "kind": "mall_access",
+    "osm_id": 4476417053,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -655,
+      "unresolved_od"
+    ],
+    "side": "S",
+    "attachment_status": "unresolved_ground_attachment",
+    "attachment_distance_m": null,
+    "source_coordinate": [
+      121.5152596,
+      25.0470569
+    ],
+    "network_coordinate": [
+      121.5152596,
+      25.047056899999998
+    ]
+  },
+  {
+    "id": "UG-K12",
+    "name": "K12地面出口",
+    "lon": 121.5148421,
+    "lat": 25.0472004,
+    "kind": "mall_access",
+    "osm_id": 4476417054,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -656,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 7.437161802341659,
+    "source_coordinate": [
+      121.5148421,
+      25.0472004
+    ],
+    "network_coordinate": [
+      121.51481958054165,
+      25.04713646785866
+    ]
+  },
+  {
+    "id": "UG-Z6",
+    "name": "Z6地面出口",
+    "lon": 121.5146739,
+    "lat": 25.046742,
+    "kind": "mall_access",
+    "osm_id": 4476417057,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      4476417057,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5146739,
+      25.046742
+    ],
+    "network_coordinate": [
+      121.5146739,
+      25.046742
+    ]
+  },
+  {
+    "id": "UG-Z8",
+    "name": "Z8地面出口",
+    "lon": 121.5137787,
+    "lat": 25.0469646,
+    "kind": "mall_access",
+    "osm_id": 4476417058,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      4476417058,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5137787,
+      25.0469646
+    ],
+    "network_coordinate": [
+      121.5137787,
+      25.0469646
+    ]
+  },
+  {
+    "id": "UG-R1-2",
+    "name": "R1地面出口",
+    "lon": 121.5190035,
+    "lat": 25.0486001,
+    "kind": "mall_access",
+    "osm_id": 9266255461,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      9266255461,
       "surface"
     ],
     "side": "N",
-    "target_offset_m": 83.82,
-    "sample_valid": true,
-    "lon": 121.5180178,
-    "lat": 25.0488154
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5190035,
+      25.0486001
+    ],
+    "network_coordinate": [
+      121.5190035,
+      25.0486001
+    ]
   },
   {
-    "id": "S8",
+    "id": "UG-K5",
+    "name": "K5地面出口",
+    "lon": 121.5167353,
+    "lat": 25.0467294,
+    "kind": "mall_access",
+    "osm_id": 9369867438,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -657,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 14.848957488074971,
+    "source_coordinate": [
+      121.5167353,
+      25.0467294
+    ],
+    "network_coordinate": [
+      121.51659308083518,
+      25.046763837462198
+    ]
+  },
+  {
+    "id": "UG-K3",
+    "name": "K3地面出口",
+    "lon": 121.5168886,
+    "lat": 25.0468337,
+    "kind": "mall_access",
+    "osm_id": 9369867439,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -658,
+      "unresolved_od"
+    ],
+    "side": "S",
+    "attachment_status": "unresolved_ground_attachment",
+    "attachment_distance_m": null,
+    "source_coordinate": [
+      121.5168886,
+      25.0468337
+    ],
+    "network_coordinate": [
+      121.5168886,
+      25.046833700000004
+    ]
+  },
+  {
+    "id": "UG-K4",
+    "name": "K4地面出口",
+    "lon": 121.516831,
+    "lat": 25.0468465,
+    "kind": "mall_access",
+    "osm_id": 9369867440,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -659,
+      "unresolved_od"
+    ],
+    "side": "S",
+    "attachment_status": "unresolved_ground_attachment",
+    "attachment_distance_m": null,
+    "source_coordinate": [
+      121.516831,
+      25.0468465
+    ],
+    "network_coordinate": [
+      121.51683099999998,
+      25.0468465
+    ]
+  },
+  {
+    "id": "UG-Y5",
+    "name": "Y5地面出口",
+    "lon": 121.5173706,
+    "lat": 25.0488964,
+    "kind": "mall_access",
+    "osm_id": 11262183530,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      11262183530,
+      "surface"
+    ],
+    "side": "N",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5173706,
+      25.0488964
+    ],
+    "network_coordinate": [
+      121.5173706,
+      25.0488964
+    ]
+  },
+  {
+    "id": "UG-Y3",
+    "name": "Y3地面出口",
+    "lon": 121.5180143,
+    "lat": 25.0487981,
+    "kind": "mall_access",
+    "osm_id": 11262183531,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      11262183531,
+      "surface"
+    ],
+    "side": "N",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5180143,
+      25.0487981
+    ],
+    "network_coordinate": [
+      121.5180143,
+      25.0487981
+    ]
+  },
+  {
+    "id": "UG-K2",
+    "name": "K2地面出口",
+    "lon": 121.5173562,
+    "lat": 25.0466193,
+    "kind": "mall_access",
+    "osm_id": 12087421732,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -660,
+      "unresolved_od"
+    ],
+    "side": "S",
+    "attachment_status": "unresolved_ground_attachment",
+    "attachment_distance_m": null,
+    "source_coordinate": [
+      121.5173562,
+      25.0466193
+    ],
+    "network_coordinate": [
+      121.5173562,
+      25.046619299999996
+    ]
+  },
+  {
+    "id": "UG-K8",
+    "name": "K8地面出口",
+    "lon": 121.5158493,
+    "lat": 25.0471014,
+    "kind": "mall_access",
+    "osm_id": 12087421749,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -661,
+      "unresolved_od"
+    ],
+    "side": "S",
+    "attachment_status": "unresolved_ground_attachment",
+    "attachment_distance_m": null,
+    "source_coordinate": [
+      121.5158493,
+      25.0471014
+    ],
+    "network_coordinate": [
+      121.51584929999999,
+      25.047101399999995
+    ]
+  },
+  {
+    "id": "UG-K6",
+    "name": "K6地面出口",
+    "lon": 121.5163048,
+    "lat": 25.0469907,
+    "kind": "mall_access",
+    "osm_id": 12087421750,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -662,
+      "unresolved_od"
+    ],
+    "side": "S",
+    "attachment_status": "unresolved_ground_attachment",
+    "attachment_distance_m": null,
+    "source_coordinate": [
+      121.5163048,
+      25.0469907
+    ],
+    "network_coordinate": [
+      121.5163048,
+      25.0469907
+    ]
+  },
+  {
+    "id": "UG-K7",
+    "name": "K7地面出口",
+    "lon": 121.5164481,
+    "lat": 25.0471779,
+    "kind": "mall_access",
+    "osm_id": 12087421751,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      12087421751,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5164481,
+      25.0471779
+    ],
+    "network_coordinate": [
+      121.5164481,
+      25.0471779
+    ]
+  },
+  {
+    "id": "UG-K9",
+    "name": "K9地面出口",
+    "lon": 121.5155053,
+    "lat": 25.0471676,
+    "kind": "mall_access",
+    "osm_id": 12087421752,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -663,
+      "unresolved_od"
+    ],
+    "side": "S",
+    "attachment_status": "unresolved_ground_attachment",
+    "attachment_distance_m": null,
+    "source_coordinate": [
+      121.5155053,
+      25.0471676
+    ],
+    "network_coordinate": [
+      121.5155053,
+      25.047167600000005
+    ]
+  },
+  {
+    "id": "UG-K11",
+    "name": "K11地面出口",
+    "lon": 121.5152545,
+    "lat": 25.0472323,
+    "kind": "mall_access",
+    "osm_id": 12087421753,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -664,
+      "unresolved_od"
+    ],
+    "side": "S",
+    "attachment_status": "unresolved_ground_attachment",
+    "attachment_distance_m": null,
+    "source_coordinate": [
+      121.5152545,
+      25.0472323
+    ],
+    "network_coordinate": [
+      121.5152545,
+      25.047232300000005
+    ]
+  },
+  {
+    "id": "UG-K1",
+    "name": "K1地面出口",
+    "lon": 121.5172528,
+    "lat": 25.046986,
+    "kind": "mall_access",
+    "osm_id": 12087421754,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -665,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 7.2631205738174,
+    "source_coordinate": [
+      121.5172528,
+      25.046986
+    ],
+    "network_coordinate": [
+      121.51718298222482,
+      25.047001950399
+    ]
+  },
+  {
+    "id": "TRA-南3門",
+    "name": "台北車站南3門",
+    "lon": 121.5165284,
+    "lat": 25.047235,
+    "kind": "rail_station",
+    "osm_id": 14182322704,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      14182322704,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5165284,
+      25.047235
+    ],
+    "network_coordinate": [
+      121.5165284,
+      25.047235
+    ]
+  },
+  {
+    "id": "TRA-南2門",
+    "name": "台北車站南2門",
+    "lon": 121.5169949,
+    "lat": 25.0471552,
+    "kind": "rail_station",
+    "osm_id": 14182322706,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      14182322706,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5169949,
+      25.0471552
+    ],
+    "network_coordinate": [
+      121.5169949,
+      25.0471552
+    ]
+  },
+  {
+    "id": "TRA-南1門",
+    "name": "台北車站南1門",
+    "lon": 121.5174216,
+    "lat": 25.0470823,
+    "kind": "rail_station",
+    "osm_id": 14182322708,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      14182322708,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5174216,
+      25.0470823
+    ],
+    "network_coordinate": [
+      121.5174216,
+      25.0470823
+    ]
+  },
+  {
+    "id": "TRA-東3門",
+    "name": "台北車站東3門",
+    "lon": 121.5178288,
+    "lat": 25.0473339,
+    "kind": "rail_station",
+    "osm_id": 14182322710,
+    "coordinate_basis": "OSM source point",
     "node": [
       14182322710,
       "surface"
     ],
     "side": "S",
-    "target_offset_m": 22.26,
-    "sample_valid": true,
-    "lon": 121.5178288,
-    "lat": 25.0473339
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5178288,
+      25.0473339
+    ],
+    "network_coordinate": [
+      121.5178288,
+      25.0473339
+    ]
+  },
+  {
+    "id": "TRA-東2門",
+    "name": "台北車站東2門",
+    "lon": 121.5178814,
+    "lat": 25.0475867,
+    "kind": "rail_station",
+    "osm_id": 14182322712,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      14182322712,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5178814,
+      25.0475867
+    ],
+    "network_coordinate": [
+      121.5178814,
+      25.0475867
+    ]
+  },
+  {
+    "id": "TRA-東1門",
+    "name": "台北車站東1門",
+    "lon": 121.517942,
+    "lat": 25.0478772,
+    "kind": "rail_station",
+    "osm_id": 14182322715,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      14182322715,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.517942,
+      25.0478772
+    ],
+    "network_coordinate": [
+      121.517942,
+      25.0478772
+    ]
+  },
+  {
+    "id": "TRA-北1門",
+    "name": "台北車站北1門",
+    "lon": 121.5177089,
+    "lat": 25.0481982,
+    "kind": "rail_station",
+    "osm_id": 14182322717,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      14182322717,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.5177089,
+      25.0481982
+    ],
+    "network_coordinate": [
+      121.5177089,
+      25.0481982
+    ]
+  },
+  {
+    "id": "TRA-北3門",
+    "name": "台北車站北3門",
+    "lon": 121.516769,
+    "lat": 25.048359,
+    "kind": "rail_station",
+    "osm_id": 14182322720,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      14182322720,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "source_node_on_ground_graph",
+    "attachment_distance_m": 0,
+    "source_coordinate": [
+      121.516769,
+      25.048359
+    ],
+    "network_coordinate": [
+      121.516769,
+      25.048359
+    ]
+  },
+  {
+    "id": "C1",
+    "name": "京站承德門周邊",
+    "lon": 121.51704,
+    "lat": 25.0493,
+    "kind": "commercial",
+    "osm_id": null,
+    "coordinate_basis": "named street-frontage selection anchor; approximate, not surveyed door",
+    "frontage_proxy": true,
+    "node": [
+      -666,
+      "od_ground_attachment"
+    ],
+    "side": "N",
+    "attachment_status": "frontage_proxy_on_source_ground",
+    "attachment_distance_m": 17.618348268111585,
+    "source_coordinate": [
+      121.51704,
+      25.0493
+    ],
+    "network_coordinate": [
+      121.51686962341387,
+      25.049334799354977
+    ]
+  },
+  {
+    "id": "C2",
+    "name": "華陰街×太原路",
+    "lon": 121.51516,
+    "lat": 25.05021,
+    "kind": "commercial",
+    "osm_id": null,
+    "coordinate_basis": "named street-frontage selection anchor; approximate, not surveyed door",
+    "frontage_proxy": true,
+    "node": [
+      -667,
+      "od_ground_attachment"
+    ],
+    "side": "N",
+    "attachment_status": "frontage_proxy_on_source_ground",
+    "attachment_distance_m": 0.7027703630690242,
+    "source_coordinate": [
+      121.51516,
+      25.05021
+    ],
+    "network_coordinate": [
+      121.51516185040775,
+      25.0502161166116
+    ]
+  },
+  {
+    "id": "C3",
+    "name": "華陰街×重慶北路",
+    "lon": 121.51375,
+    "lat": 25.05048,
+    "kind": "commercial",
+    "osm_id": null,
+    "coordinate_basis": "named street-frontage selection anchor; approximate, not surveyed door",
+    "frontage_proxy": true,
+    "node": [
+      -668,
+      "od_ground_attachment"
+    ],
+    "side": "N",
+    "attachment_status": "frontage_proxy_on_source_ground",
+    "attachment_distance_m": 1.4016066954772473,
+    "source_coordinate": [
+      121.51375,
+      25.05048
+    ],
+    "network_coordinate": [
+      121.51374744473068,
+      25.050467562203266
+    ]
+  },
+  {
+    "id": "C5",
+    "name": "南陽街×許昌街",
+    "lon": 121.51612,
+    "lat": 25.04551,
+    "kind": "commercial",
+    "osm_id": null,
+    "coordinate_basis": "named street-frontage selection anchor; approximate, not surveyed door",
+    "frontage_proxy": true,
+    "node": [
+      5813486265,
+      "surface"
+    ],
+    "side": "S",
+    "attachment_status": "frontage_proxy_on_source_ground",
+    "attachment_distance_m": 7.724850345296239,
+    "source_coordinate": [
+      121.51612,
+      25.04551
+    ],
+    "network_coordinate": [
+      121.5161853,
+      25.0455464
+    ]
+  },
+  {
+    "id": "C7",
+    "name": "善導寺忠孝東路入口周邊",
+    "lon": 121.52528,
+    "lat": 25.04453,
+    "kind": "commercial",
+    "osm_id": null,
+    "coordinate_basis": "named street-frontage selection anchor; approximate, not surveyed door",
+    "frontage_proxy": true,
+    "node": [
+      -669,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "frontage_proxy_on_source_ground",
+    "attachment_distance_m": 1.8732222964083145,
+    "source_coordinate": [
+      121.52528,
+      25.04453
+    ],
+    "network_coordinate": [
+      121.52527522175305,
+      25.04451365833312
+    ]
+  },
+  {
+    "id": "BT",
+    "name": "台北轉運站市民大道旅客入口周邊",
+    "lon": 121.51853,
+    "lat": 25.04874,
+    "kind": "bus_terminal",
+    "osm_id": null,
+    "coordinate_basis": "named street-frontage selection anchor; approximate, not surveyed door",
+    "frontage_proxy": true,
+    "node": [
+      -670,
+      "od_ground_attachment"
+    ],
+    "side": "N",
+    "attachment_status": "frontage_proxy_on_source_ground",
+    "attachment_distance_m": 11.21834528367066,
+    "source_coordinate": [
+      121.51853,
+      25.04874
+    ],
+    "network_coordinate": [
+      121.51851042436883,
+      25.0486403028548
+    ]
+  },
+  {
+    "id": "C4",
+    "name": "新光三越站前店地面入口",
+    "lon": 121.5151877,
+    "lat": 25.046316,
+    "kind": "commercial",
+    "osm_id": 5644385151,
+    "coordinate_basis": "OSM source point",
+    "node": [
+      -671,
+      "od_ground_attachment"
+    ],
+    "side": "S",
+    "attachment_status": "nearby_ground_attachment_conditional",
+    "attachment_distance_m": 2.5952010475095033,
+    "source_coordinate": [
+      121.5151877,
+      25.046316
+    ],
+    "network_coordinate": [
+      121.51518778547366,
+      25.04633942941117
+    ]
   }
 ]

@@ -7,7 +7,7 @@ inverse=Transformer.from_crs(3826,4326,always_xy=True).transform
 node_tags=json.load(open(D/'ground-node-tags.json'))
 width_rows=json.load(gzip.open(ROOT/'taipei-site-analysis/maps/infrastructure/full-corridor/road-width-basis.json.gz','rt'))
 widths={e['id']:e for e in width_rows}
-local=lambda e:any(121.508<p['lon']<121.5215 and 25.047<p['lat']<25.053 for p in e.get('geometry',[]))
+local=lambda e:any(121.508<p['lon']<121.5265 and 25.0425<p['lat']<25.053 for p in e.get('geometry',[]))
 roadtypes={'primary','secondary','tertiary','residential','unclassified','service','living_street'}
 roads=[e for e in ways if e.get('tags',{}).get('highway') in roadtypes and local(e) and grade(e['tags'])=='surface']
 road_by_id={e["id"]:e for e in roads}
