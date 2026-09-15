@@ -1,0 +1,12 @@
+{
+  "A": {
+    "sum_route_m": 43731.144405400744,
+    "frequency_weighted_segment_m": 43731.14441034955,
+    "difference_m": 4.948808054905385e-06
+  },
+  "B": {
+    "sum_route_m": 42669.77837343406,
+    "frequency_weighted_segment_m": 42669.77837838287,
+    "difference_m": 4.948808054905385e-06
+  }
+}

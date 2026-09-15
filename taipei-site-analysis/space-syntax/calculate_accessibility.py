@@ -141,4 +141,5 @@ for case,g in [('A',A),('B',B)]:
 report='# A／B 可達性：來源路網試算\n\n已計算，但不是完整現況模型，也不是 Space Syntax NAIN/NACH。採同一固定南北起訖點，以 Dijkstra 求最短水平投影路徑。\n\n'+'天橋官方存在依據：https://bridge.nco.taipei/bms2/guest/Footbridge/inventory.aspx?vid=64 。源線形為OSM，落點未全部現勘。本輪地面修復含推定幾何，不能外推全段。\n\n'+json.dumps(summary,ensure_ascii=False,indent=2)+'\n\nCSV空白為來源網絡無路徑，不能解讀為現地不能走。未填補未知高程或直接用示意圖像素量距。A、B圖為同範圍同比例向量圖，橘色是同編號南北樣點路徑，藍色是B新增來源邊。\n'
 (OUT/'README.md').write_text(report)
 exec(compile((D/'render_accessibility_page.py').read_text(),str(D/'render_accessibility_page.py'),'exec'))
+exec(compile((D/'render_route_heatmap.py').read_text(),str(D/'render_route_heatmap.py'),'exec'))
 print(json.dumps(summary,ensure_ascii=False,indent=2))
