@@ -1,5 +1,5 @@
 {
-  "PROJECT_INSTRUCTIONS.md": "540a2e7d647acecddc2e6d340fd7a973482c44a62d8e575849bf3774527964d6",
+  "PROJECT_INSTRUCTIONS.md": "6f158da864c0e00d83d2ca437026f55e0d379302d7847cc8b85caa29d7188ec9",
   "COMMANDS.md": "d7f6a9e6d96ebfba5b2234ccc0cb6f27c6d2beb75fdc048138ba5d6323efc01f",
   "requirements.txt": "b4c099d695a1657b31c537a918106350d53c448e788a4900318c7bb1ee54a809",
   ".gitignore": "077bb02bc91dd8bed8abae35861f5ba47ada75ea16a6ed31208b33e84eacfe67",
@@ -113,10 +113,14 @@
   "taipei-site-analysis/maps/infrastructure/full-corridor/transport-classification.json": "aeeceafbc4e6a2fe2b460c1c9e511ded33099916c3283c6000e1c01d1e090174",
   "integrate_taipei.py": "aebdaef6504c0913dbffd1b2f349d94f1ba1943145fa8eadf40948d7d1e77669",
   "dist/index.html": "5d68eac42a47960a1eb7c3c762424688ab7f418068583e6905bc7d2890f792e9",
-  "taipei-site-analysis/index.html": "8e146348bc4e4e30debc1264294cf190cc5a2f5d3b49e0711a2c8fbc30d2ae98",
+  "taipei-site-analysis/index.html": "4531f0f39c23f782ec73af2bb57745b2f710293eafceda5e7a67c1758a927741",
   "taipei-site-analysis/analysis.css": "f1caab8da3842f3edd3cfc42c00941ae5c152e63a6bbc83febfd3d0043b91410",
   "taipei-site-analysis/analysis.js": "11bf5ca6db2309a1d4914a4730bbb6ed282796935e3a9857fe7f6d728e5718e1",
   "taipei-site-analysis/DIAGNOSTIC_FRAMEWORK.md": "6c52f4ec9d3edd783529fbbb3b2a6dd79dfbdd7608cff0765b6370f49c4b6b86",
   "taipei-site-analysis/maps/infrastructure/full-corridor/water-render-audit.json": "e1a2b8a4ef76a64fa058bb6a73fbd39847b43a3e2debc07d731e88c19a7440d2",
-  "taipei-site-analysis/maps/infrastructure/full-corridor/water-geometry.json.gz": "bf3edc21167f2ad9e0def7523e231527c6ed244a23286d9382af51d9681ec7c4"
+  "taipei-site-analysis/maps/infrastructure/full-corridor/water-geometry.json.gz": "bf3edc21167f2ad9e0def7523e231527c6ed244a23286d9382af51d9681ec7c4",
+  "taipei-site-analysis/space-syntax/README.md": "4ced4614723c5a29f8d53b441acaa1303072b50447d572ce9c7f2da58c23920d",
+  "taipei-site-analysis/space-syntax/facility-register.json": "1811deaf7c49a6ac1c283c696467aaa88eb8c748b84a80a1ad58f85fb488da8d",
+  "taipei-site-analysis/space-syntax/index.html": "b89a70158ae99a4e4966f92505c1030614415055339991f21baa9e3a01cfe5e4",
+  "taipei-site-analysis/space-syntax/parameters.json": "2a3acb8ddb9b745973ea8b13a7a125dd3115debfad9b2b6354039cd35ff99d6f"
 }

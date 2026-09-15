@@ -1,0 +1,66 @@
+{
+  "status": "proposed_not_executed",
+  "pilot": "北門—台北車站，含承德市民天橋及地下街介面",
+  "crs": "EPSG:3826",
+  "horizontal_unit": "m",
+  "vertical_datum": null,
+  "level_height_assumption": null,
+  "metric_radii_m": [
+    400,
+    800,
+    1600
+  ],
+  "context_buffer_initial_m": 2000,
+  "boundary_sensitivity_required": true,
+  "planar_baseline": {
+    "method": "angular_segment",
+    "proposed_engine": "depthmapX",
+    "version": null,
+    "tulip_bins": 1024,
+    "choice": true
+  },
+  "multilevel": {
+    "engine": "not_selected_or_verified",
+    "scenarios": [
+      "A_surface_only",
+      "B_surface_plus_verified_bridges_and_underground"
+    ],
+    "connection_rule": "explicit verified physical access only; no XY intersection auto-connection",
+    "missing_access": "unknown, not confirmed closed",
+    "vertical_time_cost": null,
+    "elevator_wait_seconds": null,
+    "walking_speed": null,
+    "metrics": [
+      "connectivity",
+      "level_changes",
+      "route_distance_when_geometry_verified",
+      "detour_vs_same_OD_baseline"
+    ],
+    "do_not_label_custom_metrics_as_NAIN_NACH": true,
+    "secondary_checks": [
+      "opening_hours",
+      "stairs_and_elevator_conditions"
+    ]
+  },
+  "release_gates": [
+    "核實入口坐標與地面合法穿越",
+    "逐段核對上下層端點、閘門與時段",
+    "記錄高程或明示只做拓撲",
+    "稽核斷線、重複線及立體誤接",
+    "確認工具版本、三維角度定義及小型已知網絡驗證"
+  ],
+  "comparison": {
+    "same_origins_destinations": true,
+    "same_surface_graph": true,
+    "same_extent_radii_and_cost_definition": true,
+    "B_additions_only": "verified publicly traversable bridges, underground paths and their connectors",
+    "unknown_links": "exclude from confirmed B, list as unknown; do not infer physical disconnection",
+    "outputs": [
+      "A and B side-by-side with shared colour scale",
+      "B minus A change for the same north-south OD pairs",
+      "reachable pairs and disconnected pairs",
+      "route distance and detour where verified geometry exists"
+    ],
+    "conditional_B": "state time window and access assumptions; no unverified all-day availability"
+  }
+}

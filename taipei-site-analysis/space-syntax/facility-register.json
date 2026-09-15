@@ -1,0 +1,360 @@
+{
+  "status": "preflight_only",
+  "not_a_routable_network": true,
+  "records": [
+    {
+      "id": "BM-E1",
+      "name": "北門出口 1",
+      "kind": "exit",
+      "served_levels": null,
+      "facilities": [
+        "stairs",
+        "escalator_up"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/105/1",
+      "review_date": "2026-09-15",
+      "evidence": "official_facility_listing",
+      "geometry": null,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "analysis_ready": false,
+      "notes": "地下停靠層及非付費路徑待逐段核實；出口設備存在不代表完整無障礙旅程。"
+    },
+    {
+      "id": "BM-E2",
+      "name": "北門出口 2",
+      "kind": "exit",
+      "served_levels": null,
+      "facilities": [
+        "stairs",
+        "escalator_up",
+        "elevator"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/105/1",
+      "review_date": "2026-09-15",
+      "evidence": "official_facility_listing",
+      "geometry": null,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "analysis_ready": false,
+      "notes": "地下停靠層及非付費路徑待逐段核實；出口設備存在不代表完整無障礙旅程。"
+    },
+    {
+      "id": "BM-E3",
+      "name": "北門出口 3",
+      "kind": "exit",
+      "served_levels": null,
+      "facilities": [
+        "stairs",
+        "escalator_up",
+        "elevator"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/105/1",
+      "review_date": "2026-09-15",
+      "evidence": "official_facility_listing",
+      "geometry": null,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "analysis_ready": false,
+      "notes": "地下停靠層及非付費路徑待逐段核實；出口設備存在不代表完整無障礙旅程。"
+    },
+    {
+      "id": "TP-M1",
+      "name": "台北車站 M1",
+      "kind": "exit",
+      "served_levels": null,
+      "facilities": [
+        "stairs",
+        "escalator_up_down"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
+      "review_date": "2026-09-15",
+      "evidence": "official_facility_listing",
+      "geometry": null,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "analysis_ready": false,
+      "notes": "設備依官方出口表；出口與獨立電梯需核對，不能重複計為兩條無障礙連接。"
+    },
+    {
+      "id": "TP-M2",
+      "name": "台北車站 M2",
+      "kind": "exit",
+      "served_levels": null,
+      "facilities": [
+        "stairs",
+        "escalator_up_down",
+        "elevator"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
+      "review_date": "2026-09-15",
+      "evidence": "official_facility_listing",
+      "geometry": null,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "analysis_ready": false,
+      "notes": "設備依官方出口表；出口與獨立電梯需核對，不能重複計為兩條無障礙連接。"
+    },
+    {
+      "id": "TP-M3",
+      "name": "台北車站 M3",
+      "kind": "exit",
+      "served_levels": null,
+      "facilities": [
+        "escalator_up_down"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
+      "review_date": "2026-09-15",
+      "evidence": "official_facility_listing",
+      "geometry": null,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "analysis_ready": false,
+      "notes": "設備依官方出口表；出口與獨立電梯需核對，不能重複計為兩條無障礙連接。"
+    },
+    {
+      "id": "TP-M4",
+      "name": "台北車站 M4",
+      "kind": "exit",
+      "served_levels": null,
+      "facilities": [
+        "escalator_up_down",
+        "elevator"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
+      "review_date": "2026-09-15",
+      "evidence": "official_facility_listing",
+      "geometry": null,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "analysis_ready": false,
+      "notes": "設備依官方出口表；出口與獨立電梯需核對，不能重複計為兩條無障礙連接。"
+    },
+    {
+      "id": "TP-M5",
+      "name": "台北車站 M5",
+      "kind": "exit",
+      "served_levels": null,
+      "facilities": [
+        "escalator_up_down"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
+      "review_date": "2026-09-15",
+      "evidence": "official_facility_listing",
+      "geometry": null,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "analysis_ready": false,
+      "notes": "設備依官方出口表；出口與獨立電梯需核對，不能重複計為兩條無障礙連接。"
+    },
+    {
+      "id": "TP-M6",
+      "name": "台北車站 M6",
+      "kind": "exit",
+      "served_levels": null,
+      "facilities": [
+        "stairs"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
+      "review_date": "2026-09-15",
+      "evidence": "official_facility_listing",
+      "geometry": null,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "analysis_ready": false,
+      "notes": "設備依官方出口表；出口與獨立電梯需核對，不能重複計為兩條無障礙連接。"
+    },
+    {
+      "id": "TP-M7",
+      "name": "台北車站 M7",
+      "kind": "exit",
+      "served_levels": null,
+      "facilities": [
+        "stairs"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
+      "review_date": "2026-09-15",
+      "evidence": "official_facility_listing",
+      "geometry": null,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "analysis_ready": false,
+      "notes": "設備依官方出口表；出口與獨立電梯需核對，不能重複計為兩條無障礙連接。"
+    },
+    {
+      "id": "TP-M8",
+      "name": "台北車站 M8",
+      "kind": "exit",
+      "served_levels": null,
+      "facilities": [
+        "escalator_up_down"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
+      "review_date": "2026-09-15",
+      "evidence": "official_facility_listing",
+      "geometry": null,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "analysis_ready": false,
+      "notes": "設備依官方出口表；出口與獨立電梯需核對，不能重複計為兩條無障礙連接。"
+    },
+    {
+      "id": "TP-L1",
+      "name": "台北車站 1 號電梯",
+      "kind": "elevator",
+      "served_levels": [
+        "B2",
+        "B4"
+      ],
+      "facilities": [
+        "elevator"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
+      "review_date": "2026-09-15",
+      "evidence": "official_facility_listing",
+      "geometry": null,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "analysis_ready": false,
+      "notes": "官方列示端點；中間停靠、閘門界面與實際運轉待查，不推定可跨越非付費區。"
+    },
+    {
+      "id": "TP-L2",
+      "name": "台北車站 2 號電梯",
+      "kind": "elevator",
+      "served_levels": [
+        "B3",
+        "B4"
+      ],
+      "facilities": [
+        "elevator"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
+      "review_date": "2026-09-15",
+      "evidence": "official_facility_listing",
+      "geometry": null,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "analysis_ready": false,
+      "notes": "官方列示端點；中間停靠、閘門界面與實際運轉待查，不推定可跨越非付費區。"
+    },
+    {
+      "id": "TP-L3",
+      "name": "台北車站 3 號電梯",
+      "kind": "elevator",
+      "served_levels": [
+        "G",
+        "B3"
+      ],
+      "facilities": [
+        "elevator"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
+      "review_date": "2026-09-15",
+      "evidence": "official_facility_listing",
+      "geometry": null,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "analysis_ready": false,
+      "notes": "官方列示端點；中間停靠、閘門界面與實際運轉待查，不推定可跨越非付費區。"
+    },
+    {
+      "id": "TP-L4",
+      "name": "台北車站 4 號電梯",
+      "kind": "elevator",
+      "served_levels": [
+        "B1",
+        "B2"
+      ],
+      "facilities": [
+        "elevator"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
+      "review_date": "2026-09-15",
+      "evidence": "official_facility_listing",
+      "geometry": null,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "analysis_ready": false,
+      "notes": "官方列示端點；中間停靠、閘門界面與實際運轉待查，不推定可跨越非付費區。"
+    },
+    {
+      "id": "TP-L5",
+      "name": "台北車站 5 號電梯",
+      "kind": "elevator",
+      "served_levels": [
+        "G",
+        "B1"
+      ],
+      "facilities": [
+        "elevator"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
+      "review_date": "2026-09-15",
+      "evidence": "official_facility_listing",
+      "geometry": null,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "analysis_ready": false,
+      "notes": "官方列示端點；中間停靠、閘門界面與實際運轉待查，不推定可跨越非付費區。"
+    },
+    {
+      "id": "TP-L6",
+      "name": "台北車站 6 號電梯",
+      "kind": "elevator",
+      "served_levels": [
+        "B2",
+        "B3"
+      ],
+      "facilities": [
+        "elevator"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
+      "review_date": "2026-09-15",
+      "evidence": "official_facility_listing",
+      "geometry": null,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "analysis_ready": false,
+      "notes": "官方列示端點；中間停靠、閘門界面與實際運轉待查，不推定可跨越非付費區。"
+    },
+    {
+      "id": "TP-L7",
+      "name": "台北車站 7 號電梯",
+      "kind": "elevator",
+      "served_levels": [
+        "B1",
+        "B2"
+      ],
+      "facilities": [
+        "elevator"
+      ],
+      "source": "https://web.metro.taipei/pages2026/WebStation/051/1",
+      "review_date": "2026-09-15",
+      "evidence": "official_facility_listing",
+      "geometry": null,
+      "z_m": null,
+      "opening_hours": null,
+      "operational_status": null,
+      "analysis_ready": false,
+      "notes": "官方列示端點；中間停靠、閘門界面與實際運轉待查，不推定可跨越非付費區。"
+    }
+  ]
+}
