@@ -1,5 +1,5 @@
 {
-  "PROJECT_INSTRUCTIONS.md": "808381fa226afeec9385f104386ecc9523de59a6442edfabf1121a03302a0e87",
+  "PROJECT_INSTRUCTIONS.md": "52d2309c1c8edb20162d96ace6d2a6c5e8285bfe11cdda2a412b63cb72bd64fc",
   "COMMANDS.md": "d7f6a9e6d96ebfba5b2234ccc0cb6f27c6d2beb75fdc048138ba5d6323efc01f",
   "requirements.txt": "b4c099d695a1657b31c537a918106350d53c448e788a4900318c7bb1ee54a809",
   ".gitignore": "077bb02bc91dd8bed8abae35861f5ba47ada75ea16a6ed31208b33e84eacfe67",
@@ -119,11 +119,11 @@
   "taipei-site-analysis/DIAGNOSTIC_FRAMEWORK.md": "6c52f4ec9d3edd783529fbbb3b2a6dd79dfbdd7608cff0765b6370f49c4b6b86",
   "taipei-site-analysis/maps/infrastructure/full-corridor/water-render-audit.json": "e1a2b8a4ef76a64fa058bb6a73fbd39847b43a3e2debc07d731e88c19a7440d2",
   "taipei-site-analysis/maps/infrastructure/full-corridor/water-geometry.json.gz": "bf3edc21167f2ad9e0def7523e231527c6ed244a23286d9382af51d9681ec7c4",
-  "taipei-site-analysis/space-syntax/README.md": "96bdf8aa841ee27364ed27a198500f95e9fffd103e579819afd68ad41418e50b",
-  "taipei-site-analysis/space-syntax/facility-register.json": "ff179db721d12e611b5f9bed9fa1ea366591412b59e054ffac44c24929f407d9",
-  "taipei-site-analysis/space-syntax/index.html": "f6398ccb323579acbb1e38bacadf8aa8cc6857f348758c8f0fc415bb9e1c1e0e",
-  "taipei-site-analysis/space-syntax/parameters.json": "8a2ba3c94290ea74fe252e27ecda587e9b928fc5eb061a4fbf7ccb5ddae74ff6",
-  "taipei-site-analysis/space-syntax/VERIFICATION_REPORT.md": "0544f890e0d7f4c7f1bd870a89338982497ad15f782850569fa4adffdeb1523f",
+  "taipei-site-analysis/space-syntax/README.md": "cdceb0a6a9fb8f10991c3b0ac0ec05a858ab82cfcd2714a8100b2e7fe44c8462",
+  "taipei-site-analysis/space-syntax/facility-register.json": "0d6bc2fbcf1ea430ead9ec57a7eceb359f632c62af4bd6770eba4b67d31e8cec",
+  "taipei-site-analysis/space-syntax/index.html": "6514e2a13531f15a4532d289d6463f886656e5a3b6234a3279aa8454b004ea5e",
+  "taipei-site-analysis/space-syntax/parameters.json": "4826242ffbb02b3253dc087438e5bb08df8bfe7d40c9e04237d7f4c230933b02",
+  "taipei-site-analysis/space-syntax/VERIFICATION_REPORT.md": "3dac7688903eebd0c2c253ceb7a41b7f99360f1645fa44076a79f986dbabd8d6",
   "taipei-site-analysis/space-syntax/candidate-access-points.geojson": "416a48a05d53cc3e30c0a487b25dfd0a943b3654e051f722a9d16c0229467859",
   "taipei-site-analysis/space-syntax/candidate-paths.geojson": "85465193587fd3c25cf92b52abe21f78ef876a173481042d6060fe6d804ae070",
   "taipei-site-analysis/space-syntax/maintenance-pilot.json": "a8b18aa3486cbf540bd4036ac867155dcc8fe4b961d361440c0d4834e519ced5",
@@ -141,7 +141,8 @@
   "taipei-site-analysis/space-syntax/sources/maintenance.csv": "a01bb65f84439c9c53761f72f98b602c29ce2de4f8292ee14a56887fe51c9f5f",
   "taipei-site-analysis/space-syntax/sources/manifest.json": "8b5deb755b334b2f88bba17c2596f57980231e0f3e6a72f3d4096ccb48035d48",
   "taipei-site-analysis/space-syntax/sources/taipei-section.jpg": "44e6e5bf838a11679425072584fd73b330642560e57163f63f6326b32554b96d",
-  "taipei-site-analysis/space-syntax/verification-checklist.json": "ccbc5967617ac883ddc6871fe4275af7d66d98df8e1124088a3859d0666395d3",
+  "taipei-site-analysis/space-syntax/verification-checklist.json": "6e5722c012e4c50a413ccc49a27525d87e5ff4aab511c80f031a74f6da6d1ca4",
   "taipei-site-analysis/space-syntax/visual-review.json": "8da50f7c7a09b9077185c84a528f954ab24f800b90e8983ef189d3164a3f8a50",
-  "taipei-site-analysis/市民大道分析:其他國家案例分析.html": "4531f0f39c23f782ec73af2bb57745b2f710293eafceda5e7a67c1758a927741"
+  "taipei-site-analysis/市民大道分析:其他國家案例分析.html": "4531f0f39c23f782ec73af2bb57745b2f710293eafceda5e7a67c1758a927741",
+  "taipei-site-analysis/space-syntax/USER_CONDITIONS.md": "3ef3fd4b8aa49e4334da5046e6f5d0420b3543d4719a0e7de275aaeb20da3b5e"
 }

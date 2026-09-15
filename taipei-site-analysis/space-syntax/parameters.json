@@ -1,5 +1,5 @@
 {
-  "status": "proposed_not_executed",
+  "status": "user_conditions_adopted_geometry_preparation_pending",
   "pilot": "北門—台北車站，含承德市民天橋及地下街介面",
   "crs": "EPSG:3826",
   "horizontal_unit": "m",
@@ -77,5 +77,60 @@
     "fixed_surface_OD_sample": true,
     "centrality_caution": "新增路網改變節點集合與標準化分母；固定地面OD的連通／距離差為直接比較，不能將不同引擎的NAIN/NACH相減"
   },
-  "B_analysis_ready": false
+  "B_analysis_ready": false,
+  "user_conditions": {
+    "date": "2026-09-15",
+    "source": "user_confirmation_and_model_assumptions",
+    "closed_exits": {
+      "ids": [
+        "A1-E2",
+        "A1-E4",
+        "A1-E7",
+        "Y18",
+        "Y22"
+      ],
+      "status": "still_closed_user_confirmed"
+    },
+    "surface_access": {
+      "construction_perimeter_temporary_sidewalks": true,
+      "beiping_west_sidewalk_and_zebra_crossings": true,
+      "applies_to": [
+        "A",
+        "B"
+      ],
+      "evidence": "user_confirmed_access",
+      "exact_alignment": "to_trace_not_fabricate"
+    },
+    "Y_mall_hours": {
+      "evidence": "user_defined_scenario_not_verified_operating_hours",
+      "opens_before_shop_minutes": 30,
+      "closes_after_shop_minutes": 30,
+      "weekday_nonholiday": "10:30-22:00",
+      "weekend_or_public_holiday": "10:30-22:30",
+      "other_operators": "retain separately documented restrictions; do not override with mall hours"
+    },
+    "A1_east_connection": {
+      "destination": "台北車站地下公共通道",
+      "fare_required": false,
+      "evidence": "user_confirmed_free_connection",
+      "stairs_and_lifts": "trace official A1 diagram sources/a1-3d.png; preserve B1M/B1 and paid-area boundary"
+    },
+    "space_classification": {
+      "open_space": "plaza_plane",
+      "elongated_space": "corridor",
+      "evidence": "user_defined_geometry_interpretation",
+      "obstacles": "retain actual walls, fare gates, voids and other nonwalkable areas",
+      "unmeasured_z": "unknown_not_zero"
+    },
+    "ramp_rule": {
+      "ratio": "absolute vertical difference / horizontal route run",
+      "strict_threshold": 0.08333333333333333,
+      "if_positive_below_threshold": "inferred_ramp_only_where_continuous_walkable_surface_is_supported",
+      "if_zero": "flat",
+      "if_missing_height_or_run": "unknown_do_not_classify",
+      "if_equal_or_above_threshold": "pending_user_clarification_do_not_automatically_create_stairs",
+      "evidence": "user_defined_modelling_rule_not_measured_ramp_or_compliance_claim",
+      "vertical_connector_warning": "do not apply to elevator shafts or stairs explicitly shown by official diagram"
+    }
+  }
 }

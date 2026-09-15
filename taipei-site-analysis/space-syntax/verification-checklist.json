@@ -35,23 +35,23 @@
     {
       "id": "05",
       "item": "機捷接續與付費區",
-      "status": "文件確認",
-      "finding": "A1 有B1M、B1、B2M，不能把各站同名B1視作同高程；公共接續避開紫色付費區。",
-      "source": "sources/a1-3d.png"
+      "status": "圖面＋使用者確認",
+      "finding": "機捷東側可免費由地下進台北車站；樓梯與電梯依官方A1示意圖定位，精確線形另處理。",
+      "source": "USER_CONDITIONS.md"
     },
     {
       "id": "06",
       "item": "施工出口管制",
-      "status": "文件確認",
-      "finding": "A1 2/4/7、Y18/Y22 不納入已確認可通行 B；重開日期未取得。",
-      "source": "https://english.udd.gov.taipei/News_Content.aspx?n=6E18BA96F3CB0148&s=E01BE4B5DB1363E6&sms=87415A8B9CE81B16"
+      "status": "使用者確認",
+      "finding": "A1 2/4/7、Y18/Y22 仍封閉，排除 B；使用者另確認工區臨時人行道與北平西路人行道、斑馬線可走，A/B共用。",
+      "source": "USER_CONDITIONS.md"
     },
     {
       "id": "07",
       "item": "地下街通行時段",
-      "status": "未確認",
-      "finding": "商店營業時段與停車場24小時，均不足以證明各地下通道時段；需管理資料／現勘。",
-      "source": "https://www.tcma.gov.taipei/News_Content.aspx?n=0D4E37187A7154F0&s=3CDB32A9AC16BEEA&sms=42464882E656FEC0"
+      "status": "情境已設定",
+      "finding": "依使用者指定：商店開門前30分鐘至打烊後30分鐘；Y區平日10:30–22:00，週末／假日10:30–22:30。這是分析假設。",
+      "source": "USER_CONDITIONS.md"
     },
     {
       "id": "08",
@@ -88,5 +88,6 @@
       "finding": "PATH與Applications未找到depthmapX/sDNA；尚未安裝或驗證引擎。不得以自製中心性冒充NAIN/NACH。",
       "source": "https://sdna-open.readthedocs.io/en/latest/network_preparation.html"
     }
-  ]
+  ],
+  "user_update": "2026-09-15"
 }

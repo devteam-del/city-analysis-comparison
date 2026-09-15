@@ -1,5 +1,5 @@
 {
-  "status": "document_crosscheck_complete_field_and_geometry_pending",
+  "status": "user_access_confirmations_adopted_geometry_pending",
   "not_a_routable_network": true,
   "records": [
     {
@@ -610,13 +610,14 @@
       "source": "https://www.tymetro.com.tw/tymetro-new/tw/_pages/travel-guide/A1",
       "level_evidence": "官方立體圖，尚未配準",
       "evidence": "official_plan_and_construction_notice",
-      "operational_status": "construction_restricted",
+      "operational_status": "closed_user_confirmed",
       "opening_hours": null,
       "station_hours": "05:00 至末班車（不等於每條通道時段）",
       "analysis_ready": false,
       "exclude_confirmed_B": true,
       "restriction_source": "https://english.udd.gov.taipei/News_Content.aspx?n=6E18BA96F3CB0148&s=E01BE4B5DB1363E6&sms=87415A8B9CE81B16",
-      "notes": "工程局 2026-08-31 公告優先於一般出口清單；立體圖亦標 2/4/7 暫不開放。"
+      "notes": "工程局 2026-08-31 公告優先於一般出口清單；立體圖亦標 2/4/7 暫不開放。",
+      "user_confirmation_date": "2026-09-15"
     },
     {
       "id": "A1-E3",
@@ -658,13 +659,14 @@
       "source": "https://www.tymetro.com.tw/tymetro-new/tw/_pages/travel-guide/A1",
       "level_evidence": "官方立體圖，尚未配準",
       "evidence": "official_plan_and_construction_notice",
-      "operational_status": "construction_restricted",
+      "operational_status": "closed_user_confirmed",
       "opening_hours": null,
       "station_hours": "05:00 至末班車（不等於每條通道時段）",
       "analysis_ready": false,
       "exclude_confirmed_B": true,
       "restriction_source": "https://english.udd.gov.taipei/News_Content.aspx?n=6E18BA96F3CB0148&s=E01BE4B5DB1363E6&sms=87415A8B9CE81B16",
-      "notes": "工程局 2026-08-31 公告優先於一般出口清單；立體圖亦標 2/4/7 暫不開放。"
+      "notes": "工程局 2026-08-31 公告優先於一般出口清單；立體圖亦標 2/4/7 暫不開放。",
+      "user_confirmation_date": "2026-09-15"
     },
     {
       "id": "A1-E5",
@@ -729,13 +731,14 @@
       "source": "https://www.tymetro.com.tw/tymetro-new/tw/_pages/travel-guide/A1",
       "level_evidence": "官方立體圖，尚未配準",
       "evidence": "official_plan_and_construction_notice",
-      "operational_status": "construction_restricted",
+      "operational_status": "closed_user_confirmed",
       "opening_hours": null,
       "station_hours": "05:00 至末班車（不等於每條通道時段）",
       "analysis_ready": false,
       "exclude_confirmed_B": true,
       "restriction_source": "https://english.udd.gov.taipei/News_Content.aspx?n=6E18BA96F3CB0148&s=E01BE4B5DB1363E6&sms=87415A8B9CE81B16",
-      "notes": "工程局 2026-08-31 公告優先於一般出口清單；立體圖亦標 2/4/7 暫不開放。"
+      "notes": "工程局 2026-08-31 公告優先於一般出口清單；立體圖亦標 2/4/7 暫不開放。",
+      "user_confirmation_date": "2026-09-15"
     }
   ]
 }
